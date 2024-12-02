@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276.5" height="179.5" viewBox="0 0 276.5 179.5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="123" height="90.526" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_43" data-name="Group 43" transform="translate(-345.5 -212)">
+    <text id="Host" transform="translate(388 271)" fill="#1a1818" font-size="40" font-family="Lato, sans-serif" font-weight="600"><tspan x="0" y="0">Host</tspan></text>
+    <text id="Insert" transform="translate(502 347)" fill="#d8005f" font-size="40" font-family="Lato, sans-serif" font-weight="600"><tspan x="0" y="0">Insert</tspan></text>
+    <g id="Group_28" data-name="Group 28" transform="translate(496 212)">
+      <g id="Group_27" data-name="Group 27" clip-path="url(#clip-path)">
+        <path id="Path_56" data-name="Path 56" d="M49.367.773,37.748,14.815c-.081.121-.169.242-.264.359L12.16,45.781l12.809,10.6L47.693,28.919a8.248,8.248,0,0,1,11.6-1.1L72.191,38.5a8.248,8.248,0,0,1,1.1,11.6L48.01,80.643c-.062.076-.126.143-.191.211l11.093,9.181a2.128,2.128,0,0,0,3-.284L100.52,43.1a2.133,2.133,0,0,0-.284-3L52.372.489a2.136,2.136,0,0,0-3.005.284" transform="translate(21.991 0)" fill="#d8005f"/>
+        <path id="Path_57" data-name="Path 57" d="M76.032,33.94,53.308,61.4a8.248,8.248,0,0,1-11.6,1.1L28.692,51.726A8.023,8.023,0,0,1,27.8,40.3L52.991,9.854,41.825.615A2.125,2.125,0,0,0,38.833.9L.487,47.241A2.125,2.125,0,0,0,.77,50.232L48.495,89.719a2.122,2.122,0,0,0,2.991-.281l37.235-45Z" transform="translate(-0.001 0.231)" fill="#1a1818"/>
+      </g>
+    </g>
+    <line id="Line_13" data-name="Line 13" x2="32" transform="translate(347 257.5)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_14" data-name="Line 14" y2="33" transform="translate(564 357)" fill="none" stroke="#d8005f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_15" data-name="Line 15" x2="57" transform="translate(507 390)" fill="none" stroke="#d8005f" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
