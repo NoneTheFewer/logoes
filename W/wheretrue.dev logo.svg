@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.6292515mm"
+   height="5.6292496mm"
+   viewBox="0 0 5.6292515 5.6292496"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="WTT-Logo.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="11.37626"
+     inkscape:cx="41.270154"
+     inkscape:cy="18.195787"
+     inkscape:window-width="2126"
+     inkscape:window-height="1002"
+     inkscape:window-x="203"
+     inkscape:window-y="207"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.459043,-277.88006)">
+    <g
+       id="g13203"
+       inkscape:export-filename="./g2132.png"
+       inkscape:export-xdpi="145"
+       inkscape:export-ydpi="145"
+       transform="translate(-0.27957408,-3.634463)">
+      <path
+         id="rect13197"
+         style="fill:none;stroke:#ffffff;stroke-width:0"
+         d="m 36.738617,281.51453 h 5.629251 v 5.62925 h -5.629251 z" />
+      <g
+         aria-label="WTT"
+         id="text13201"
+         style="font-weight:bold;font-size:3.11491px;font-family:'Chivo Mono';-inkscape-font-specification:'Chivo Mono, Bold';fill:#0174c5;stroke-width:0.194988">
+        <path
+           d="m 37.041074,285.39758 -0.249192,-2.13683 h 0.432972 l 0.168205,1.35811 h 0.01246 l 0.17755,-1.35811 h 0.339525 l 0.17755,1.35811 h 0.01246 l 0.165091,-1.35811 h 0.383133 l -0.246077,2.13683 H 37.90079 l -0.168205,-1.24285 h -0.01246 l -0.165091,1.24285 z"
+           id="path1150" />
+        <path
+           d="m 39.339873,285.39758 v -1.72566 H 38.74804 v -0.41117 h 1.697626 v 0.41117 h -0.591833 v 1.72566 z"
+           id="path1152" />
+        <path
+           d="m 41.208814,285.39758 v -1.72566 h -0.591833 v -0.41117 h 1.697626 v 0.41117 h -0.591833 v 1.72566 z"
+           id="path1154" />
+      </g>
+    </g>
+    <g
+       id="g2132"
+       inkscape:export-filename="./g2132.png"
+       inkscape:export-xdpi="145"
+       inkscape:export-ydpi="145"
+       transform="translate(-0.27957408,-3.634463)"
+       style="fill:none">
+      <path
+         id="rect1902"
+         style="stroke:#ffffff;stroke-width:0"
+         d="m 36.738617,281.51453 h 5.629251 v 5.62925 h -5.629251 z" />
+      <g
+         aria-label="WTT"
+         id="text19411-0-7"
+         style="font-weight:bold;font-size:3.11491px;font-family:'Chivo Mono';-inkscape-font-specification:'Chivo Mono, Bold';stroke-width:0.194988">
+        <path
+           d="m 37.041074,285.39758 -0.249192,-2.13683 h 0.432972 l 0.168205,1.35811 h 0.01246 l 0.17755,-1.35811 h 0.339525 l 0.17755,1.35811 h 0.01246 l 0.165091,-1.35811 h 0.383133 l -0.246077,2.13683 H 37.90079 l -0.168205,-1.24285 h -0.01246 l -0.165091,1.24285 z"
+           id="path1158" />
+        <path
+           d="m 39.339873,285.39758 v -1.72566 H 38.74804 v -0.41117 h 1.697626 v 0.41117 h -0.591833 v 1.72566 z"
+           id="path1160" />
+        <path
+           d="m 41.208814,285.39758 v -1.72566 h -0.591833 v -0.41117 h 1.697626 v 0.41117 h -0.591833 v 1.72566 z"
+           id="path1162" />
+      </g>
+    </g>
+  </g>
+</svg>
