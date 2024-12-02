@@ -3,7 +3,6 @@
 	<style>
 		.cls0 { fill: rgb(0,0,0); }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<defs>
 		<clipPath id="__lottie_element_59">
 			<rect width="608" height="110" x="0" y="0"/>

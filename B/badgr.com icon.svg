@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 24 24" >
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<style> .cls0 { fill: #c6242b; }
 	</style>
 	<polygon points="13,0.3 2.8,6.2 2.8,9.9 4.4,9.4 9,6.9 11.8,6.5 13.7,5.2 14.5,5.45 16,6.9 20,9.3 23.2,12 23.2,6.2" class="cls0" />

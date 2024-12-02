@@ -15,7 +15,6 @@
 			<rect width="48.2" height="36.6" x="11.8" y="7" rx="3.5"/>
 		</clipPath>
 	</defs>
-	<rect name="schelin" fill="lightblue" width="100%" height="100%" />
 	<g transform="translate(-4 -6.6)">
 		<rect name="bg_border" class="grey1" width="48.2" height="36.6" x="11.8" y="7" rx="3.5"/>
 		<polygon clip-path="url(#shadow)" class="grey2a" points="

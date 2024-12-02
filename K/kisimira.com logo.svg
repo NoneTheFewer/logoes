@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<style>
 		.or { fill: #e57c29; }
 		.gr { fill: #262726; }

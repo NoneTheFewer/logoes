@@ -3,7 +3,6 @@
 	<style>
 		.cls0 { fill: #f3562c; }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<polygon name="outline" fill="none" stroke="black" stroke-width="2" points="15.7,23.3 15.7,304.7 257.4,304.7 294.1,253.6 255.3,260.6 281.7,209 245.3,222 261.7,165.3 227.2,184.8 232.7,124.7 202.4,149.5 195.7,88 170.8,118.3 156.8,61 137,95 114,41 100.3,77.5 63.3,27.5 56.7,66" />
 	<path name="seven" class="cls0" stroke="black" stroke-width="1.6" d="
 		M 39,142.8

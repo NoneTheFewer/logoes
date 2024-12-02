@@ -1,25 +1,27 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.0 24.0">
-	<style>
-		.cls0 { fill: #02053E; }
-		.cls1 { fill: #2AA6FD; }
-		.cls2 { fill: url(#linearGradient-1); }
-	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%"/>
-	<defs>
-		<linearGradient x1="0%" y1="46.0157138%" x2="100%" y2="45.6578755%" id="linearGradient-1">
-			<stop stop-color="#000000" offset="0%"/>
-			<stop stop-color="#1C38B8" offset="50.548041%"/>
-			<stop stop-color="#51A2FF" offset="100%"/>
-		</linearGradient>
-	</defs>
-	<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-5 5)">
-		<polygon points="36.0,3.2316463 35.3063129,4.684937 31.6010808,4.6639328 27.8280521,6.9803961
-            29.6045198,7.0114023
-            27.1206092,9.008551725
-            23.6519283,1.7173435
-            27.9282732,1.7783557
-            33.195775,0.0 33.195775,1.0432086 34.4239745,1.5393079 34.7452714,2.2574515" class="cls2"/>
-	</g>
+    <style>
+    .cls0 {
+        fill: #02053E;
+    }
+
+    .cls1 {
+        fill: #2AA6FD;
+    }
+
+    .cls2 {
+        fill: url(#linearGradient-1);
+    }
+    </style>
+    <defs>
+        <linearGradient x1="0%" y1="46.0157138%" x2="100%" y2="45.6578755%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%" />
+            <stop stop-color="#1C38B8" offset="50.548041%" />
+            <stop stop-color="#51A2FF" offset="100%" />
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-5 5)">
+        <polygon points="36.0,3.2316463 35.3063129,4.684937 31.6010808,4.6639328 27.8280521,6.9803961 29.6045198,7.0114023 27.1206092,9.008551725 23.6519283,1.7173435 27.9282732,1.7783557 33.195775,0.0 33.195775,1.0432086 34.4239745,1.5393079 34.7452714,2.2574515" class="cls2" />
+    </g>
     <circle cx="26" cy="9" r="6" fill="white" opacity="0.5" />
 </svg>

@@ -11,7 +11,6 @@
 		.cls7 { fill: #1c5c9f; }
 		.cls8 { fill: #233c76; }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<g>
 		<path name="5_tip" d="M 9.025,29.009 L 18.385,36.895 L 17.092,27.496 L 13,27" class="cls2"/>
 		<path name="5_hand" d="M 51.521,24.322 L 50.323,29.35 L 48.486,25.933 L 49.513,24.328" class="cls5"/>

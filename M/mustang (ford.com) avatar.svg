@@ -6,8 +6,6 @@
 	<clipPath id="myClip">
 		<rect x="54.75" y="4.445" width="53.445" height="183.85" />
 	</clipPath>
-
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<rect name="primary" x="54.75" y="4.445" width="53.445" height="183.85" fill="black" />
 	
 	<line name="ul" x1="60.75" y1="10.445" x2="54.75" y2="4.445" stroke="white" clip-path="url(#myClip)" />

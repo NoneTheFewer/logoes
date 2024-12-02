@@ -4,7 +4,6 @@
 		.cls0 { fill: url(#b); }
 		.cls1 { fill: #fff; }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<clipPath id="a">
 		<path d="M 510.23437,693.42578 L 595.27344,693.42578 L 595.27344,778.46484 L 510.23437,778.46484 L 510.23437,693.42578"/>
 	</clipPath>

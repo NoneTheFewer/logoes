@@ -4,7 +4,6 @@
 		.cls0 { fill: #4e4e4e; }
 		.cls1 { fill: #f37726; }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<g transform="translate(-1638 -2093)">
 		<g class="cls0">
 			<use xlink:href="#A" x="1688.87" y="2106.23"/>

@@ -8,7 +8,6 @@
         .grey { fill: #343434; }
         .blue { fill: #3db3d6; }
 	</style>
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%" />
 	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 		<g id="Artboard-2" transform="translate(-8.000000, -41.000000)">
 			<g id="Group-39" filter="url(#filter-1)" transform="translate(37.000000, 70.000000)">
