@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none" version="1.2" baseProfile="tiny-ps">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" version="1.2" baseProfile="tiny-ps">
     <title>Apify</title>
     <rect width="40" height="40" fill="white"></rect>
     <path d="M9.76835 8.60691C9.25071 8.67859 8.75226 8.85156 8.30149 9.11593C7.85072 9.38031 7.45645 9.73092 7.14122 10.1477C6.82599 10.5645 6.59598 11.0393 6.46432 11.5451C6.33266 12.0508 6.30193 12.5775 6.3739 13.0951L8.72546 29.8924L18.6228 7.37152L9.76835 8.60691Z" fill="#97D700"></path>
