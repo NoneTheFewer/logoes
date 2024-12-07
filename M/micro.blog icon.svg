@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="{{ include.size | default: 24 }}" height="{{ include.size | default: 24 }}" viewBox="0 0 480 480" focusable="false" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" focusable="false" aria-hidden="true">
   <defs>
     <linearGradient id="a" x1="50%" x2="50%" y1="0" y2="78%">
       <stop offset="0%" stop-color="#fb0"/>
