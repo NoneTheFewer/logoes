@@ -1,7 +1,5 @@
-<svg version="1.1" xmlns="&amp;ns_svg;" xmlns:xlink="&amp;ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="16" height="16" viewBox="-0.509 -0.967 63 68" enable-background="new -0.509 -0.967 63 68" xml:space="preserve" style="vertical-align:baseline!important;">
-<defs>
-</defs>
-<path fill="#22AEE6" d="M36.646,0C10.167,0,0,14.956,0,33.404c0,18.447,10.167,33.403,36.646,33.403V0z" style="--darkreader-inline-fill: #36b6e8;" data-darkreader-inline-fill=""></path>
-<polygon fill="#FABF00" points="61.796,25.15 61.796,0 36.646,0 " style="--darkreader-inline-fill: #ffca1d;" data-darkreader-inline-fill=""></polygon>
-<circle fill="#E5006E" cx="50.165" cy="55.265" r="11.542" style="--darkreader-inline-fill: #ff2c91;" data-darkreader-inline-fill=""></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.646 68">
+    <path fill="#22AEE6" d="M36.646,0C10.167,0,0,14.956,0,33.404c0,18.447,10.167,33.403,36.646,33.403V0z" />
+    <polygon fill="#FABF00" points="61.796,25.15 61.796,0 36.646,0 " />
+    <circle fill="#E5006E" cx="50.165" cy="55.265" r="11.542" />
 </svg>
