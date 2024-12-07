@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" fill="none" viewBox="0 0 1200 1200">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1200 1200">
   <path fill="#F14A16" d="M635.473 1187.57s-24.685-29.53-24.685-85.37h-21.356c0 55.84-24.698 85.37-24.698 85.37"/>
   <mask id="poper-favicon__a" width="148" height="137" x="526" y="1063" maskUnits="userSpaceOnUse" style="mask-type:luminance">
     <path fill="#fff" d="M526.618 1063.72h147.118V1200H526.618v-136.28Z"/>
