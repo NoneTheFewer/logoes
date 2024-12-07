@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="90px" viewBox="0 0 512 90" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+<svg viewBox="0 0 512 90" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
     <title>daily.dev</title>
     <g>
         <path d="M137.94429,44.9911784 L120.211392,27.221154 L129.07322,9.45730306 L157.885715,38.3301204 C161.556829,42.0089212 161.556829,47.9734357 157.885715,51.6522368 L122.422999,87.189199 C118.751884,90.8679998 112.79983,90.8679998 109.128716,87.189199 C105.457601,83.5103982 105.457601,77.5458833 109.128716,73.8670825 L137.94429,44.9911784 Z" fill="#7C7C7D"></path>
