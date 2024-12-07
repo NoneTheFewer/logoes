@@ -1,4 +1,4 @@
-<svg width="640" height="384" viewBox="0 0 640 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 640 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>google-expeditions</title>
     <defs>
         <path d="M128 64l-12.058 6.64c-2.997 23.57-21.731 42.305-45.302 45.302L64 128l-6.64-12.058C33.79 112.945 15.055 94.21 12.058 70.64L0 64l12.058-6.64C15.055 33.79 33.79 15.055 57.36 12.058L64 0l6.64 12.058c23.57 2.997 42.305 21.731 45.302 45.302L128 64z" id="a" />
