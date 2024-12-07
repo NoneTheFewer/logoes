@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="341px" viewBox="0 0 256 341" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+<svg viewBox="0 0 256 341" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
     <title>upstash</title>
     <g>
         <path d="M0,298.416784 C56.5542815,354.970323 148.246768,354.970323 204.801032,298.416784 C261.354571,241.86252 261.354571,150.170106 204.801032,93.6158424 L179.200462,119.215688 C221.61634,161.631567 221.61634,230.401059 179.200462,272.816213 C136.785307,315.232092 68.0157428,315.232092 25.5998642,272.816213 L0,298.416784 Z" fill="#00C98D"></path>
