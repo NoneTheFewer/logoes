@@ -1,11 +1,11 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" id="svg" fit="" height="100%" width="100%" preserveAspectRatio="xMidYMid meet" focusable="false" style="--darkreader-inline-fill: currentColor;" data-darkreader-inline-fill="">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" id="svg" fit="" height="100%" width="100%" preserveAspectRatio="xMidYMid meet" focusable="false" >
 <defs>
   <style type="text/css">
     .darkest { fill: #ef6c00; }
     .darker { fill: #ffa726; }
     .lighter { fill: #ffb74d;}
     .lightest { fill: #ffcc80;}
- </style><style class="darkreader darkreader--sync" media="screen"></style>
+ </style>
 </defs>
 <path d="M5,7.5 L5,2.5 L0,7.5 z" class="lighter"></path>
 <path d="M5,7.5 L5,2.5 L10,2.5 z" class="lightest"></path>

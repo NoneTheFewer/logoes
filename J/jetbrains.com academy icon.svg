@@ -15,8 +15,8 @@
         </linearGradient>
     </defs>
     <g>
-        <path fill="#000" d="M64 0v64H0L64 0Z" style="--darkreader-inline-fill: #e8e6e3;" data-darkreader-inline-fill=""/>
-        <path fill="#fff" d="M40 56h16v-4H40v4Z" style="--darkreader-inline-fill: #e8e6e3;" data-darkreader-inline-fill=""/>
+        <path fill="#000" d="M64 0v64H0L64 0Z" />
+        <path fill="#fff" d="M40 56h16v-4H40v4Z" />
         <path fill="url(#jetbrains-academy-square-64_jetbrains-academy-square-64_svg__b)" d="M0 64V0h64L0 64Z"/>
     </g>
 </svg>

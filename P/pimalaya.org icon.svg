@@ -667,7 +667,7 @@
         fill: #565555;
     }
     </style>
-    <style class="darkreader darkreader--sync" media="screen"></style>
+    
     <g transform="translate(-57.21 -39.46)">
         <circle class="st1" cx="113.85" cy="96.1" r="56.64"></circle>
         <linearGradient id="a" x1="102.03" x2="102.03" y1="123.34" y2="21.424" gradientUnits="userSpaceOnUse">

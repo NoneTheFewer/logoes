@@ -1,11 +1,11 @@
 <svg viewBox="0 0 1188 240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="gradient" x1="0" y1="100%" x2="100%" y2="0">
-            <stop offset="0%" stop-color="#E5007e" style="--darkreader-inline-stopcolor: #b70065;" data-darkreader-inline-stopcolor=""></stop>
-            <stop offset="15%" stop-color="#E5007e" style="--darkreader-inline-stopcolor: #b70065;" data-darkreader-inline-stopcolor=""></stop>
-            <stop offset="50%" stop-color="#995bc4" style="--darkreader-inline-stopcolor: #643188;" data-darkreader-inline-stopcolor=""></stop>
-            <stop offset="85%" stop-color="#007ac9" style="--darkreader-inline-stopcolor: #0062a1;" data-darkreader-inline-stopcolor=""></stop>
-            <stop offset="100%" stop-color="#007ac9" style="--darkreader-inline-stopcolor: #0062a1;" data-darkreader-inline-stopcolor=""></stop>
+            <stop offset="0%" stop-color="#E5007e" ></stop>
+            <stop offset="15%" stop-color="#E5007e" ></stop>
+            <stop offset="50%" stop-color="#995bc4" ></stop>
+            <stop offset="85%" stop-color="#007ac9" ></stop>
+            <stop offset="100%" stop-color="#007ac9" ></stop>
         </linearGradient>
     </defs>
     <use xlink:href="#svg-logo">

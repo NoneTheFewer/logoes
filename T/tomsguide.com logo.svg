@@ -1,7 +1,7 @@
 <svg role="img" width="203px" height="36px" viewBox="0 0 203 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Tom's Guide</title>
-<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" style="--darkreader-inline-stroke: none;" data-darkreader-inline-stroke="">
-<g id="branding/ttr_primary_nav" transform="translate(-240.000000, -12.000000)" fill="#1A98EE" style="--darkreader-inline-fill: #0e73b9;" data-darkreader-inline-fill="">
+<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="branding/ttr_primary_nav" transform="translate(-240.000000, -12.000000)" fill="#1A98EE" >
 <g id="Header">
 <g id="logo" transform="translate(240.000000, 12.000000)">
 <path d="M66.5927009,5.1483633 L71.181545,5.1483633 L71.181545,8.61790459 C71.293178,9.73720734 70.9576183,10.7445468 70.3978018,11.6399229 C69.614389,12.5352991 68.7190128,13.2067486 67.6000404,13.6542716 L66.5927009,11.7518862 C67.2641505,11.5279596 67.823967,11.0801064 68.2714899,10.6325835 C68.6073798,10.2966936 68.7190128,9.84917064 68.8309761,9.2896844 L66.7046642,9.2896844 L66.7046642,5.1483633 L66.5927009,5.1483633 Z" id="Fill-1"></path>

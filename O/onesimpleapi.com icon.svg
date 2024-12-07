@@ -1,4 +1,6 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet" class="block h-9 w-auto"><g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#0d47a1" stroke="none" style="--darkreader-inline-fill: #0a3981; --darkreader-inline-stroke: none;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""><path d="M381 5100 c-91 -24 -149 -57 -221 -126 -72 -69 -115 -142 -140 -238
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet" class="block h-9 w-auto">
+    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#0d47a1" stroke="none">
+        <path d="M381 5100 c-91 -24 -149 -57 -221 -126 -72 -69 -115 -142 -140 -238
     -19 -77 -20 -109 -20 -1052 l0 -973 37 5 c128 17 191 43 259 106 57 53 90 112
     115 205 19 69 22 123 29 468 9 422 13 455 70 603 98 254 304 439 609 543 86
     30 84 32 121 -88 18 -60 35 -113 37 -119 2 -7 -35 -31 -84 -54 -165 -80 -274
@@ -22,4 +24,6 @@
     -126 225 -69 72 -142 115 -238 140 -78 20 -105 20 -2180 19 -2045 0 -2103 -1
     -2175 -19z m2519 -2295 l0 -1575 -200 0 -200 0 0 1325 c0 729 -2 1325 -5 1325
     -3 0 -141 -50 -307 -111 -167 -61 -345 -126 -396 -145 l-92 -33 2 181 3 181
-    560 213 c334 126 575 212 598 213 l37 1 0 -1575z"></path></g></svg>
+    560 213 c334 126 575 212 598 213 l37 1 0 -1575z"></path>
+    </g>
+</svg>

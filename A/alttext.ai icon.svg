@@ -1,12 +1,12 @@
 <svg viewBox="34.599 63.105 132.809 75.098" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="linear-gradient" x1="97.14858" y1="92.07571" x2="107.30897" y2="59.12375" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#29acb2" style="--darkreader-inline-stopcolor: #218a8e;" data-darkreader-inline-stopcolor=""></stop>
-      <stop offset="1" stop-color="#047481" style="--darkreader-inline-stopcolor: #035d67;" data-darkreader-inline-stopcolor=""></stop>
+      <stop offset="0" stop-color="#29acb2" ></stop>
+      <stop offset="1" stop-color="#047481" ></stop>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="83.21231" y1="76.76293" x2="110.68603" y2="103.42897" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#047481" style="--darkreader-inline-stopcolor: #035d67;" data-darkreader-inline-stopcolor=""></stop>
-      <stop offset="1" stop-color="#29acb2" style="--darkreader-inline-stopcolor: #218a8e;" data-darkreader-inline-stopcolor=""></stop>
+      <stop offset="0" stop-color="#047481" ></stop>
+      <stop offset="1" stop-color="#29acb2" ></stop>
     </linearGradient>
     <linearGradient id="linear-gradient-3" x1="86.02415" y1="135.87592" x2="102.43291" y2="98.61788" xlink:href="#linear-gradient"></linearGradient>
     <style>
@@ -29,7 +29,7 @@
       .cls-4 {
         fill: url(#linear-gradient-3);
       }
-    </style><style class="darkreader darkreader--sync" media="screen"></style>
+    </style>
   </defs>
   <g>
     <path class="cls-3" d="m92.02809,70.87692c-3.69716,13.36049,3.74713,17.4901,12.66913,17.15013l12.81702-24.19529-23.26744.19409-2.2187,6.85107Z"></path>
