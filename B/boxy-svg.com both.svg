@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <path d="M 66 366 L 66 146 L 167.5 204.5 L 167.5 307 L 66 366 Z" style="fill: rgb(222, 101, 71);"/>
   <path d="M 256.5 476.5 L 256.5 361 L 167 307 L 66 366 L 256.5 476.5 Z" style="fill: rgb(253, 188, 77);"/>
   <path d="M 446 366 L 446 146 L 344.5 204.5 L 344.5 307 L 446 366 Z" style="fill: rgb(105, 179, 86);"/>
