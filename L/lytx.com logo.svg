@@ -1,4 +1,4 @@
-<svg class="brand__logo" width="90" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 90 48" class="brand__logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <defs>
                         <path id="a" d="M.024.158h27.057v33.851H.024z"></path>
                         <path id="c" d="M0 .106h9.665v40.131H0z"></path>
