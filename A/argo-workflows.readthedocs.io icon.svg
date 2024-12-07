@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="b" x1="117.95" y1="29.93" x2="17.03" y2="117.86" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#6072bf"/>
