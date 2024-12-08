@@ -37,7 +37,6 @@
 		</radialGradient>
 	</defs>
 	<g transform="translate(-12.581593,-9.9630077)" v:groupContext="shape" v:mID="11" id="shape11-1">
-		
 		<desc id="desc24">crescando</desc>
 		<v:textBlock v:margins="rect(4,4,4,4)"/>
 		<v:textRect height="85.5" width="288" cy="307.525" cx="144"/>
@@ -55,36 +54,27 @@
 		</g>
 	</g>
 	<g transform="rotate(-90,116.21248,190.34887)" v:groupContext="shape" v:mID="12" id="shape12-5">
-		
 		<path style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.910872;stroke-linecap:butt" inkscape:connector-curvature="0" id="path35" class="st4" d="m 76.5,206.27 a 143.975,38.25 90 1 1 -76.5,0 143.975,38.25 90 1 1 76.5,0 z"/>
 	</g>
 	<g v:groupContext="group" v:mID="1" transform="translate(63.738479,-85.512955)" id="group1-7">
-		
 		<g v:groupContext="group" v:mID="2" transform="translate(2.1243e-4)" id="group2-8">
-			
 			<g transform="matrix(0,-1,-1,0,350.275,350.275)" v:groupContext="shape" v:mID="3" id="shape3-9">
-				
 				<path style="fill:#667fa4;stroke:none;stroke-width:2.78191;stroke-linecap:butt" inkscape:connector-curvature="0" id="path46" class="st5" d="m 262.29,219.13 a 131.145,131.145 0 0 1 -262.29,0 131.145,131.145 0 0 1 262.29,0 z"/>
 			</g>
 			<g transform="matrix(0,-1,-1,0,350.275,350.275)" v:groupContext="shape" v:mID="4" id="shape4-11">
-				
 				<path style="fill:#667fa4;stroke:none;stroke-width:3.75;stroke-linecap:butt" inkscape:connector-curvature="0" id="path51" class="st6" d="m 0,332.79 a 17.4861,17.4861 -180 0 0 17.49,17.48 h 96.17 a 17.4861,17.4861 -180 0 0 17.48,-17.48 V 236.62 A 17.4861,17.4861 -180 0 0 113.66,219.13 H 17.49 A 17.4861,17.4861 -180 0 0 0,236.62 Z"/>
 			</g>
 			<g transform="matrix(0,-1,-1,0,350.275,277.418)" v:groupContext="shape" v:mID="5" id="shape5-13">
-				
 				<rect style="fill:#667fa4;stroke:none;stroke-width:3.75;stroke-linecap:butt" id="rect56" class="st6" height="131.14301" width="58.285702" y="219.132" x="0"/>
 			</g>
 			<g transform="matrix(0,-1,-1,0,408.56,350.275)" v:groupContext="shape" v:mID="6" id="shape6-15">
-				
 				<rect style="fill:#667fa4;stroke:none;stroke-width:3.75;stroke-linecap:butt" id="rect61" class="st6" height="72.857101" width="131.14301" y="277.418" x="0"/>
 			</g>
 		</g>
 		<g transform="translate(0,-1.00498e-4)" v:groupContext="shape" v:mID="7" id="shape7-17">
-			
 			<path style="fill:url(#grad2-20);stroke:none;stroke-width:2.78866;stroke-linecap:butt" inkscape:connector-curvature="0" id="path66" class="st7" d="M 0,350.27 A 262.285,174.857 0 0 1 262.29,175.42 v 174.85 z"/>
 		</g>
 		<g transform="rotate(-90,152.9996,197.2744)" v:groupContext="shape" v:mID="8" id="shape8-21">
-			
 			<path style="fill:url(#grad1-24);stroke:none;stroke-width:2.78866;stroke-linecap:butt" inkscape:connector-curvature="0" id="path71" class="st8" d="M 0,350.27 A 262.285,174.857 0 0 1 262.29,175.42 v 174.85 z"/>
 		</g>
 	</g>

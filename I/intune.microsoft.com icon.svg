@@ -4,7 +4,6 @@
 	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
 
 	<style type="text/css" id="style2">
-	<![CDATA[
 		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st2 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st3 {fill:url(#grad0-11);stroke:none;stroke-linecap:butt;stroke-width:0.75}
@@ -12,7 +11,6 @@
 		.st5 {fill:url(#grad0-19);stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st6 {fill:#0078d4;stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
-	]]>
 	</style>
 
 	<defs id="Patterns_And_Gradients">
