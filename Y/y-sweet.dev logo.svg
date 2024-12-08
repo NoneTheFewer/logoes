@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="348" height="115" viewBox="0 0 348 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 348 115" fill="none" xmlns="http://www.w3.org/2000/svg">
   <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="298" y="25" width="28" height="64">
     <path d="M299.378 40.0429L321.197 26.0165C323.645 24.4426 326.743 26.9635 325.829 29.7267C319.156 49.9035 319.515 64.2069 325.661 84.1563C326.549 87.0367 323.145 89.4712 320.775 87.6091L299.147 70.615C298.423 70.0463 298 69.1767 298 68.2561V42.5664C298 41.5456 298.519 40.5949 299.378 40.0429Z" fill="#D9D9D9"/>
   </mask>
