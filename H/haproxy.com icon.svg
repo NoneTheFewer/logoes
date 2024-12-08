@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
-	<style><![CDATA[.H{stroke-miterlimit:10}]]></style>
+	<style>.H{stroke-miterlimit:10}</style>
 	<g fill="none" class="H">
 		<g stroke="#284a6a">
 			<path d="M 31.973,23.69 L 25.323,16.172" stroke-width=".26"/>

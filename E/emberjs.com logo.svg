@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.1 31.4 120 59.878">
-	<style><![CDATA[.O{fill:#fcd4c3}.P{stroke-miterlimit:10}.Q{fill:none}.R{fill:#fff}.S{fill:#ba8449}.T{opacity:.3}.U{fill:#e3ab5e}.V{stroke-width:.464}.W{fill:#fff8ee}.X{stroke:#f8a38f}.Y{fill:#895b2e}.Z{fill:#d0dddc}.a{stroke-linejoin:round}]]></style>
+	<style>.O{fill:#fcd4c3}.P{stroke-miterlimit:10}.Q{fill:none}.R{fill:#fff}.S{fill:#ba8449}.T{opacity:.3}.U{fill:#e3ab5e}.V{stroke-width:.464}.W{fill:#fff8ee}.X{stroke:#f8a38f}.Y{fill:#895b2e}.Z{fill:#d0dddc}.a{stroke-linejoin:round}</style>
 	<defs>
 		<clipPath id="A">
 			<use xlink:href="#Y"/>

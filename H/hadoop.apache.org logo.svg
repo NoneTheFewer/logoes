@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 24.6">
-	<style><![CDATA[.C{fill-rule:evenodd}.D{fill:#66c2e3}]]></style>
+	<style>.C{fill-rule:evenodd}.D{fill:#66c2e3}</style>
 	<defs>
 		<linearGradient id="A" x1="710.88" x2="1594.069" y1="643.58" y2="473.911" xlink:href="#H">
 			<stop stop-color="#282662" offset="0"/>

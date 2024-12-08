@@ -3,14 +3,14 @@
 <svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1000 220.22195" version="1.1" style="display:block" id="svg282" sodipodi:docname="xtremedata.svg" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)">
 	<sodipodi:namedview id="namedview284" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:deskcolor="#505050" showgrid="false" showguides="false" inkscape:zoom="3.5901555" inkscape:cx="233.41607" inkscape:cy="44.984123" inkscape:window-width="3700" inkscape:window-height="2348" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg282"/>
 	<defs id="defs252">
-		<style type="text/css" id="style250"><![CDATA[
+		<style type="text/css" id="style250">
 .g0_1{
 fill: #C41230;
 }
 .g1_1{
 fill: #717073;
 }
-]]></style>
+</style>
 	</defs>
 	<path d="m 985.69667,70.036991 h 0.24661 l 6.90506,7.398274 6.90505,-7.398274 H 1000 v 14.30333 h -2.7127 V 75.95561 l -4.43896,4.932183 -4.19236,-4.932183 v 8.384711 h -2.7127 z m -13.31689,2.466092 v -2.466092 h 10.8508 v 2.466092 h -3.94575 v 11.837238 h -2.95931 V 72.503083 Z" class="g0_1" id="path256" style="stroke-width:2.46609"/>
 	<path d="m 825.89396,71.270037 -35.51172,72.749693 h 11.34402 l 24.41431,-48.088781 23.92108,48.088781 H 862.1455 L 826.38718,71.270037 Z" class="g0_1" id="path258" style="stroke-width:2.46609"/>

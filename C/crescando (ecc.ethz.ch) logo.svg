@@ -15,7 +15,7 @@
 			<v:ud v:nameU="msvConvertTheme"/>
 		</v:userDefs>
 	</v:documentProperties>
-	<style type="text/css" id="style4"><![CDATA[
+	<style type="text/css" id="style4">
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#667fa4;font-family:ETH Light;font-size:6em;font-weight:bold;letter-spacing:-0.0694444em}
 		.st3 {fill:#000000;font-size:1em}
@@ -25,7 +25,7 @@
 		.st7 {fill:url(#grad2-20);stroke:none;stroke-linecap:butt;stroke-width:2.78866}
 		.st8 {fill:url(#grad1-24);stroke:none;stroke-linecap:butt;stroke-width:2.78866}
 		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
-	]]></style>
+	</style>
 	<defs id="Patterns_And_Gradients">
 		<radialGradient id="grad2-20" cx="0" cy="429.00366" r="299.81387" gradientTransform="scale(1.2247799,0.81647323)" fx="0" fy="429.00366" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#ffffff" stop-opacity="0" id="stop8"/>

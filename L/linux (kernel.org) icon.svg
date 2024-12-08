@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
-	<style><![CDATA[.B{color-interpolation-filters:sRGB}.C{fill-opacity:1}.D{stroke:none}.E{fill:#020204}.F{stroke-linejoin:miter}.G{stroke-opacity:1}.H{stroke-width:1}.I{stroke-linecap:butt}.J{fill:#7c7c7c}]]></style>
+	<style>.B{color-interpolation-filters:sRGB}.C{fill-opacity:1}.D{stroke:none}.E{fill:#020204}.F{stroke-linejoin:miter}.G{stroke-opacity:1}.H{stroke-width:1}.I{stroke-linecap:butt}.J{fill:#7c7c7c}</style>
 	<defs>
 		<radialGradient r="14.572" fy="137.661" fx="223.196" cy="137.661" cx="223.196" gradientTransform="matrix(1.0857794,-0.03431182,0.03943781,1.2479887,-154.54194,-26.542647)" id="A" xlink:href="#Ac">
 			<stop offset="0" stop-color="#fefefc"/>

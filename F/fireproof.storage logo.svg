@@ -3,8 +3,7 @@
 <svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" viewBox="4200 7100 7983 2146" id="svg258" sodipodi:docname="fireproof.svg" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)">
 	<sodipodi:namedview id="namedview260" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:deskcolor="#505050" showgrid="false" inkscape:zoom="0.37329268" inkscape:cx="3603.0709" inkscape:cy="1338.0921" inkscape:window-width="3700" inkscape:window-height="2348" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg258"/>
 	<defs id="defs240">
-		<style type="text/css" id="style238">
-<![CDATA[
+		<style type="text/css">
     .fil1 {fill:black}
     .fil2 {fill:#F16C12}
     .fil3 {fill:#EE521C}
@@ -12,7 +11,6 @@
     .fil5 {fill:#F9A100}
     .fil6 {fill:none}
     .fil0 {fill:white}
-   ]]>						
 		</style>
 	</defs>
 	<g id="Layer_x0020_1" transform="translate(-142,-160)">

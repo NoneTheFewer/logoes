@@ -31,7 +31,7 @@
 				<path d="M84.0002 0l0 667 263.333 0c66.3335,0 115.667,-16.3332 147.667,-49.0008 32.0009,-32.6664 48.0001,-70.4997 48.0001,-113.666 0,-75.6666 -39.3326,-126.001 -118.166,-150.833 46.8324,-12 81.833,-33.5001 104.667,-64.3333 22.9994,-30.8332 34.4996,-65.8337 34.4996,-104.834 0,-52.3333 -17.6667,-96.1672 -53,-131.501 -35.3333,-35.1664 -89.6668,-52.833 -163.333,-52.833l-263.667 0zm80.9993 380l144.5 0c60.1671,0 100.168,11.4991 120.334,34.6666 20.1666,22.9994 30.1664,50.1661 30.1664,81.1663 0,30.8332 -10.8335,55.6669 -32.3336,74.6671 -21.6671,19.0001 -53.8337,28.5002 -96.6669,28.5002l-166 0 0 -219zm0 -307.001l178.501 0c43.4999,0 77.1658,10.5008 100.833,31.6669 23.8331,21.1673 35.6661,48.6668 35.6661,82.4997 0,23.8343 -5.33269,45.8341 -16.1662,66.1665 -10.6666,20.3336 -25.8333,36.0001 -45.3332,47.0006 -19.4999,11.1663 -48.4998,16.6672 -87.1669,16.6672l-166.334 0 0 -244.001z" id="path19"/>
 			</glyph>
 		</font>
-		<style type="text/css" id="style21"><![CDATA[
+		<style type="text/css" id="style21">
     @font-face { font-family:"Franklin Gothic Book";src:url("#FontID0") format(svg)}
     .str1 {stroke-width:0.9}
     .str2 {stroke:#FEFEFE;stroke-width:7.62}
@@ -39,7 +39,7 @@
     .fil1 {fill:#FEFEFE}
     .fil0 {fill:#064A9D}
     .fnt0 {font-weight:normal;font-size:8444.15px;font-family:'Franklin Gothic Book'}
-   ]]></style>
+   </style>
 	</defs>
 	<rect style="opacity:1;fill:#3a72bd;fill-opacity:1;stroke:none;stroke-width:0.26800001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4190" width="9313.334" height="9313.334" x="0" y="0" ry="903.58942" inkscape:export-xdpi="68.18" inkscape:export-ydpi="68.18"/>
 	<g id="g27" transform="matrix(0.81975085,0,0,0.9309626,-4826.0922,-5784.789)" inkscape:export-xdpi="68.18" inkscape:export-ydpi="68.18">

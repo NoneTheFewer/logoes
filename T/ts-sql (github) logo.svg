@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="https://vecta.io/nano" viewBox="0 0 471.101 142.5">
-	<style><![CDATA[.B{fill:#23282e}.C{overflow:visible}.D{stroke:none}]]></style>
+	<style>.B{fill:#23282e}.C{overflow:visible}.D{stroke:none}</style>
 	<defs>
 		<symbol id="A" class="C">
 			<path d="M 6.125,3.063 L 0.0,3.063 L 0.0,-3.124 L 6.125,-3.124 L 6.125,3.063" class="D"/>

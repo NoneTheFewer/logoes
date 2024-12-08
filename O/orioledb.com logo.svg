@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" viewBox="0 0 800 631.88">
-	<style><![CDATA[.B{fill:#1c3a85}]]></style>
+	<style>.B{fill:#1c3a85}</style>
 	<defs>
 		<clipPath id="A">
 			<path d="M 6.805,25.0 L 21.0,25.0 L 21.0,40.0 L 6.805,40.0 L 6.805,25.0"/>
