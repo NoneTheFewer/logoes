@@ -6,7 +6,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 297 210">
 	<defs>
 		<style type="text/css">
-<![CDATA[
     .fil4 {fill:#71625B}
     .fil2 {fill:#75C5F0}
     .fil0 {fill:#8F5444}
@@ -21,8 +20,7 @@
     .fil12 {fill:#FEFEFE}
     .fil11 {fill:white;fill-rule:nonzero}
     .fil5 {fill:white;fill-opacity:0.501961}
-   ]]>						
-		</style>
+</style>
 	</defs>
 	<g id="Layer_x0020_1">
 		<metadata id="CorelCorpID_0Corel-Layer"/>

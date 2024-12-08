@@ -5,11 +5,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd;clip-rule:evenodd" viewBox="0 0 24674 1821">
 	<defs>
 		<style type="text/css">
-<![CDATA[
     .fil0 {fill:#262626}
     .fil1 {fill:#F29400}
-   ]]>			
-		</style>
+</style>
 	</defs>
 	<g>
 		<path class="fil0" d="M22728 1821l642 -680 697 680 607 0 -1024 -986 830 -835 -512 0 -577 590 -611 -590 -594 0 917 887 -900 934 525 0zm-1149 0l0 -1821 -443 0 0 1821 443 0zm-3103 0l0 -1227 1541 1227 306 0 0 -1821 -401 0 0 1209 -1545 -1209 -305 0 0 1821 404 0z"/>

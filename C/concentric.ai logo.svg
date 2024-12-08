@@ -3,7 +3,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 907.28 189.39">
 	<defs>
 		<style type="text/css">
-<![CDATA[
     .fil3 {fill:#2D8CD4}
     .fil1 {fill:white}
     .fil2 {fill:white;fill-rule:nonzero}
@@ -35,8 +34,7 @@
     .fil23 {fill:url(#id25);fill-rule:nonzero}
     .fil28 {fill:url(#id26);fill-rule:nonzero}
     .fil7 {fill:url(#id27);fill-rule:nonzero}
-   ]]>						
-		</style>
+</style>
 		<linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="120.1" y1="-55.42" x2="115.48" y2="-36.94">
 			<stop offset="0" style="stop-opacity:1; stop-color:#073390"/>
 			<stop offset="1" style="stop-opacity:1; stop-color:#073290"/>

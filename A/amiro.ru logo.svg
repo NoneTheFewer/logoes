@@ -6,7 +6,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 9980 3414">
 	<defs>
 		<style type="text/css">
-<![CDATA[
     .fil2 {fill:#DB302B}
     .fil1 {fill:#2E2A28;fill-rule:nonzero}
     .fil0 {fill:#DB302B;fill-rule:nonzero}
@@ -18,7 +17,6 @@
     .fil10 {fill:url(#id5)}
     .fil9 {fill:url(#id6)}
     .fil4 {fill:url(#id7)}
-   ]]>			
 		</style>
 		<linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="8174.43" y1="2988.21" x2="8462.4" y2="2133.08">
 			<stop offset="0" style="stop-color:#DB302B"/>

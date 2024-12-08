@@ -5,11 +5,9 @@
   'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px" y="0px" viewBox="0 0 258 72" style="enable-background:new 0 0 258 72;" xml:space="preserve">
 	<style type="text/css">
-<![CDATA[
 	.st0{fill:#179C7D;}
 	.st1{fill:#FFFFFF;}
-]]>				
-	</style>
+</style>
 	<g>
 		<path class="st0" d="M0,41.697c9.874-5.083,24.338-13.302,41.507-25.317v-4.033C26.396,22.233,11.031,30.171,0,35.422V41.697z"/>
 		<path class="st0" d="M0,29.654c10.994-4.479,26.36-11.399,41.507-20.408V7.255C27.271,14.317,12.48,18.737,0,21.493V29.654z"/>

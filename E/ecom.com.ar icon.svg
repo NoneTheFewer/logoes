@@ -2,11 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="0 0 40 40">
 	<defs>
 		<style type="text/css">
-<![CDATA[
     .fil1 {fill:none}
     .fil0 {fill:url(#id1)}
-   ]]>						
-		</style>
+</style>
 		<clipPath id="id0">
 			<path d="M0 0l40 0 0 40 -40 0 0 -40z"/>
 		</clipPath>
