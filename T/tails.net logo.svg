@@ -29,10 +29,10 @@
 			</g>
 			<polygon points="45.366,56.241 39.076,59.22 33.117,56.241 39.407,53.262 " transform="rotate(63.400001,48.43115,48.892589)" id="polygon3506" style="fill:#56347c;fill-opacity:1"/>
 			<polygon points="29.145,47.634 35.103,50.613 28.814,53.593 22.855,50.613 " transform="rotate(63.400001,48.414793,48.413403)" id="polygon3508" style="fill:#56347c;fill-opacity:1"/>
-			<g transform="matrix(0,-0.2492475,0.19547686,0.16114179,71.005984,62.192969)" id="Captions" style="fill:#56347c;fill-opacity:1"/>
-			<g transform="translate(122.10986,-55.111168)" id="Captions-7" style="fill:#56347c;fill-opacity:1"/>
+			
+			
 			<path inkscape:connector-curvature="0" d="M 45.05819,34.34759 C 47.18259,37.05168 49.35335,42.33302 49.35335,47.21317 C 49.35335,52.09135 47.1825900000001,53.7552 45.05819,52.91711 C 45.05819,50.91906 45.05819,36.12203 45.05819,34.34759" id="path4818-2-4-3" style="fill:#56347c;fill-opacity:1"/>
-			<g transform="translate(74.936297,109.72221)" id="Your_Icon" style="fill:#56347c;fill-opacity:1"/>
+			
 		</g>
 	</g>
 </svg>

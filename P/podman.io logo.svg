@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <g transform="translate(-1170.4453,517.6202)" id="layer1">
-    <g id="g163426"/>
+    
     <g id="g10819" transform="translate(0,-285.75012)">
       <g id="text10671" style="font-style:normal;font-weight:normal;font-size:37.59195328px;line-height:22.55517006px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#892ca0;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" aria-label="podman">
         <path id="path80700" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#892ca0;fill-opacity:1;stroke-width:0.26458332px" d="m 1249.8778,-209.9329 c -3.1202,0 -5.526,1.27812 -6.9921,3.60883 v -3.45846 h -4.3231 v 27.29175 h 4.3231 v -10.75129 c 1.4661,2.3307 3.8719,3.60882 7.0673,3.60882 5.7139,0 9.4731,-4.09752 9.4731,-10.07464 0,-6.0899 -3.8719,-10.22501 -9.5483,-10.22501 z m -0.9022,16.61564 c -3.5713,0 -6.0899,-2.66903 -6.0899,-6.541 0,-3.75919 2.5186,-6.46581 6.0899,-6.46581 3.5712,0 6.0899,2.74421 6.0899,6.46581 0,3.83438 -2.5187,6.541 -6.0899,6.541 z"/>

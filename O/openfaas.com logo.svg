@@ -20,7 +20,7 @@
 		</clipPath>
 	</defs>
 	<g transform="matrix(1.3333333,0,0,-1.3333333,0,248)" id="g10">
-		<g id="g12"/>
+		
 		<g id="g14">
 			<g clip-path="url(#clipPath20)" id="g16">
 				<path id="path22" style="fill:#e6e7e8;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 140.398,62.5 H 59.926 c -11.25,0 -20.477,9.227 -20.477,20.477 v 80.472 c 0,11.25 9.227,20.477 20.477,20.477 h 80.472 c 11.25,0 20.477,-9.227 20.477,-20.477 V 82.977 c 0,-11.25 -9.227,-20.477 -20.477,-20.477 z"/>

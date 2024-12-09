@@ -40,7 +40,7 @@
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"/>
                     </mask>
-                    <g id="path44"/>
+                    
                     <g id="g42" mask="url(#mask-2)" fill="url(#linearGradient-3)" fill-rule="nonzero">
                         <path d="M43.4514811,0 C53.0827934,0.158027378 62.7238944,3.49670437 70.6780837,10.1702543 C89.0854699,25.6138636 91.4865909,53.0536381 76.040817,71.4591959 C68.31793,80.6616123 57.5957263,85.86312 46.5033665,86.8335316 L46.5033665,86.8335316 C35.4109341,87.8035807 23.9483455,84.5428962 14.7447249,76.8209284 C6.79060814,70.1476721 1.82800974,61.2338054 0,51.7772767 L34.8348536,37.0010655 L43.4514811,0" id="path56"/>
                     </g>
@@ -50,7 +50,7 @@
                         <mask id="mask-5" fill="white">
                             <use xlink:href="#path-4"/>
                         </mask>
-                        <g id="path62"/>
+                        
                         <g id="g60" mask="url(#mask-5)" fill="url(#linearGradient-6)" fill-rule="nonzero">
                             <g transform="translate(0.000000, 0.000000)" id="path72">
                                 <polygon points="59.2560311 81.7353363 59.0324739 81.6368091 -1.25526039e-15 32.2318054 0.0971652191 32.1011938 14.4181864 0"/>
@@ -62,7 +62,7 @@
                     <mask id="mask-8" fill="white">
                         <use xlink:href="#path-7"/>
                     </mask>
-                    <g id="path78"/>
+                    
                     <g id="g76" mask="url(#mask-8)" fill="url(#linearGradient-9)" fill-rule="nonzero">
                         <polyline id="path90" points="0 36.2448912 0 36.2448912 10.862834 23.3003908 9.38191914 0 35.9707727 22.3078667 88.2893259 66.2029508 0 36.2448912"/>
                     </g>

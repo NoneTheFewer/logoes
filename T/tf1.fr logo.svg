@@ -232,9 +232,9 @@
 		</rdf:RDF>
 	</metadata>
 	<g transform="translate(-309.69569,-340.4872)" id="layer1">
-		<g transform="matrix(0.61224502,0,0,-0.61224502,-72.3452,803.34444)" id="g2995"/>
+		
 		<g transform="matrix(0.61224502,0,0,-0.61224502,-72.3452,803.34444)" id="g2997">
-			<g clip-path="url(#clipPath3001)" id="g2999"/>
+			
 		</g>
 		<g transform="matrix(0.61224502,0,0,-0.61224502,-72.3452,803.34444)" id="g3009">
 			<g clip-path="url(#clipPath3013)" id="g3011">
@@ -263,8 +263,8 @@
 		</g>
 		<g transform="matrix(0.61224502,0,0,-0.61224502,-72.3452,803.34444)" id="g3071">
 			<g clip-path="url(#clipPath3075)" id="g3073">
-				<g transform="scale(1920,38)" id="g3087"/>
-				<g transform="matrix(1,0,0,-1,833.0996,117)" id="g3091"/>
+				
+				
 			</g>
 		</g>
 	</g>

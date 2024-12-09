@@ -15,7 +15,7 @@
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"/>
                     </mask>
-                    <g id="a"/>
+                    
                     <polyline id="Path" fill="#131E31" fill-rule="nonzero" mask="url(#mask-2)" points="0.687 0.091 0.687 16.27 23.539 16.27 23.539 90.37 41.759 90.37 41.759 16.27 64.493 16.27 64.493 0.091 0.687 0.091"/>
                 </g>
             </g>

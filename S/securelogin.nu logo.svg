@@ -13,14 +13,14 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"/>
                 </mask>
-                <g id="Clip-2"/>
+                
                 <polygon id="Fill-1" fill="#313131" mask="url(#mask-2)" points="-5 126 727 126 727 -5 -5 -5"/>
             </g>
             <g id="Group-6">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"/>
                 </mask>
-                <g id="Clip-5"/>
+                
                 <polygon id="Fill-4" fill="#0AAAEE" mask="url(#mask-4)" points="-5 124.999 180 124.999 180 -4.032 -5 -4.032"/>
             </g>
         </g>

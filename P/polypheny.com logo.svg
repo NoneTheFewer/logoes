@@ -11,7 +11,7 @@
 	</metadata>
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="3440" inkscape:window-height="1377" id="namedview3443" showgrid="false" inkscape:zoom="1.70837" inkscape:cx="645.24054" inkscape:cy="187.91772" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="g3342"/>
 	<defs id="defs3338">
-		<style type="text/css" id="style3340"/>
+		
 	</defs>
 	<g transform="matrix(1.2344,0,0,1.2344,-67.4344,-261.25421)" id="g3342">
 		<g transform="matrix(-1.2856,0.0224,-0.0224,-1.2856,185.74131,367.52133)" id="g3344">
@@ -22,9 +22,9 @@
 						<stop offset="100%" stop-color="#74d14c" stop-opacity="0.54" id="stop3353"/>
 					</linearGradient>
 				</defs>
-				<g id="g3355"/>
-				<g id="g3357"/>
-				<g id="g3359"/>
+				
+				
+				
 				<g id="g3361">
 					<path d="m 73.232,28.96 c -5.631,0 -10.194,4.567 -10.194,10.197 0,8.74 -4.368,13.108 -13.11,13.108 -8.737,0 -13.111,-4.369 -13.111,-13.108 0,-5.63 -4.563,-10.197 -10.194,-10.197 -5.631,0 -10.194,4.567 -10.194,10.197 0,5.631 4.563,10.198 10.194,10.198 8.742,0 13.111,4.369 13.111,13.111 0,5.631 4.563,10.194 10.195,10.194 5.63,0 10.2,-4.563 10.2,-10.194 0,-8.742 4.368,-13.111 13.104,-13.111 5.637,0 10.2,-4.567 10.2,-10.198 0,-5.63 -4.564,-10.197 -10.201,-10.197 z" style="clip-rule:evenodd;fill:url(#linearGradientSjsn91j434);fill-rule:evenodd;stroke:none" id="path3363" inkscape:connector-curvature="0"/>
 				</g>
@@ -38,9 +38,9 @@
 						<stop offset="100%" stop-color="#61c78c" stop-opacity="0.54" id="stop3374"/>
 					</linearGradient>
 				</defs>
-				<g id="g3376"/>
-				<g id="g3378"/>
-				<g id="g3380"/>
+				
+				
+				
 				<g id="g3382">
 					<path d="m 73.232,28.96 c -5.631,0 -10.194,4.567 -10.194,10.197 0,8.74 -4.368,13.108 -13.11,13.108 -8.737,0 -13.111,-4.369 -13.111,-13.108 0,-5.63 -4.563,-10.197 -10.194,-10.197 -5.631,0 -10.194,4.567 -10.194,10.197 0,5.631 4.563,10.198 10.194,10.198 8.742,0 13.111,4.369 13.111,13.111 0,5.631 4.563,10.194 10.195,10.194 5.63,0 10.2,-4.563 10.2,-10.194 0,-8.742 4.368,-13.111 13.104,-13.111 5.637,0 10.2,-4.567 10.2,-10.198 0,-5.63 -4.564,-10.197 -10.201,-10.197 z" style="clip-rule:evenodd;fill:url(#linearGradientSjsn91j43a);fill-rule:evenodd;stroke:none" id="path3384" inkscape:connector-curvature="0"/>
 				</g>
@@ -54,9 +54,9 @@
 						<stop offset="100%" stop-color="#33b5cc" stop-opacity="0.53" id="stop3395"/>
 					</linearGradient>
 				</defs>
-				<g id="g3397"/>
-				<g id="g3399"/>
-				<g id="g3401"/>
+				
+				
+				
 				<g id="g3403">
 					<path d="m 73.232,28.96 c -5.631,0 -10.194,4.567 -10.194,10.197 0,8.74 -4.368,13.108 -13.11,13.108 -8.737,0 -13.111,-4.369 -13.111,-13.108 0,-5.63 -4.563,-10.197 -10.194,-10.197 -5.631,0 -10.194,4.567 -10.194,10.197 0,5.631 4.563,10.198 10.194,10.198 8.742,0 13.111,4.369 13.111,13.111 0,5.631 4.563,10.194 10.195,10.194 5.63,0 10.2,-4.563 10.2,-10.194 0,-8.742 4.368,-13.111 13.104,-13.111 5.637,0 10.2,-4.567 10.2,-10.198 0,-5.63 -4.564,-10.197 -10.201,-10.197 z" style="clip-rule:evenodd;fill:url(#linearGradientSjsn91j43g);fill-rule:evenodd;stroke:none" id="path3405" inkscape:connector-curvature="0"/>
 				</g>
@@ -70,9 +70,9 @@
 						<stop offset="100%" stop-color="#5accc2" stop-opacity="0.53" id="stop3416"/>
 					</linearGradient>
 				</defs>
-				<g id="g3418"/>
-				<g id="g3420"/>
-				<g id="g3422"/>
+				
+				
+				
 				<g id="g3424">
 					<path d="m 73.232,28.96 c -5.631,0 -10.194,4.567 -10.194,10.197 0,8.74 -4.368,13.108 -13.11,13.108 -8.737,0 -13.111,-4.369 -13.111,-13.108 0,-5.63 -4.563,-10.197 -10.194,-10.197 -5.631,0 -10.194,4.567 -10.194,10.197 0,5.631 4.563,10.198 10.194,10.198 8.742,0 13.111,4.369 13.111,13.111 0,5.631 4.563,10.194 10.195,10.194 5.63,0 10.2,-4.563 10.2,-10.194 0,-8.742 4.368,-13.111 13.104,-13.111 5.637,0 10.2,-4.567 10.2,-10.198 0,-5.63 -4.564,-10.197 -10.201,-10.197 z" style="clip-rule:evenodd;fill:url(#linearGradientSjsn91j43m);fill-rule:evenodd;stroke:none" id="path3426" inkscape:connector-curvature="0"/>
 				</g>
