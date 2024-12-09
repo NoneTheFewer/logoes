@@ -340,26 +340,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-7.5196801,-311.64787)">
-    <g
-       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd"
-       inkscape:label="Escudo"
-       id="layer1-6"
-       transform="matrix(1.0043627,0,0,1.0043627,340.2589,601.29671)" />
-    <g
-       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd"
-       inkscape:label="Piezas"
-       id="layer4"
-       transform="matrix(1.0043627,0,0,1.0043627,340.2589,601.29671)" />
-    <g
-       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd"
-       inkscape:label="Ornamento"
-       id="layer2"
-       transform="matrix(1.0043627,0,0,1.0043627,340.2589,601.29671)" />
-    <g
-       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd"
-       inkscape:label="Borde 3px"
-       id="layer6"
-       transform="matrix(1.0043627,0,0,1.0043627,340.2589,601.29671)" />
+    
+    
+    
+    
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.01226496999999990;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
@@ -384,21 +368,11 @@
        style="fill-rule:evenodd"
        transform="matrix(0.77947544,0,0,0.77781789,-18.114176,50.370955)"
        id="g2604">
-      <g
-         id="g2606"
-         style="display:inline" />
-      <g
-         id="layer2-4"
-         style="display:inline" />
-      <g
-         id="layer3"
-         style="display:inline" />
-      <g
-         id="layer4-2"
-         style="display:inline" />
-      <g
-         id="layer5"
-         style="display:inline" />
+      
+      
+      
+      
+      
       <g
          id="layer6-2"
          style="display:inline">
@@ -602,10 +576,7 @@
        id="g6186"
        transform="matrix(0.2285667,0,0,0.2285667,137.91106,366.55832)"
        style="fill:#f7be38;fill-opacity:1;stroke-width:6.56263590000000010;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         id="g3357"
-         transform="translate(-0.3746202,0.9805262)"
-         style="fill:#f7be38;fill-opacity:1;stroke-width:6.56263590000000010;stroke-miterlimit:4;stroke-dasharray:none" />
+      
       <g
          id="g3421"
          transform="translate(-0.1446301,-246.18848)"
@@ -678,10 +649,7 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <g
-       style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g14038"
-       transform="matrix(0.85131814,0,0,0.85131814,-1828.5927,709.08209)" />
+    
     <g
        id="g5469"
        style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -690,35 +658,19 @@
          style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(0.8985034,0,0,0.9168517,-1847.8068,527.00743)"
          id="g5471">
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-           id="g5473" />
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-           id="g5477"
-           transform="matrix(-1,0,0,1,5279.0731,0)" />
+        
+        
       </g>
       <g
          style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(-0.8985034,0,0,0.9168517,2847.7572,527.00743)"
          id="g5479">
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-           id="g5481" />
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-           id="g5485"
-           transform="matrix(-1,0,0,1,5279.0731,0)" />
+        
+        
       </g>
     </g>
-    <g
-       style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g34631"
-       transform="matrix(0.85131814,0,0,0.85131814,24.759612,112.86281)" />
-    <g
-       style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g14038-7"
-       transform="matrix(0.85131814,0,0,0.85131814,59.350548,667.01569)" />
+    
+    
     <g
        id="g5469-1"
        style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -727,87 +679,51 @@
          style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(0.8985034,0,0,0.9168517,-1847.8068,527.00743)"
          id="g5471-3">
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-           id="g5473-8" />
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-           id="g5477-4"
-           transform="matrix(-1,0,0,1,5279.0731,0)" />
+        
+        
       </g>
       <g
          style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(-0.8985034,0,0,0.9168517,2847.7572,527.00743)"
          id="g5479-8">
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-           id="g5481-0" />
-        <g
-           style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-           id="g5485-4"
-           transform="matrix(-1,0,0,1,5279.0731,0)" />
+        
+        
       </g>
     </g>
-    <g
-       style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g34631-6"
-       transform="matrix(0.85131814,0,0,0.85131814,1912.7028,70.796412)" />
+    
     <g
        id="g34628"
        transform="matrix(0.76491224,0,0,0.78053248,3128.3607,180.95053)"
        style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         id="g34630"
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none" />
-      <g
-         transform="matrix(-1,0,0,1,5279.0731,0)"
-         id="g34632"
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+      
+      
     </g>
     <g
        id="g34634"
        transform="matrix(-0.76491224,0,0,0.78053248,7125.7795,180.95053)"
        style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         id="g34636"
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none" />
-      <g
-         transform="matrix(-1,0,0,1,5279.0731,0)"
-         id="g34638"
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+      
+      
     </g>
     <g
        style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.76491224,0,0,0.78053248,5068.5494,36.289551)"
        id="g17894">
-      <g
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-         id="g17896" />
-      <g
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-         id="g17898"
-         transform="matrix(-1,0,0,1,5279.0731,0)" />
+      
+      
     </g>
     <g
        style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(-0.76491224,0,0,0.78053248,9065.9685,36.289551)"
        id="g17900">
-      <g
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none"
-         id="g17902" />
-      <g
-         style="fill:#ffe24b;fill-opacity:1;stroke-width:1.29419196;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-         id="g17904"
-         transform="matrix(-1,0,0,1,5279.0731,0)" />
+      
+      
     </g>
     <g
        style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.85131814,0,0,0.85131814,1256.9721,586.16719)"
        id="g51453">
-      <g
-         style="stroke-width:1.174649;stroke-miterlimit:4;stroke-dasharray:none"
-         id="g6943"
-         transform="translate(1.82016,2)" />
+      
     </g>
     <g
        id="g4088"
@@ -931,21 +847,11 @@
        style="fill-rule:evenodd"
        transform="matrix(0.77947544,0,0,0.77781789,355.90852,-22.522343)"
        id="g2604-1">
-      <g
-         id="g2606-5"
-         style="display:inline" />
-      <g
-         id="layer2-4-2"
-         style="display:inline" />
-      <g
-         id="layer3-7"
-         style="display:inline" />
-      <g
-         id="layer4-2-6"
-         style="display:inline" />
-      <g
-         id="layer5-1"
-         style="display:inline" />
+      
+      
+      
+      
+      
       <g
          transform="matrix(4.5457585,0,0,4.5554456,-141.82447,116.2829)"
          id="_143372240-2">

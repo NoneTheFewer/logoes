@@ -395,7 +395,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g id="g3058" transform="translate(10.5,-283.5375)"/>
+	
 	<g inkscape:groupmode="layer" id="layer6" inkscape:label="BW art" style="display:none">
 		<path d="m 454.71085,42.269964 c -1.84306,-4.16383 -8.01725,-8.0321 -10.56009,-8.00789 -2.54283,0.0242 -6.85424,-1.17464 -5.27554,-5.5465 1.5787,-4.37185 7.70455,-4.42682 10.36862,-3.40045 2.66408,1.02637 8.60663,3.31382 10.67443,17.60551 2.0678,14.29168 -3.36437,3.51316 -5.20742,-0.65067 z" id="path3072-7-6" style="fill:#000000;fill-opacity:1;stroke:none;display:inline" inkscape:connector-curvature="0" sodipodi:nodetypes="zzzzzz"/>
 		<path d="m 376.90653,28.503355 c -4.55875,2.209186 -5.68635,-4.51432 -3.82908,-7.783822 1.85727,-3.269502 7.61779,-7.338561 11.18656,-8.748148 3.56877,-1.409587 7.0703,-1.282096 7.84101,0.66902 -0.69594,7.238184 -10.63974,13.653764 -15.19849,15.86295 z" id="path3070-4-5" style="fill:#000000;fill-opacity:1;stroke:none;display:inline" inkscape:connector-curvature="0" sodipodi:nodetypes="zzzcz"/>
@@ -509,7 +509,7 @@
 	</g>
 	<g inkscape:groupmode="layer" id="layer5" inkscape:label="dxf lineart" style="display:none">
 		<g style="display:inline" transform="translate(-1595.256,-3899.9)" id="layer1">
-			<g transform="translate(1605.7072,3616.6359)" id="g3058-1"/>
+			
 			<g transform="translate(1605.7072,3616.6359)" id="g3060">
 				<path inkscape:connector-curvature="0" d="m 376.28676,565.33282 a 50.505437,50.505437 0 0 0 2.94079,-22.54604 4.006761,4.006761 0 1 0 -7.97559,0.77878 42.491917,42.491917 0 0 1 -2.47419,18.96875 4.0067627,4.0067627 0 0 0 7.50899,2.79851 z" id="path3062-7" style="fill:none;stroke:#00ff00"/>
 				<path inkscape:connector-curvature="0" d="m 310.44438,550.74978 a 59.389614,59.389614 0 0 1 1.23877,-16.00076 4.0067628,4.0067628 0 0 1 7.83278,1.69238 51.376093,51.376093 0 0 0 -1.07162,13.84176 4.0067635,4.0067635 0 0 1 -7.99993,0.46662 z" id="path3064-4" style="fill:none;stroke:#00ff00"/>

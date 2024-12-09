@@ -14,7 +14,7 @@
 				<mask id="mask-2" fill="white">
 					<use xlink:href="#path-1"/>
 				</mask>
-				<g id="path-1"/>
+				
 				<g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
 					<g transform="translate(-0.000278, -0.729132)" id="Path">
 						<polygon fill="#0077E0" points="39.3117763 45.7813179 39.6643483 45.1758944 39.6294616 23.6674596 39.2293449 22.8838977 19.6146724 34.4906786 19.3043967 35.1526001 19.2346233 56.6264569 19.6146724 57.2368201"/>

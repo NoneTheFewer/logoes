@@ -81,10 +81,10 @@
 			<text inkscape:label="icon-name" id="text3021" y="157.23398" x="7.7533054" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333349px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33264872;enable-background:new" xml:space="preserve">
 				<tspan y="157.23398" x="7.7533054" id="tspan3023" sodipodi:role="line" style="font-size:5.33333349px;stroke-width:0.33264872">org.gnome.Lollypop</tspan>
 			</text>
-			<g style="display:inline;fill:#000000;enable-background:new" transform="matrix(7.9911709,0,0,8.0036407,-167.7909,-4846.0776)" id="g12027" inkscape:export-xdpi="12" inkscape:export-ydpi="12"/>
+			
 			<rect style="display:inline;overflow:visible;visibility:visible;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" id="rect13805" width="128" height="128" x="9.2651362e-08" y="172" inkscape:label="512x512"/>
-			<g id="g883" style="fill:none;fill-opacity:0.25098039;stroke:#a579b3;stroke-opacity:1" transform="translate(-24,24)"/>
-			<g id="g900" style="fill:none;fill-opacity:0.25098039;stroke:#a579b3;stroke-opacity:1" transform="translate(-24,24)"/>
+			
+			
 			<g id="g1168" transform="matrix(0.25,0,0,0.25,6.9488522e-8,225)">
 				<circle cx="256" cy="44" r="240" id="path1142" style="opacity:0.1;fill:#2864b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"/>
 				<rect ry="32" rx="32" y="-180" x="96" height="448" width="319.99979" id="rect1110" style="opacity:0.1;fill:#2864b0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"/>

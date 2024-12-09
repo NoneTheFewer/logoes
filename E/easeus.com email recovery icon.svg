@@ -80,7 +80,7 @@
 				<mask id="mask-416" fill="white">
 					<use xlink:href="#path-415"/>
 				</mask>
-				<g id="蒙版" fill-rule="nonzero"/>
+				
 				<g mask="url(#mask-416)" id="编组-2">
 					<g transform="translate(0.000000, 2.608696)">
 						<mask id="mask-419" fill="white">

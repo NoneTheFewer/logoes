@@ -351,7 +351,7 @@
         </radialGradient>
     </defs>
     <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-61.535047,-137.02721)">
-        <g id="g14" transform="matrix(0.35277777,0,0,-0.35277777,147.7564,147.78587)" style="fill: rgb(0, 0, 0);" />
+        
         <g id="g18" transform="matrix(0.35277777,0,0,-0.35277777,77.987897,153.28215)">
             <path d="m 0,0 c -0.153,0.52 -1.9,0.714 -4.613,0.583 -3.594,-0.169 -6.307,-0.731 -7.52,-1.165 -0.1,-0.037 -0.166,-0.07 -0.209,-0.101 -0.764,-0.374 1.586,-0.826 4.529,-1.002 3.415,-0.203 6.652,-0.419 7.727,0.494 C 0.211,-0.938 0.184,-0.338 0,0" style="fill: rgb(40, 56, 146); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path20" />
         </g>

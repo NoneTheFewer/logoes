@@ -34,9 +34,9 @@
 		</rdf:RDF>
 	</metadata>
 	<g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-852.36213)">
-		<g aria-label=" " transform="translate(0,752.36213)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none" id="text2989"/>
-		<g id="g10089" transform="translate(8.0812204,18.182746)"/>
-		<g aria-label=" " transform="translate(0,752.36213)" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Vemana2000;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none" id="text10258"/>
+		
+		
+		
 		<g aria-label="LDAP Synchronization Connector" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Vemana2000;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none" id="text10262">
 			<path d="m 16.391453,1024.5283 h 3.759765 v 11.7383 h 6.601563 v 2.8418 H 16.391453 Z" style="font-size:20px;line-height:1.25;fill:#0169c9" id="path892"/>
 			<path d="m 32.885593,1027.3701 v 8.8965 h 1.347657 q 2.304687,0 3.515625,-1.1426 1.220703,-1.1426 1.220703,-3.3203 0,-2.168 -1.210938,-3.3008 -1.210937,-1.1328 -3.52539,-1.1328 z m -3.759765,-2.8418 h 3.964844 q 3.320312,0 4.941406,0.4785 1.630859,0.4688 2.792969,1.6016 1.02539,0.9863 1.523437,2.2754 0.498047,1.2891 0.498047,2.9199 0,1.6504 -0.498047,2.9492 -0.498047,1.2891 -1.523437,2.2754 -1.171875,1.1328 -2.8125,1.6113 -1.640625,0.4688 -4.921875,0.4688 h -3.964844 z" style="font-size:20px;line-height:1.25;fill:#0169c9" id="path894"/>

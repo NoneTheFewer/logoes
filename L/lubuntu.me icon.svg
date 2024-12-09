@@ -13,9 +13,9 @@
 	<defs id="defs87"/>
 	<g id="g750" transform="matrix(1.0986335,0,0,1.0986335,-2.9941007e-6,-3.3078078e-4)">
 		<g id="g3647" transform="matrix(-7.1710344,0,0,7.1710908,6330.5859,-133.95867)">
-			<g style="fill:#ffffff;fill-opacity:1" transform="matrix(0.415288,0,0,0.415288,609.13611,80.906538)" id="g4835-5-6-3"/>
-			<g style="fill:#ffffff;fill-opacity:1" transform="matrix(-0.21579109,0.35482154,-0.35482154,-0.21579109,919.22927,-144.75119)" id="g4835-5-6-3-7"/>
-			<g style="fill:#ffffff;fill-opacity:1" transform="matrix(-0.20731956,-0.35983709,0.35983709,-0.20731956,958.85963,231.66525)" id="g4835-5-6-3-1"/>
+			
+			
+			
 			<path id="path2819-8-3-8-5" d="M 806.64135,56.76042 C 806.64135,35.73093 823.69031,18.68042 844.72117,18.68042 C 865.7512,18.68042 882.79954,35.73093000000006 882.79954,56.76042 C 882.79954,77.79018 865.7512,94.83801 844.72117,94.83801 C 823.69031,94.83801 806.64135,77.79018 806.64135,56.76042" style="fill:#0068c8;fill-opacity:1;stroke-width:1.76783657" inkscape:connector-curvature="0"/>
 		</g>
 		<g transform="matrix(1.6332749,0,0,1.6332749,-943.27495,-701.28981)" id="g3185" style="fill:#ffffff">
@@ -28,8 +28,8 @@
 				<path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 1169.7781,1675.729 C 1167.8028,1679.8292 1166.4295,1684.2188 1165.7156,1688.7137 C 1163.5014,1702.6553 1167.6443,1716.7374 1171.7731,1730.2365 C 1175.902,1743.7355 1180.1107,1757.7831 1178.0281,1771.745 C 1176.4726,1782.173 1171.388,1791.9339 1164.2714,1799.7131 C 1157.1548,1807.4923 1148.0711,1813.3417 1138.3093,1817.3252 C 1122.2296,1823.8868 1104.1426,1825.4286 1087.1843,1821.6833 L 1087.1843,1868.0951 L 1101.1298,1834.9651 C 1119.2033,1839.0898 1138.5527,1837.421 1155.6531,1830.2627 C 1167.9004,1825.1359 1179.0742,1817.1539 1187.1308,1806.6006 C 1195.1875,1796.0473 1199.9936,1782.8614 1199.6531,1769.5887 C 1199.2438,1753.6332 1191.7091,1738.8451 1184.4163,1724.6479 C 1177.1236,1710.4507 1169.7342,1695.5492 1169.6531,1679.5887 C 1169.6431,1678.3012 1169.6881,1677.0134 1169.7781,1675.729 L 1169.7781,1675.729" id="path3155-5" inkscape:connector-curvature="0"/>
 			</g>
 			<g transform="translate(-8)" id="g3179" style="fill:#ffffff">
-				<g id="text3142" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.22270203px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none" transform="matrix(1.0005173,0,0,0.99948297,0.16863416,0)"/>
-				<g id="text3152" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.98835564px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none" transform="matrix(1.0005173,0,0,0.99948297,9,0)"/>
+				
+				
 			</g>
 		</g>
 	</g>

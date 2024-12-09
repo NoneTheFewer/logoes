@@ -235,11 +235,11 @@
     </defs>
     <g style="display:inline" id="layer1" transform="translate(-15.428319,-4.4861167)">
         <g id="layer4" style="display:inline">
-            <g id="g6154" style="fill:#ffffff" transform="matrix(1.25,0,0,1.25,-78,-47.25)" />
+            
         </g>
         <g id="layer5" style="display:inline">
-            <g id="g8198" transform="matrix(5.0928038,0,0,2.2388776,20.301687,129.4805)" style="opacity:0.4" />
-            <g id="g8230" style="display:inline" transform="matrix(4.8890868,0,0,4.8890868,322.06038,251.81989)" />
+            
+            
             <g style="display:inline;enable-background:new" id="g3211" transform="matrix(0.5,0,0,0.5,143.80647,6.0138877)">
                 <path transform="matrix(0.98186805,0,0,0.26182745,5.163187,394.90446)" style="display:inline;fill:url(#linearGradient3227);fill-opacity:1;stroke:none;filter:url(#filter5692);enable-background:new" d="m 229.00001,530 c 0,0 -175.528628,-366.71501 -224.2343478,-366.6728 -48.7057202,0.0422 -125.3637222,178.14259 -150.9245722,266.37026 -25.56083,88.22768 27.66165,37.95068 267.66713,-47.8494 -43.257258,34.33899 -332.8723,214.94732 -332.50787,120.18647 C -210.63523,407.2737 -72.888998,77.999999 4.7656622,77.999999 82.420322,77.999999 213.23453,410.98418 229.00001,530 Z" id="path3255-1-8-0-4" />
                 <path transform="matrix(0.92530479,0,0,0.25103764,22.67227,407.18456)" style="display:inline;opacity:0.14722224;fill:url(#linearGradient3229);fill-opacity:1;stroke:none;filter:url(#filter16317);enable-background:new" d="m 229.00001,530 c 0,0 -175.528628,-366.71501 -224.2343478,-366.6728 -48.7057202,0.0422 -125.3637222,178.14259 -150.9245722,266.37026 0,0 -55.58733,150.62858 -64.84074,72.33707 C -210.63523,407.2737 -72.888998,77.999999 4.7656622,77.999999 82.420322,77.999999 213.23453,410.98418 229.00001,530 Z" id="path3255-1-8-0" />

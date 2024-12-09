@@ -4110,7 +4110,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g inkscape:groupmode="layer" id="layer5" inkscape:label="background" style="display:inline" transform="translate(1871.0903,656.4282)"/>
+	
 	<g inkscape:label="Icons" inkscape:groupmode="layer" id="layer1" transform="translate(2184.0263,77.704638)" style="display:inline">
 		<g transform="translate(-3550.7577,-319.9478)" style="display:none" id="g4127" inkscape:label="taustakuva">
     </g>
@@ -4154,5 +4154,5 @@
 			<path id="path5077" d="M 587.9088,485.6666 C 587.9088,566.51921 522.28929,632.13872 441.43668,632.13872 C 360.58406,632.13872 294.96455,566.51921 294.96455,485.6666 C 294.96455,404.81398 360.58406,339.19447 441.43668,339.19447 C 522.28929,339.19447 587.9088,404.81398 587.9088,485.6666 z" style="opacity:0.6;fill:url(#radialGradient9833);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" transform="matrix(0.2879784,-1.682102e-2,-1.682102e-2,-0.2879784,-2238.8955,133.27137)"/>
 		</g>
 	</g>
-	<g inkscape:groupmode="layer" id="layer6" inkscape:label="Text" transform="translate(53.74013,3.6856623e-6)"/>
+	
 </svg>

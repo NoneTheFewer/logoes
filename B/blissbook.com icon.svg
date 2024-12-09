@@ -15,7 +15,7 @@
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"/>
                         </mask>
-                        <g id="Fill-1"/>
+                        
                         <g id="mixin/gray-darkest" mask="url(#mask-2)" fill="#333333">
                             <g id="Fill-7">
                                 <polygon points="0 135 200 135 200 0 0 0"/>
