@@ -10,7 +10,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <g id="Mask"></g>
+                
                 <polygon id="Rectangle" fill="#E60103" mask="url(#mask-2)" points="-1.37591327e-13 0 79 0 79 48 -1.37591327e-13 48"></polygon>
                 <polygon id="Rectangle" fill="#2C2CA4" mask="url(#mask-2)" points="79 0 158 0 158 48 79 48"></polygon>
             </g>

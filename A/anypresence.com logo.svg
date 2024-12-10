@@ -59,7 +59,7 @@
                                         <mask id="mask-2" fill="white">
                                             <use xlink:href="#path-1"></use>
                                         </mask>
-                                        <g id="path72"></g>
+                                        
                                         <g id="g96" opacity="0.69999701" mask="url(#mask-2)">
                                             <g transform="translate(-0.000000, 0.000000)" id="g94">
                                                 <g transform="translate(-0.000000, 0.000000)">
@@ -67,7 +67,7 @@
                                                         <mask id="mask-4" fill="white">
                                                             <use xlink:href="#path-3"></use>
                                                         </mask>
-                                                        <g id="path76"></g>
+                                                        
                                                         <g id="g92" mask="url(#mask-4)">
                                                             <g transform="translate(-0.000000, 0.000000)" id="g90">
                                                                 <g transform="translate(-0.000000, 0.000000)">
