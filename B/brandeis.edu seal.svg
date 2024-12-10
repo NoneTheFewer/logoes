@@ -3541,11 +3541,7 @@
                     <g id="g7138" transform="translate(-14.1732,181.8283)">
                         <path inkscape:connector-curvature="0" id="path7140" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 0,-180.107 0,-0.06 608.388,0 1.06,0.009 0,185.157 L 0,0 Z" />
                     </g>
-                    <g id="g7142">
-                        <g id="g7144" clip-path="url(#clipPath7124)">
-                            
-                        </g>
-                    </g>
+                    
                 </g>
             </g>
         </mask>
@@ -3587,13 +3583,7 @@
                             </g>
                         </g>
                     </g>
-                    <g id="g9694">
-                        <g id="g9696" clip-path="url(#clipPath9672)">
-                            <g id="g9698">
-                                
-                            </g>
-                        </g>
-                    </g>
+                    
                 </g>
             </g>
         </mask>

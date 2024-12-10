@@ -74,13 +74,7 @@
             <path d="m 144.698,572.294 h 339.84 v -89.28 h -339.84 z" id="path423" />
         </clipPath>
         <mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask427">
-            <g id="g437">
-                <g clip-path="url(#clipPath425)" id="g435">
-                    <g id="g433">
-                        
-                    </g>
-                </g>
-            </g>
+            
         </mask>
         <clipPath clipPathUnits="userSpaceOnUse" id="clipPath445">
             <path d="m 161.258,558.614 h 261.36 v -59.4 h -261.36 z" id="path443" />
@@ -106,25 +100,13 @@
             <path d="m 147.319,569.583 h 326.88 v -76.68 h -326.88 z" id="path487" />
         </clipPath>
         <mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask491">
-            <g id="g501">
-                <g clip-path="url(#clipPath489)" opacity="0.289993" id="g499">
-                    <g id="g497">
-                        
-                    </g>
-                </g>
-            </g>
+            
         </mask>
         <clipPath clipPathUnits="userSpaceOnUse" id="clipPath531">
             <path d="m 285.825,75.5373 h 142.56 v -54.72 h -142.56 z" id="path529" />
         </clipPath>
         <mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask533">
-            <g id="g543">
-                <g clip-path="url(#clipPath531)" id="g541">
-                    <g id="g539">
-                        
-                    </g>
-                </g>
-            </g>
+            
         </mask>
         <clipPath clipPathUnits="userSpaceOnUse" id="clipPath551">
             <path d="m 288.345,73.3773 h 137.16 v -49.32 h -137.16 z" id="path549" />

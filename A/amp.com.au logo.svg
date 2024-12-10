@@ -7,13 +7,7 @@
       <path id="path3578" d="m -0.00142,-0.00142 653.62342,0 0,900.23744 -653.62342,0 0,-900.23744 z"/>
     </clipPath>
     <mask id="mask3490" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
-      <g id="g3492">
-        <g id="g3494" clip-path="url(#clipPath3482)">
-          <g id="g3496">
-            
-          </g>
-        </g>
-      </g>
+      
     </mask>
     <clipPath id="clipPath3486" clipPathUnits="userSpaceOnUse">
       <path id="path3488" clip-rule="evenodd" d="m 231.1007,417.5108 96.84028,0 0,97.20028 -96.84028,0 0,-97.20028 z"/>
@@ -25,13 +19,7 @@
       <path id="path3476" d="m 14.99858,14.99858 623.62342,0 0,870.23744 -623.62342,0 0,-870.23744 z"/>
     </clipPath>
     <mask id="mask3446" height="1" width="1" y="0" x="0" maskUnits="userSpaceOnUse">
-      <g id="g3448">
-        <g id="g3450" clip-path="url(#clipPath3438)">
-          <g id="g3452">
-            
-          </g>
-        </g>
-      </g>
+      
     </mask>
     <clipPath id="clipPath3442" clipPathUnits="userSpaceOnUse">
       <path id="path3444" clip-rule="evenodd" d="m 211.04687,403.43216 137.16029,0 0,125.64028 -137.16029,0 0,-125.64028 z"/>

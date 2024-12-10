@@ -21,11 +21,7 @@
             <path d="m 142.272,765.637 127.442,0 0,-127.442 -127.442,0 0,127.442 z" id="path5920" inkscape:connector-curvature="0" />
         </clipPath>
         <mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask5922">
-            <g id="g5924">
-                <g clip-path="url(#clipPath5918)" id="g5926">
-                    
-                </g>
-            </g>
+            
         </mask>
         <mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask5934">
         </mask>
