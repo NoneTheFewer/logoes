@@ -157,12 +157,10 @@
             <path d="M0 0h150v150H0z" />
         </clipPath>
         <mask id="aa">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="g">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="j">
             <g filter="url(#a)">
@@ -198,12 +196,10 @@
             </g>
         </mask>
         <mask id="af">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="r">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="u">
             <g filter="url(#a)">
@@ -239,12 +235,10 @@
             </g>
         </mask>
         <mask id="ak">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="C">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="F">
             <g filter="url(#a)">
@@ -280,12 +274,10 @@
             </g>
         </mask>
         <mask id="ap">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="N">
-            <g filter="url(#a)">
-            </g>
+            
         </mask>
         <mask id="Q">
             <g filter="url(#a)">

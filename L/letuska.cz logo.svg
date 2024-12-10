@@ -19,7 +19,7 @@
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
-                    <g id="SVGID_20_"></g>
+                    
                     <polygon id="Shape" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="-5.36460912 3.70233247 18.8686252 -8.33024806 29.4128569 12.773047 5.1796226 24.8056275"></polygon>
                 </g>
             </g>

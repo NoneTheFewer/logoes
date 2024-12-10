@@ -89,7 +89,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <g id="矩形"></g>
+                
                 <g id="编组" mask="url(#mask-2)">
                     <g transform="translate(-54.387685, 2.306618)">
                         <path d="M10.0630684,40.8289236 L91.0850013,29.4123802 C97.4774553,28.5116398 103.387861,32.9770483 104.286262,39.3861493 L115.673152,120.619077 C116.571553,127.028178 112.117743,132.953975 105.725289,133.854716 L24.7033557,145.271259 C18.3109017,146.171999 12.4004961,141.706591 11.5020952,135.29749 L0.115205171,54.0645623 C-0.783195649,47.6554613 3.67061444,41.729664 10.0630684,40.8289236 Z" id="矩形" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd"></path>
@@ -111,7 +111,7 @@
                 <mask id="mask-13" fill="white">
                     <use xlink:href="#path-12" transform="translate(29.500000, 75.000000) scale(-1, 1) translate(-29.500000, -75.000000) "></use>
                 </mask>
-                <g id="矩形" transform="translate(29.500000, 75.000000) scale(-1, 1) translate(-29.500000, -75.000000) "></g>
+                
                 <g id="编组" mask="url(#mask-13)">
                     <g transform="translate(5.220406, 2.306618)">
                         <g id="矩形" fill="none" fill-rule="evenodd">

@@ -31,7 +31,7 @@
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
-                        <g id="Clip-135"></g>
+                        
                         <polygon id="Fill-134" fill="#FD863A" mask="url(#mask-2)" points="-1.07984078 -1.04256497 125.463654 -1.04256497 125.463654 125.500929 -1.07984078 125.500929"></polygon>
                     </g>
                     <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="480.229219 6.24008285 170.505015 159.235652 133.160729 329.673938 149.505015 470.499535 479.5 625.380969 807.094323 461.505969 830.127526 343.338001 789.971428 159.235652"></polygon>
@@ -56,14 +56,14 @@
                     <mask id="mask-10" fill="white">
                         <use xlink:href="#path-9"></use>
                     </mask>
-                    <g id="Clip-138"></g>
+                    
                     <polygon id="Fill-137" fill="#1FF6EF" mask="url(#mask-10)" points="-2.09932712 -2.35350574 86.5487616 -2.35350574 86.5487616 86.2950537 -2.09932712 86.2950537"></polygon>
                 </g>
                 <g id="bubble" transform="translate(0.000000, 179.987296)">
                     <mask id="mask-12" fill="white">
                         <use xlink:href="#path-11"></use>
                     </mask>
-                    <g id="Clip-141"></g>
+                    
                     <polygon id="Fill-140" fill="#43CAF8" mask="url(#mask-12)" points="-2.04613789 -2.04048948 192.494277 -2.04048948 192.494277 192.499292 -2.04613789 192.499292"></polygon>
                 </g>
             </g>

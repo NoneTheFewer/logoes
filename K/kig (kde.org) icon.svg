@@ -27,8 +27,7 @@
 	<!ENTITY st18 "fill:url(#XMLID_9_);stroke:none;">
 ]>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" viewBox="0 0 128 128" style="overflow:visible;enable-background:new 0 0 128 128" xml:space="preserve">
-	<g id="Layer_2" style="stroke:#000000;">
-	</g>
+	
 	<g id="Layer_1" style="stroke:#000000;">
 		<linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="17.8501" y1="64.9521" x2="111.7305" y2="64.9521">
 			<stop offset="0" style="stop-color:#474747"/>

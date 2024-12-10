@@ -73,7 +73,7 @@
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
-                            <g id="SVGID_3_"></g>
+                            
                             <g id="Group" mask="url(#mask-2)">
                                 <g transform="translate(-4.314607, -45.303371)">
                                     <g id="XMLID_15_" opacity="0.5" transform="translate(0.000000, 1.438202)">
@@ -89,7 +89,7 @@
                             <mask id="mask-4" fill="white">
                                 <use xlink:href="#path-3"></use>
                             </mask>
-                            <g id="SVGID_3_"></g>
+                            
                             <rect id="XMLID_85_" fill="#E7E7E7" mask="url(#mask-4)" x="-44.0808989" y="18.6966292" width="16.6831461" height="18.3370787"></rect>
                         </g>
                     </g>

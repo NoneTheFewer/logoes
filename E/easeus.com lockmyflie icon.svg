@@ -78,7 +78,7 @@
                 <mask id="mask-11" fill="white">
                     <use xlink:href="#path-10"></use>
                 </mask>
-                <g id="Clip-12"></g>
+                
                 <g id="Fill-13">
                     <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-13"></use>
                     <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>

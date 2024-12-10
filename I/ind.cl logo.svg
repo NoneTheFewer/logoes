@@ -136,8 +136,7 @@
 	.st131{fill:url(#SVGID_00000071555883903099426040000001802502990783798437_);}
 	.st132{display:none;}
 </style>
-<g id="fondo">
-</g>
+
 <g id="Capa_1">
 	<g>
 		<defs>
@@ -146,9 +145,7 @@
 		<clipPath id="SVGID_00000061433740757320965160000007869212970296023437_">
 			<use xlink:href="#SVGID_00000002352542426269713610000002124906355341348485_" style="overflow:visible;"></use>
 		</clipPath>
-		<g style="clip-path:url(#SVGID_00000061433740757320965160000007869212970296023437_);">
-			
-		</g>
+		
 	</g>
 	<g>
 		<g>
@@ -307,6 +304,5 @@
 		</g>
 	</g>
 </g>
-<g id="guias" class="st132">
-</g>
+
 </svg>
