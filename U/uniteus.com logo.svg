@@ -44,8 +44,7 @@
 <mask id="mask7_1315_1961" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="192" height="48">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M0 47.3438H191.925V0.65625H0V47.3438Z" fill="white"/>
 </mask>
-<g mask="url(#mask7_1315_1961)">
-</g>
+
 <mask id="mask8_1315_1961" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="192" height="48">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M0 47.3438H191.925V0.65625H0V47.3438Z" fill="white"/>
 </mask>

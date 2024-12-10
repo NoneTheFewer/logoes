@@ -157,8 +157,7 @@
         </filter>
         <mask id="mask" x="269.01" y="38.42" width="233.71" height="258.08" maskUnits="userSpaceOnUse">
             <g class="cls-29">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-noclip-2" x="320.42" y="306.96" width="253.65" height="233.71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -167,8 +166,7 @@
         </filter>
         <mask id="mask-2" x="139.42" y="23.46" width="253.65" height="233.71" maskUnits="userSpaceOnUse">
             <g class="cls-28">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-noclip-3" x="324.3" y="310.84" width="233.71" height="202.7" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -177,8 +175,7 @@
         </filter>
         <mask id="mask-3" x="143.3" y="27.34" width="233.71" height="202.7" maskUnits="userSpaceOnUse">
             <g class="cls-27">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-noclip-4" x="570.75" y="314.72" width="99.69" height="85.84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -187,8 +184,7 @@
         </filter>
         <mask id="mask-4" x="389.75" y="31.22" width="99.69" height="85.84" maskUnits="userSpaceOnUse">
             <g class="cls-26">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-invert" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -215,8 +211,7 @@
         </filter>
         <mask id="mask-6" x="139.42" y="23.46" width="269.71" height="238.14" maskUnits="userSpaceOnUse">
             <g class="cls-24">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-noclip-6" x="238.27" y="255.42" width="520.59" height="369.95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -225,8 +220,7 @@
         </filter>
         <mask id="mask-7" x="57.27" y="-28.08" width="520.59" height="369.95" maskUnits="userSpaceOnUse">
             <g class="cls-23">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <filter id="luminosity-noclip-7" x="213.9" y="235.48" width="569.33" height="409.83" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -235,14 +229,12 @@
         </filter>
         <mask id="mask-8" x="32.9" y="-48.02" width="569.33" height="409.83" maskUnits="userSpaceOnUse">
             <g class="cls-22">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
         <mask id="mask-9" x="32.9" y="-48.02" width="569.33" height="409.83" maskUnits="userSpaceOnUse">
             <g class="cls-21">
-                <g transform="translate(-181 -283.5)">
-                </g>
+                
             </g>
         </mask>
     </defs>

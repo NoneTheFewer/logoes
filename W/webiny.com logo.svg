@@ -15,7 +15,7 @@
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <use id="Mask" fill="#FA5A28" fill-rule="evenodd" xlink:href="#path-1"></use>
-                    <g id="Orange" mask="url(#mask-2)"></g>
+                    
                 </g>
             </g>
         </g>

@@ -10,7 +10,7 @@
 										<mask id="mask-2" fill="white">
 											<use xlink:href="#path-1"></use>
 										</mask>
-										<g id="Clip-6"></g>
+										
 										<polygon id="Fill-5" fill="#FEFEFE" mask="url(#mask-2)" points="0.001 84.1497 84.149 84.1497 84.149 12.2307 0.001 12.2307"></polygon>
 										<path d="M84.1488,67.107 L84.1488,66.956 L84.1488,67.107 Z" id="Fill-7" fill="#275E31" mask="url(#mask-2)"></path>
 										<path d="M55.1186,84.1495 L51.7326,84.1495 C51.9546,84.2115 53.7106,84.1645 55.1186,84.1495" id="Fill-8" fill="#275E31" mask="url(#mask-2)"></path>

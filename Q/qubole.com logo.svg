@@ -5,8 +5,7 @@
 	<g id="qubole-logo" transform="translate(-10.000000, -10.000000)">
 		<g transform="translate(10.000000, 10.000000)">
 			<g id="Group-173">
-				<g id="Clip-172">
-				</g>
+				
 				<defs>
 					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="52" y="1.6" width="205.8" height="196.9">
 						<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
@@ -19,8 +18,7 @@
 				</mask>
 				<path id="Fill-171" mask="url(#mask-2_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#0774B6" d="M236.6,139l-11.3,12.1      l-0.8,0.8h-47.2l-0.8-0.8l-11.3-12.1V68.2h18.4V132h34.5V68.2h18.4V139z M151.1,165.7l-12.7-14H87.5v-0.2l-11.8-13.2V53.9      l11.8-13.2v-0.2h58v0.2l11.8,13.2v84.4l-5.2,5.9l10,11.2L151.1,165.7z M250.1,1.6H59.7C55.5,1.6,52,5,52,9.3v181.5      c0,4.2,3.5,7.7,7.7,7.7h190.4c4.2,0,7.7-3.5,7.7-7.7V9.3C257.8,5,254.3,1.6,250.1,1.6L250.1,1.6z"/>
 			</g>
-			<g id="Clip-175">
-			</g>
+			
 			<defs>
 				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="275.5" y="45.6" width="65.1" height="108.3">
 					<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>

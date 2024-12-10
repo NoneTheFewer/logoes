@@ -13,7 +13,7 @@
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
-                        <g id="path-1"></g>
+                        
                         <polygon id="Fill-1" mask="url(#mask-2)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
                     </g>
                 </g>
@@ -30,7 +30,7 @@
                         <mask id="mask-4" fill="white">
                             <use xlink:href="#path-3"></use>
                         </mask>
-                        <g id="path-3"></g>
+                        
                         <polygon id="Fill-11" mask="url(#mask-4)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
                     </g>
                 </g>

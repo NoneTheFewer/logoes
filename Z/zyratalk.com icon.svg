@@ -8,8 +8,7 @@
 	.st3{fill:url(#SVGID_4_);}
 	.st4{fill:url(#SVGID_5_);}
 </style>
-<g id="Layer_2">
-</g>
+
 <g id="Layer_1">
 	<g>
 		<g>
@@ -19,9 +18,7 @@
 			<clipPath id="SVGID_2_">
 				<use xlink:href="#SVGID_1_" style="overflow:visible;"/>
 			</clipPath>
-			<g style="clip-path:url(#SVGID_2_);">
-				
-			</g>
+			
 		</g>
 		<g>
 			<g>

@@ -27,8 +27,7 @@
       <feBlend in="SourceGraphic" in2="bg"/>
     </filter>
     <mask id="mask" x="-2.89" y="48.47" width="64" height="19" maskUnits="userSpaceOnUse">
-      <g class="cls-3">
-      </g>
+      
     </mask>
     <radialGradient id="_名称未設定グラデーション_2" data-name="名称未設定グラデーション 2" cx="28.87" cy="2.05" fx="28.87" fy="2.05" r="62.41" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>

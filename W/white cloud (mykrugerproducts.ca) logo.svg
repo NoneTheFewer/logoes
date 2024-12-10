@@ -14,7 +14,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <g id="SVGID_1_"></g>
+                
                 <rect id="Rectangle" fill="url(#radialGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="199" height="122.192"></rect>
             </g>
             <g id="Group" transform="translate(20.000000, 48.000000)" fill="#000000" fill-rule="nonzero">
