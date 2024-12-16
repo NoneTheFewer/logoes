@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100.77757 41.443455" version="1.1" id="svg1886" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="vcl.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100.77757 41.443455" version="1.1" id="svg1886" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="vcl.svg">
 	<defs id="defs1880">
 		<linearGradient id="SVGID_1_-7" gradientUnits="userSpaceOnUse" x1="-6873.6479" y1="2774.2998" x2="-6636.2373" y2="2496.6895" gradientTransform="matrix(0.4345,-0.9318,-0.9318,-0.4345,6223.4761,-5052.7427)">
 			<stop offset="0" style="stop-color:#F59723" id="stop3172-5"/>
@@ -63,15 +63,6 @@
 		</linearGradient>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4" inkscape:cx="-448.53881" inkscape:cy="-64.824454" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="3726" inkscape:window-height="2049" inkscape:window-x="114" inkscape:window-y="55" inkscape:window-maximized="1"/>
-	<metadata id="metadata1883">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(1.1425584,-90.23841)">
 		<ellipse style="opacity:1;fill:#e9e9e9;fill-opacity:1;stroke:#2b2b2b;stroke-width:0.74181241;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path2446" cx="49.246227" cy="110.96014" rx="50.017879" ry="20.350821"/>
 		<g aria-label="VCL" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.57944489px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#981b1e;fill-opacity:1;stroke:none;stroke-width:1.11197972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="text2444">

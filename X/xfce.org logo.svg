@@ -1,35 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 760">
-	<metadata id="metadata12">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>XFCE 4 Logo</dc:title>
-				<dc:creator>
-					<cc:Agent>
-						<dc:title>Savvas Radevic</dc:title>
-					</cc:Agent>
-				</dc:creator>
-				<dc:source>http://www.xfce.org/about/artwork</dc:source>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
-				<dc:description>XFCE logo
-* Based on xfce_logo.svg from http://www.xfce.org/about/artwork
-* Optimized colours
-* Added &quot;X&quot; and &quot;XFCE&quot; text.
-</dc:description>
-			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
-			</cc:License>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 760">
 	<defs id="defs588">
 		<linearGradient id="linearGradient4380">
 			<stop id="stop4382" style="stop-color:#000000" offset="0"/>

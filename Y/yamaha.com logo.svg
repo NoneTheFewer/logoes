@@ -1,17 +1,7 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape by Victor Gasia -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="341.829 73.3 301.25 67" id="Logo-Yamaha" xml:space="preserve">
-	
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="341.829 73.3 301.25 67" id="Logo-Yamaha" xml:space="preserve">
 	<desc id="description">Extrait par Victor GASIA 2011</desc>
-	<metadata id="metadata">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<defs id="defs"/>
 	<radialGradient cx="409.80081" cy="334.4487" r="46.412899" id="SVGID_2_" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1559,1.1559,1.0476,-1.0476,-480.6613,-48.5159)">
 		<stop id="stop14" style="stop-color:#e4ebee;stop-opacity:1" offset="0.0476"/>

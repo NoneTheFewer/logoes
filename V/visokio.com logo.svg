@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 264.33331 79.369331" xml:space="preserve" id="svg2" version="1.1" sodipodi:docname="Visokio.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 264.33331 79.369331" xml:space="preserve" id="svg2" version="1.1" sodipodi:docname="Visokio.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1017" id="namedview3765" showgrid="false" inkscape:zoom="3.0219252" inkscape:cx="215.85241" inkscape:cy="-25.997346" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
-	<metadata id="metadata8">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<defs id="defs6">
 		<clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
 			<path id="path16" d="M 0,595.276 H 841.89 V 0 H 0 Z" inkscape:connector-curvature="0"/>

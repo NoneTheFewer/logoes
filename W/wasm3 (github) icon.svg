@@ -1,15 +1,7 @@
 <?xml version="1.0" ?>
 <!-- Created by AtomCrusher for the English Wikipedia -->
-<svg viewBox="0 0 612 612" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg6" sodipodi:docname="wasm-symbol.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 612 612" version="1.1" id="svg6" sodipodi:docname="wasm-symbol.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
 	<path d="m376 0c0 1.08 0 2.16 0 3.3 0 38.76-31.42 70.17-70.17 70.17-38.76 0-70.17-31.42-70.17-70.17l0 0c0-1.14 0-2.22 0-3.3L0 0l0 612 612 0 0-612z" id="path2" fill="#654ff0" style="fill:#000000"/>
-	<metadata id="metadata12">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<defs id="defs10"/>
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1876" inkscape:window-height="1043" id="namedview8" showgrid="false" inkscape:zoom="0.54535033" inkscape:cx="194.41042" inkscape:cy="320.43749" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="flowRoot816"/>
 	<!-- Block -->
