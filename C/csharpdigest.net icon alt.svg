@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" fill="#9e0cf5" viewBox="0 0 500 500" version="1.2" baseProfile="tiny-ps">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" fill="#9e0cf5" viewBox="0 0 500 500" version="1.2" baseProfile="tiny-ps">
 	<title>C# Digest</title>
 	<defs id="defs5"/>
 	<path d="m0 0h500v500h-500z" id="path1"/>
@@ -10,5 +10,4 @@
 			<path d="m 439.945,258.094 h -17.609 v -15.145 h 5.785 c 0.58,0 1.112,-0.338 1.353,-0.87 l 11.824,-26.413 c 0.435,-0.978 -0.278,-2.089 -1.353,-2.089 h -17.597 v -13.732 c 0,-0.821 -0.664,-1.486 -1.485,-1.486 h -26.486 c -0.821,0 -1.485,0.665 -1.485,1.486 v 13.732 h -15.29 v -13.732 c 0,-0.821 -0.664,-1.486 -1.485,-1.486 h -26.486 c -0.821,0 -1.485,0.665 -1.485,1.486 v 13.732 h -5.785 c -0.58,0 -1.112,0.338 -1.353,0.869 l -11.812,26.413 c -0.435,0.979 0.278,2.09 1.353,2.09 h 17.597 v 15.145 h -5.785 c -0.58,0 -1.112,0.338 -1.353,0.881 l -11.824,26.534 c -0.435,0.978 0.278,2.077 1.353,2.077 h 17.609 v 13.599 c 0,0.822 0.664,1.474 1.485,1.474 h 26.486 c 0.821,0 1.485,-0.664 1.485,-1.474 v -13.599 h 15.302 v 13.599 c 0,0.822 0.664,1.474 1.473,1.474 h 26.486 c 0.821,0 1.485,-0.664 1.485,-1.474 v -13.599 h 5.785 c 0.58,0 1.112,-0.338 1.353,-0.881 l 11.824,-26.534 c 0.435,-0.978 -0.29,-2.077 -1.365,-2.077 z m -42.935,4.178 h -23.526 v -23.526 h 23.526 z" id="path4"/>
 		</g>
 	</g>
-	<metadata/>
 </svg>

@@ -1,17 +1,8 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 195.29016 25.24518" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="datafu.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 195.29016 25.24518" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="datafu.svg">
 	<defs id="defs14254"/>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-535.71428" inkscape:cy="-6.6647937" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="3726" inkscape:window-height="2049" inkscape:window-x="114" inkscape:window-y="55" inkscape:window-maximized="1"/>
-	<metadata id="metadata14257">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-21.922617,-121.82476)">
 		<g aria-label="Apache DataFu" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.69866562px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.86176968px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="text14807">
 			<path d="M 26.56755,138.70431 L 24.90865,142.4724 L 21.92262,142.4724 L 29.22181,125.90703 L 32.20784,125.90703 L 39.50703,142.4724 L 36.52099,142.4724 L 34.86209,138.70431 L 26.56755,138.70431 M 33.72455,136.12115 L 30.71482,129.29594 L 27.70509,136.12115 L 33.72455,136.12115" style="fill:#525252;fill-opacity:1;stroke-width:0.86176968px" id="path14818" inkscape:connector-curvature="0"/>

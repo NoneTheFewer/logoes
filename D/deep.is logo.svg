@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 732.64606 189.25804" sodipodi:docname="deepdb.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" inkscape:export-filename="/home/pavlo/Dropbox/Images/Logos/deepdb.png" inkscape:export-xdpi="209.64999" inkscape:export-ydpi="209.64999">
-	<metadata id="metadata8">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 732.64606 189.25804" sodipodi:docname="deepdb.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" inkscape:export-filename="/home/pavlo/Dropbox/Images/Logos/deepdb.png" inkscape:export-xdpi="209.64999" inkscape:export-ydpi="209.64999">
 	<defs id="defs6">
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
 			<path d="M 0.0,0.00012 L 720.0,0.00012 L 720.0,540.00012 L 0.0,540.00012 L 0.0,0.00012" id="path16" inkscape:connector-curvature="0" style="clip-rule:evenodd"/>
@@ -92,7 +83,6 @@
 	</defs>
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="1153" id="namedview4" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.46354778" inkscape:cx="-446.94747" inkscape:cy="369.33179" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="g10"/>
 	<g id="g10" inkscape:groupmode="layer" inkscape:label="Deep Logo for PPT" transform="matrix(1.3333333,0,0,-1.3333333,-110.72007,391.88496)">
-		
 		<g id="g170" transform="matrix(1.5264139,-7.066808e-8,0,1.5268327,28.08,85.44)">
 			<g id="g172" clip-path="url(#clipPath176)">
 				<path d="M 62.261,74.112 L 62.261,74.112 C 53.484,74.112 46.358,81.24 46.358,90.018 C 46.358,98.797 53.484,106.0 62.261,106.0 C 71.112,106.0 78.239,98.797 78.239,90.018 C 78.239,81.24 71.112,74.112 62.261,74.112 M 78.239,136.54 L 78.239,136.54 L 78.239,110.95 C 73.813,114.33 68.262,116.35 62.261,116.35 C 47.783,116.35 36.006,104.57 36.006,90.018 C 36.006,75.537 47.783,63.682 62.261,63.682 C 68.262,63.682 73.813,65.708 78.239,69.084 L 78.239,64.583 L 88.59,64.583 L 88.59,136.54 L 78.239,136.54" style="fill:#4c14ad;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path178" inkscape:connector-curvature="0"/>
