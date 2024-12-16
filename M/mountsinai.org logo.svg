@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 18.007894 22.125593" version="1.1" id="svg35844" inkscape:version="0.92.0 r15299" sodipodi:docname="mount sinai.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 18.007894 22.125593" version="1.1" id="svg35844" inkscape:version="0.92.0 r15299" sodipodi:docname="mount sinai.svg">
 	<defs id="defs35838">
 		<clipPath id="clipPath9067" clipPathUnits="userSpaceOnUse">
 			<path inkscape:connector-curvature="0" id="path9065" d="M 0,0 H 612 V 792 H 0 Z"/>
@@ -16,15 +16,6 @@
 		</clipPath>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.8272708" inkscape:cx="117.18533" inkscape:cy="39.346099" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" units="px" inkscape:window-width="1280" inkscape:window-height="744" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1"/>
-	<metadata id="metadata35841">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(18.532071,-137.11807)">
 		<g id="g36446" transform="translate(0.13229181,-0.13228799)">
 			<path d="m -12.369926,148.41748 h -1.341261 l 6.3260109,-9.55922 0.7115528,1.03117 z" style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" id="path8971" inkscape:connector-curvature="0"/>

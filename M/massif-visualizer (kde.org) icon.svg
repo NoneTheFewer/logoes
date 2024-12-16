@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg viewBox="0 0 128 128" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg3408" sodipodi:version="0.32" inkscape:version="0.46" version="1.0" sodipodi:docbase="/home/pinheiro/artwork/Oxygen/scribus/scalable/small/16x16" sodipodi:docname="office-chart-area.svgz" inkscape:output_extension="org.inkscape.output.svgz.inkscape" inkscape:export-filename="/home/pinheiro/pics/oxygen/scalable/actions/office-chart-area.png" inkscape:export-xdpi="180" inkscape:export-ydpi="180">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 128 128" id="svg3408" sodipodi:version="0.32" inkscape:version="0.46" version="1.0" sodipodi:docbase="/home/pinheiro/artwork/Oxygen/scribus/scalable/small/16x16" sodipodi:docname="office-chart-area.svgz" inkscape:output_extension="org.inkscape.output.svgz.inkscape" inkscape:export-filename="/home/pinheiro/pics/oxygen/scalable/actions/office-chart-area.png" inkscape:export-xdpi="180" inkscape:export-ydpi="180">
 	<defs id="defs3410">
 		<linearGradient inkscape:collect="always" id="linearGradient3365">
 			<stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop3367"/>
@@ -45,14 +45,6 @@
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="4" inkscape:cx="123.64901" inkscape:cy="44.769686" inkscape:document-units="px" inkscape:current-layer="layer1" height="128px" width="128px" showborder="true" inkscape:showpageshadow="false" showgrid="true" inkscape:window-width="1232" inkscape:window-height="782" inkscape:window-x="266" inkscape:window-y="261" showguides="true" inkscape:guide-bbox="true" objecttolerance="8" gridtolerance="9" guidetolerance="10">
 		<inkscape:grid id="GridFromPre046Settings" type="xygrid" originx="0px" originy="0px" spacingx="4px" spacingy="4px" color="#0000ff" empcolor="#0000ff" opacity="0.2" empopacity="0.4" empspacing="2" enabled="true" visible="true"/>
 	</sodipodi:namedview>
-	<metadata id="metadata3413">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Livello 1" inkscape:groupmode="layer" id="layer1">
 		<path style="fill:url(#linearGradient3296);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="M 64,80 L 64,116 L 104,116 L 104,40 L 80,48 L 64,80 z" id="path2518" sodipodi:nodetypes="cccccc"/>
 		<path id="path3452" d="M 120,118 L 116,116 L 108,112 L 108,116 L 8,116 L 8,120 L 108,120 L 108,124 L 116,120 L 120,118 z" style="opacity:0.61386138;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" sodipodi:nodetypes="cccccccccc"/>

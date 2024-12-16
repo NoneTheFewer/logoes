@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.5 r10040" sodipodi:version="0.32" viewBox="0 0 249 318" sodipodi:docname="logo.svg" inkscape:export-filename="/home/jow/devel/lede/web.git/logo/logo_small.png" inkscape:export-xdpi="14.145036" inkscape:export-ydpi="14.145036">
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.5 r10040" sodipodi:version="0.32" viewBox="0 0 249 318" sodipodi:docname="logo.svg" inkscape:export-filename="/home/jow/devel/lede/web.git/logo/logo_small.png" inkscape:export-xdpi="14.145036" inkscape:export-ydpi="14.145036">
 	<sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:guide-bbox="true" pagecolor="#ffffff" inkscape:window-height="1007" inkscape:window-maximized="1" inkscape:zoom="3.9345242" inkscape:window-x="0" showgrid="false" borderopacity="1.0" inkscape:current-layer="g6003" inkscape:cx="489.6071" inkscape:cy="445.8886" inkscape:window-y="25" inkscape:window-width="1920" inkscape:pageopacity="0.0" showguides="true" fit-margin-top="100" fit-margin-left="100" fit-margin-right="100" fit-margin-bottom="100"/>
 	<defs id="defs204">
 		<linearGradient id="linearGradient9801">
@@ -43,26 +43,6 @@
 			<feGaussianBlur stdDeviation="2.1171557" id="feGaussianBlur9939"/>
 		</filter>
 	</defs>
-	<metadata id="metadata203">
-		<rdf:RDF>
-			<cc:Work>
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
-				<dc:publisher>
-					<cc:Agent rdf:about="http://openclipart.org/">
-						<dc:title>Openclipart</dc:title>
-					</cc:Agent>
-				</dc:publisher>
-				<dc:title/>
-			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-			</cc:License>
-		</rdf:RDF>
-	</metadata>
 	<g transform="translate(-490,-273)" id="g6003">
 		<path inkscape:connector-curvature="0" id="path4901" d="M 585.91913,587.46312 L 586.42745,408.53424 L 736.89037,384.64317 L 729.26556,545.78082 L 585.91913,587.46312" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
 		<path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 585.91913,408.53424 L 585.91913,587.97144 L 492.89645,525.95632 L 493.40477,374.98508 L 585.91913,408.53424" id="path5361" inkscape:connector-curvature="0"/>

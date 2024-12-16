@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 73.231857 53.736454" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="mina.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 73.231857 53.736454" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="mina.svg">
 	<defs id="defs5906">
 		<linearGradient id="linearGradient9079" inkscape:collect="always">
 			<stop id="stop9073" offset="0" style="stop-color:#000000;stop-opacity:1"/>
@@ -344,15 +344,6 @@
 		</clipPath>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.8" inkscape:cx="163.77017" inkscape:cy="88.021176" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:snap-global="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="3726" inkscape:window-height="2049" inkscape:window-x="114" inkscape:window-y="55" inkscape:window-maximized="1"/>
-	<metadata id="metadata5909">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(244.37805,-124.17996)">
 		<g id="g9083" transform="translate(-103.75735,-4.9257962)">
 			<rect ry="5.5839453" rx="6.3206501" y="143.9882" x="-140.6207" height="20.446119" width="73.231857" id="rect9035" style="opacity:1;fill:url(#linearGradient9085);fill-opacity:1;stroke:none;stroke-width:2.97044253;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>

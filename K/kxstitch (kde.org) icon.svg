@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.92.1 r15371" viewBox="0 0 32.021484 32.017709" sodipodi:docname="sc-apps-kxstitch.svgz" inkscape:export-filename="/home/yurchor/Install/Ukrainization/kde4doc/extragear-graphics/kxstitch-icon/128-apps-kxstitch.png" inkscape:export-xdpi="359.8009" inkscape:export-ydpi="359.8009">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.92.1 r15371" viewBox="0 0 32.021484 32.017709" sodipodi:docname="sc-apps-kxstitch.svgz" inkscape:export-filename="/home/yurchor/Install/Ukrainization/kde4doc/extragear-graphics/kxstitch-icon/128-apps-kxstitch.png" inkscape:export-xdpi="359.8009" inkscape:export-ydpi="359.8009">
 	<defs id="defs4">
 		<linearGradient inkscape:collect="always" id="linearGradient5580">
 			<stop style="stop-color:#313031;stop-opacity:1;" offset="0" id="stop5576"/>
@@ -11,15 +11,6 @@
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="256" inkscape:cx="1.6859163" inkscape:cy="0.46779628" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1051" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0">
 		<inkscape:grid type="xygrid" id="grid6718" originx="2.9999995e-07" originy="-1.2065926e-05"/>
 	</sodipodi:namedview>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-584,-873.48736)">
 		<rect style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58464569;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" id="rect6747" width="31.998751" height="31.999027" x="584" y="873.50555" inkscape:export-xdpi="89" inkscape:export-ydpi="89"/>
 		<path style="fill:#cdc6cd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 592.91859,881.7595 c -1.02148,-2.84571 -1.91982,-4.75164 -2.64453,-7.04298 1.16992,-0.416 2.19337,-0.70264 3.61524,-1.22216 3.67773,0.008 2.23437,0.0435 4.46484,-0.007 1,1.67772 1.86524,4.78516 2.53125,6.5127 -1.44336,0.27735 -0.83053,0.17903 -2.71875,0.59375 -4.58305,1.0066 -5.24805,1.16602 -5.24805,1.16602 z" id="path6525" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccsc"/>
