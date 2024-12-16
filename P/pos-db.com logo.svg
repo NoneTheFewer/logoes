@@ -1,19 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Слой_1" data-name="Слой 1" viewBox="0 0 1037.0957 379.69502" version="1.1" sodipodi:docname="posdb.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" inkscape:export-filename="/home/pavlo/Dropbox/Images/Logos/posdb.png" inkscape:export-xdpi="148.11" inkscape:export-ydpi="148.11">
-	<metadata id="metadata112">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>logo3</dc:title>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Слой_1" data-name="Слой 1" viewBox="0 0 1037.0957 379.69502" version="1.1" sodipodi:docname="posdb.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" inkscape:export-filename="/home/pavlo/Dropbox/Images/Logos/posdb.png" inkscape:export-xdpi="148.11" inkscape:export-ydpi="148.11">
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2460" inkscape:window-height="1403" id="namedview110" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.96386005" inkscape:cx="349.45783" inkscape:cy="128.36914" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="Слой_1"/>
 	<defs id="defs83">
 		<style id="style81">.cls-1{fill:#457b9d;}.cls-2{fill:#e63946;}.cls-3{fill:#1d3557;}</style>
 	</defs>
-	
 	<path class="cls-1" d="m 51.88,223.97 v 73.36 H 0 V 85.42 h 84 q 38.22,0 58.25,18.87 20.03,18.87 20,50.86 0,19.92 -8.95,35.47 -8.95,15.55 -26.5,24.45 -17.61,8.91 -42.78,8.9 z m 53.56,-66.95 q 0,-26.77 -29,-26.77 H 51.88 v 53 H 76.4 q 29.04,-0.03 29.04,-26.23 z" id="path87" inkscape:connector-curvature="0" style="fill:#457b9d"/>
 	<path class="cls-1" d="m 333.36,99.01 a 99,99 0 0 1 37.56,37.71 q 13.74,24.11 13.74,54.51 0,30.4 -13.86,54.65 a 99.86,99.86 0 0 1 -37.71,37.86 q -23.82,13.58 -52.75,13.59 -28.93,0.01 -52.76,-13.59 a 99.77,99.77 0 0 1 -37.72,-37.86 q -13.89,-24.25 -13.89,-54.65 0,-30.4 13.89,-54.51 a 100,100 0 0 1 37.7,-37.71 q 23.82,-13.59 52.76,-13.59 29.22,0 53.04,13.59 z m -92.06,48.81 q -14.5,15.95 -14.5,43.41 0,27.18 14.47,43.26 14.47,16.08 39,16.07 24.25,0 38.87,-16.07 14.62,-16.07 14.66,-43.26 0,-27.18 -14.46,-43.26 -14.46,-16.08 -39,-16.07 -24.54,-0.02 -39.04,15.92 z" id="path89" inkscape:connector-curvature="0" style="fill:#457b9d"/>
 	<path class="cls-2" d="m 829.65,246.22 a 93.47,93.47 0 0 1 -38.36,37.66 q -25,13.49 -58.9,13.49 h -80 V 85.42 h 80 q 34.17,0 59,13.19 a 92,92 0 0 1 38.21,37.17 q 13.33,24 13.34,55.15 0.01,31.15 -13.29,55.29 z m -56.85,-9.76 q 16.8,-16 16.8,-45.08 0,-29.08 -16.8,-45.09 -16.78,-16.05 -47,-16 H 701.27 V 252.5 h 24.53 q 30.23,0 47,-16.04 z" id="path91" inkscape:connector-curvature="0" style="fill:#e63946"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg viewBox="0 0 128 128" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg5676" sodipodi:version="0.32" inkscape:version="0.48.4 r9939" sodipodi:docname="hisc-apps-rocs.svgz" inkscape:output_extension="org.inkscape.output.svgz.inkscape" version="1.0" inkscape:export-filename="rocs.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 128 128" id="svg5676" sodipodi:version="0.32" inkscape:version="0.48.4 r9939" sodipodi:docname="hisc-apps-rocs.svgz" inkscape:output_extension="org.inkscape.output.svgz.inkscape" version="1.0" inkscape:export-filename="rocs.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300">
 	<defs id="defs5678">
 		<linearGradient inkscape:collect="always" id="linearGradient5679">
 			<stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop5681"/>
@@ -1088,15 +1088,6 @@
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="4.93" inkscape:cx="70.436373" inkscape:cy="85.753957" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="1680" inkscape:window-height="1030" inkscape:window-x="1398" inkscape:window-y="-3" height="128px" width="128px" showgrid="true" inkscape:window-maximized="1">
 		<inkscape:grid type="xygrid" id="grid3150"/>
 	</sodipodi:namedview>
-	<metadata id="metadata5681">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Livello 1" inkscape:groupmode="layer" id="layer1">
 		<g id="g2876" transform="matrix(0.70710091,-0.70710091,0.70710678,0.70710678,43.042027,334.36591)" clip-path="none" mask="url(#mask4981)">
 			<path inkscape:connector-curvature="0" style="filter:url(#filter2826)" id="path6" d="m 265.71479,-171.21229 0,-12.002 -12.439,-0.415 c -0.552,-4.127 -1.622,-8.089 -3.153,-11.816 l 10.555,-6.572 -6,-10.394 -10.981,5.861 c -2.503,-3.236 -5.408,-6.142 -8.645,-8.645 l 5.861,-10.981 -10.393,-5.999 -6.572,10.555 c -3.728,-1.532 -7.689,-2.603 -11.817,-3.155 l -0.416,-12.439 -12,0 -0.415,12.439 c -4.128,0.552 -8.09,1.623 -11.817,3.154 l -6.572,-10.554 -10.393,6 5.861,10.981 c -3.236,2.503 -6.142,5.409 -8.646,8.646 l -10.981,-5.861 -6,10.392 10.556,6.573 c -1.532,3.727 -2.603,7.689 -3.154,11.817 l -12.439,0.413 -0.001,12 12.44,0.415 c 0.552,4.128 1.623,8.09 3.154,11.817 l -10.555,6.573 5.999,10.393 10.983,-5.862 c 2.503,3.236 5.409,6.143 8.646,8.646 l -5.862,10.982 10.392,6 6.573,-10.557 c 3.727,1.531 7.689,2.603 11.817,3.154 l 0.414,12.439 12,0 0.415,-12.439 c 4.128,-0.552 8.09,-1.622 11.816,-3.154 l 6.572,10.556 10.393,-6 -5.861,-10.983 c 3.235,-2.503 6.142,-5.409 8.645,-8.645 l 10.981,5.861 6.001,-10.393 -10.556,-6.572 c 1.531,-3.727 2.603,-7.688 3.154,-11.816 L 265.71479,-171.21229 z m -60,23.998 c -16.542,0 -30,-13.458 -30,-30 0,-16.542 13.458,-30 30,-30 16.542,0 30,13.458 30,30 C 235.71479,-160.67229 222.25679,-147.21429 205.71479,-147.21429 Z"/>

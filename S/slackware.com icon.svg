@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="slackware_blue_logo.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" viewBox="0 0 620 620">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="slackware_blue_logo.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" viewBox="0 0 620 620">
 	<defs id="defs4">
 		<linearGradient id="linearGradient3194">
 			<stop style="stop-color:#5468b8;stop-opacity:1;" offset="0" id="stop3196"/>
@@ -48,14 +48,6 @@
 		</filter>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="224.62085" inkscape:cy="226.57979" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="false" inkscape:window-width="1280" inkscape:window-height="971" inkscape:window-x="-8" inkscape:window-y="-4"/>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:groupmode="layer" id="layer2" inkscape:label="logo" style="opacity:1;display:inline">
 		<g id="g3216" transform="translate(-69.999987,-99.028453)">
 			<path transform="matrix(3.3457249,0,0,3.3457249,-241.18962,-1557.239)" d="M 275.33334,587.6955 A 89.66667,89.66667 0.0 1,1 96.00001,587.6955 A 89.66667,89.66667 0.0 1,1 275.33334,587.6955" sodipodi:ry="89.666664" sodipodi:rx="89.666664" sodipodi:cy="587.6955" sodipodi:cx="185.66667" id="shadow" style="fill:url(#radialGradient3280);fill-opacity:1" sodipodi:type="arc"/>

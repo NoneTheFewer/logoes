@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 64 64.000002" id="svg4878" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="utilities-terminal.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 64 64.000002" id="svg4878" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="utilities-terminal.svg">
 	<defs id="defs4880">
 		<linearGradient id="c" y1="527.01447" x1="406.50085" y2="539.82538" x2="419.97357" gradientUnits="userSpaceOnUse" gradientTransform="translate(-386.72845,506.21259)">
 			<stop stop-color="#292c2f" id="stop17"/>
@@ -30,15 +30,6 @@
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="33.71152" inkscape:cy="38.934322" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:snap-bbox="true" inkscape:bbox-nodes="true">
 		<inkscape:grid type="xygrid" id="grid6138"/>
 	</sodipodi:namedview>
-	<metadata id="metadata4883">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Livello 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-988.3622)">
 		<rect style="fill:url(#a-9)" id="rect23" height="51.992203" rx="0.9922142" y="994.37" x="6.00001" width="51.992203" ry="0.9922049"/>
 		<path inkscape:connector-curvature="0" style="fill:url(#b-5);stroke:none;stroke-width:0.25996101;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path27" d="m 27.335,1007.368 -1.837925,1.838 11.160126,11.1601 -11.160126,11.1601 1.837925,1.8379 12.99805,-12.998 -1.837924,-1.8379 z"/>

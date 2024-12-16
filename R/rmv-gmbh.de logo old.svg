@@ -1,19 +1,11 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.44" sodipodi:docbase="D:\" sodipodi:docname="RMV Logo.svg" viewBox="0 0 713 170">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.44" sodipodi:docbase="D:\" sodipodi:docname="RMV Logo.svg" viewBox="0 0 713 170">
 	<defs id="defs4"/>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="321.08379" inkscape:cy="93.797599" inkscape:document-units="px" inkscape:current-layer="layer3" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1280" inkscape:window-height="952" inkscape:window-x="-4" inkscape:window-y="-4">
 		<sodipodi:guide orientation="horizontal" position="887.94643" id="guide1936"/>
 		<sodipodi:guide orientation="horizontal" position="1037.0536" id="guide1938"/>
 	</sodipodi:namedview>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:groupmode="layer" id="layer3" inkscape:label="Background" style="display:inline">
 		<path style="fill:#e0f1ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 133.28987,159.85731 L 534.11576,159.85731 L 638.04434,16.37518 L 636.8055,10.75015 L 176.8055,10.75015 L 175.76755,11.54035 L 133.28987,159.85731" id="path2854" sodipodi:nodetypes="ccccccc"/>
 	</g>

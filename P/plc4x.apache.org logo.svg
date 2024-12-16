@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 434.05334 141.22667">
-	<metadata id="metadata8">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 434.05334 141.22667">
 	<defs id="defs6">
 		<clipPath id="clipPath1586" clipPathUnits="userSpaceOnUse">
 			<path id="path1584" d="M 473.492,479.219 C 476.422,480.344 479.602,480.656 482.691,480.117 L 482.691,479.219 L 482.691,480.82 L 456.395,496.914 C 455.953,494.805 455.027,492.824 453.691,491.125 C 460.289,487.023 466.793,483.223 473.691,479.121 L 473.492,479.219"/>

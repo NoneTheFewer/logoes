@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 600 331">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 331">
 	<defs>
 		<linearGradient id="linearGradient7995">
 			<stop stop-color="#FFF" stop-opacity="0" offset="0"/>
@@ -162,15 +162,6 @@
 			<feGaussianBlur stdDeviation="7.0139312"/>
 		</filter>
 	</defs>
-	<metadata>
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g transform="translate(-2.4158933,-9.2170219)">
 		<path opacity="0.3" d="M 547.292,775.884 C 547.292,873.8354 475.0189,953.241 385.866,953.241 C 296.7126,953.241 224.44,873.8357 224.44,775.884 C 224.44,677.9326 296.7131,598.527 385.866,598.527 C 475.0194,598.527 547.292,677.9323 547.292,775.884" fill-rule="evenodd" transform="matrix(0.7004643,0,0,0.638694,5.6980997,-302.73769)" fill="url(#radialGradient2677)"/>
 		<path d="M 547.292,775.884 C 547.292,873.8354 475.0189,953.241 385.866,953.241 C 296.7126,953.241 224.44,873.8357 224.44,775.884 C 224.44,677.9326 296.7131,598.527 385.866,598.527 C 475.0194,598.527 547.292,677.9323 547.292,775.884" fill-rule="evenodd" transform="matrix(0.7004643,0,0,0.638694,20.99835,-318.54803)" fill="#244762"/>
