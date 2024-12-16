@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.1 r9760" sodipodi:docname="ApacheOpenOfficeTM.svg" viewBox="0 0 1181.4792 314.73828">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.1 r9760" sodipodi:docname="ApacheOpenOfficeTM.svg" viewBox="0 0 1181.4792 314.73828">
 	<defs id="defs4">
 		<filter color-interpolation-filters="sRGB" inkscape:menu-tooltip="Edges are partly feathered out" inkscape:menu="Blurs" height="1" width="1" y="0" x="0" inkscape:label="Apparition" id="filter3016">
 			<feMorphology result="result0" in="SourceGraphic" radius="4" id="feMorphology3018"/>
@@ -28,57 +28,6 @@
 		<linearGradient inkscape:collect="always" xlink:href="#linearGradient7907" id="linearGradient8029" gradientUnits="userSpaceOnUse" x1="102.13333" y1="10.927078" x2="103.10371" y2="91.927078"/>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4555344" inkscape:cx="436.41003" inkscape:cy="218.1999" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="false" showguides="true" inkscape:guide-bbox="true" fit-margin-top="10" fit-margin-left="10" fit-margin-right="100" fit-margin-bottom="10" inkscape:window-width="1366" inkscape:window-height="748" inkscape:window-x="-2" inkscape:window-y="-3" inkscape:window-maximized="1"/>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>Apache OpenOffice TM</dc:title>
-				<dc:date>2012-10-05</dc:date>
-				<dc:creator>
-					<cc:Agent>
-						<dc:title>Michael Carrazo</dc:title>
-					</cc:Agent>
-				</dc:creator>
-				<dc:rights>
-					<cc:Agent>
-						<dc:title>CC-BY-SA</dc:title>
-					</cc:Agent>
-				</dc:rights>
-				<dc:publisher>
-					<cc:Agent>
-						<dc:title>Inkscape</dc:title>
-					</cc:Agent>
-				</dc:publisher>
-				<dc:language>English</dc:language>
-				<dc:subject>
-					<rdf:Bag>
-						<rdf:li>apache openoffice</rdf:li>
-						<rdf:li>openoffice</rdf:li>
-						<rdf:li>apache foundation</rdf:li>
-						<rdf:li>asf</rdf:li>
-						<rdf:li>aoo</rdf:li>
-					</rdf:Bag>
-				</dc:subject>
-				<dc:description>Apache OpenOffice logo</dc:description>
-				<dc:contributor>
-					<cc:Agent>
-						<dc:title>Michael Carrazo, Alexandro Colorado</dc:title>
-					</cc:Agent>
-				</dc:contributor>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
-			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
-			</cc:License>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:groupmode="layer" id="layer2" inkscape:label="Logo" style="display:inline" transform="translate(254.29163,-791.6422)">
 		<path inkscape:connector-curvature="0" id="path3043" style="font-size:134.95753479px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e85cf;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana" d="M 156.12938,938.16966 C 160.12705,942.56289 163.18029,947.9445 165.28909,954.31448 C 167.44164,960.68462 168.51796,967.91134 168.51806,975.99467 C 168.51796,984.07811 167.41967,991.3268 165.2232,997.74076 C 163.07046,1004.1108 160.03919,1009.4266 156.12938,1013.6879 C 152.0876,1018.125 147.29907,1021.4638 141.76378,1023.7043 C 136.27228,1025.9448 129.99008,1027.065 122.91717,1027.065 C 116.01988,1027.065 109.73768,1025.9228 104.07056,1023.6384 C 98.4473,1021.3539 93.65878,1018.0371 89.70497,1013.6879 C 85.75111,1009.3387 82.69788,1004.001 80.54525,997.67486 C 78.43653,991.34876 77.38217,984.12204 77.38218,975.99467 C 77.38218,967.9992 78.43653,960.83838 80.54525,954.51218 C 82.65395,948.14219 85.72915,942.69469 89.77086,938.16966 C 93.63681,933.86447 98.42534,930.56961 104.13646,928.28508 C 109.89144,926.00074 116.15168,924.85852 122.91717,924.85842 C 129.94615,924.85852 136.25031,926.0227 141.82968,928.35097 C 147.45283,930.63551 152.21939,933.9084 156.12938,938.16966 M 154.94323,975.99467 C 154.94314,963.2546 152.0876,953.43593 146.37659,946.53861 C 140.66542,939.59752 132.86759,936.12694 122.98307,936.12685 C 113.01058,936.12694 105.16881,939.59752 99.45776,946.53861 C 93.79057,953.43593 90.95699,963.2546 90.95701,975.99467 C 90.95699,988.86664 93.85647,998.72925 99.65545,1005.5825 C 105.45437,1012.3919 113.23023,1015.7966 122.98307,1015.7966 C 132.7358,1015.7966 140.4897,1012.3919 146.24479,1005.5825 C 152.04367,998.72925 154.94314,988.86664 154.94323,975.99467"/>
 		<path inkscape:connector-curvature="0" id="path3045" style="font-size:134.95753479px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e85cf;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana" d="M 252.99831,987.329 C 252.99823,993.30371 252.14157,998.77318 250.42832,1003.7374 C 248.71492,1008.6578 246.29869,1012.8312 243.17962,1016.2579 C 240.28008,1019.5088 236.85343,1022.0349 232.89965,1023.8361 C 228.9897,1025.5933 224.83818,1026.472 220.44508,1026.472 C 216.623,1026.472 213.15241,1026.0546 210.03331,1025.2199 C 206.95808,1024.3852 203.81698,1023.0892 200.61001,1021.332 L 200.61001,1052.1719 L 188.22133,1052.1719 L 188.22133,951.41501 L 200.61001,951.41501 L 200.61001,959.12498 C 203.90484,956.35737 207.59509,954.05097 211.68075,952.20577 C 215.81027,950.31679 220.20341,949.37227 224.86019,949.37219 C 233.7343,949.37227 240.63153,952.73302 245.55192,959.45447 C 250.51611,966.13211 252.99823,975.42362 252.99831,987.329 M 240.21425,987.65849 C 240.21418,978.78437 238.69855,972.15072 235.66734,967.75752 C 232.63601,963.36443 227.97928,961.16786 221.69713,961.1678 C 218.13863,961.16786 214.55822,961.93666 210.95588,963.4742 C 207.35346,965.01186 203.90484,967.03271 200.61001,969.53675 L 200.61001,1011.2497 C 204.1245,1012.8312 207.13381,1013.9076 209.63793,1014.4787 C 212.18592,1015.0498 215.06343,1015.3353 218.27047,1015.3353 C 225.16766,1015.3353 230.54927,1013.007 234.41529,1008.3502 C 238.2812,1003.6935 240.21418,996.79626 240.21425,987.65849"/>
