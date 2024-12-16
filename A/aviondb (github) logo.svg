@@ -1,15 +1,7 @@
 <?xml version="1.0" ?>
 <!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 800 213.43768" xml:space="preserve" sodipodi:docname="aviondb.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 800 213.43768" xml:space="preserve" sodipodi:docname="aviondb.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
 	<sodipodi:namedview id="namedview31" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.73623221" inkscape:cx="-448.90728" inkscape:cy="330.73804" inkscape:window-width="2460" inkscape:window-height="1563" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"/>
-	<metadata id="metadata956">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<defs id="defs954"/>
 	<style type="text/css" id="style930">
 	.st0{fill:#4DBBEB;}
@@ -29,19 +21,4 @@
 		<path d="m 229.4266,33.649619 q 0,4.065885 -2.9629,6.336725 -2.96291,2.249214 -8.23991,2.249214 H 205.85312 V 11.763044 h 11.07305 q 10.72702,0 10.72702,7.396451 0,2.703382 -1.5139,4.541681 -1.51389,1.838299 -4.28215,2.465483 3.63334,0.432541 5.6014,2.443857 1.96806,1.989689 1.96806,5.039103 z m -4.17402,-0.324406 q 0,-5.385135 -7.56946,-5.385135 h -7.69923 v 10.986541 h 8.02363 q 3.78474,0 5.5149,-1.405758 1.73016,-1.405759 1.73016,-4.195648 z m -1.75179,-13.668296 q 0,-2.465483 -1.68691,-3.525209 -1.68691,-1.059725 -4.88771,-1.059725 h -6.94228 v 9.645664 h 6.94228 q 3.30894,0 4.93097,-1.232742 1.64365,-1.254369 1.64365,-3.827988 z" id="path3366"/>
 	</g>
 	<path id="shape2" class="st4" d="M 217.52184,1.8853392 85.083798,130.83817 124.46669,209.95248 c 1.04556,2.09113 3.48521,3.48521 5.92486,3.48521 0,0 0,0 0.34852,0 2.43965,0 4.8793,-1.7426 5.57634,-3.83373 L 218.91593,8.5072415 c 1.04556,-2.091127 0.34852,-4.8792964 -1.39409,-6.6219023 z" style="fill:#2488ff;stroke-width:3.48521"/>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 </svg>

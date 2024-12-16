@@ -1,16 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.5 r10040" sodipodi:docname="Story_Lab_Coloring.pdf" viewBox="0 0 1000 210.47588">
-	<metadata id="metadata2991">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>
-image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.5 r10040" sodipodi:docname="Story_Lab_Coloring.pdf" viewBox="0 0 1000 210.47588">
 	<defs id="defs2989">
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2999">
 			<path d="M 0.0,792.0 L 612.0,792.0 L 612.0,0.0 L 0.0,0.0 L 0.0,792.0" id="path3001" inkscape:connector-curvature="0"/>

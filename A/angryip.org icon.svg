@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="/home/anton/workspaces/ipscan/ipscan/resources/images/icon32.png" inkscape:export-xdpi="44.860001" inkscape:export-ydpi="44.860001" inkscape:output_extension="org.inkscape.output.svg.inkscape" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="/home/anton/workspaces/ipscan/ipscan/resources/images/icon32.png" inkscape:export-xdpi="44.860001" inkscape:export-ydpi="44.860001" inkscape:output_extension="org.inkscape.output.svg.inkscape" viewBox="0 0 64 64">
 	<defs id="defs2834">
 		<linearGradient id="linearGradient11797">
 			<stop style="stop-color:#151515;stop-opacity:1;" offset="0" id="stop11799"/>
@@ -43,14 +43,6 @@
 		<linearGradient inkscape:collect="always" xlink:href="#linearGradient10016" id="linearGradient10025" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.856099,0,0,1.07948,4.153545,3.406762)" x1="23.700001" y1="31.382669" x2="23.700001" y2="26.986017"/>
 		<linearGradient inkscape:collect="always" xlink:href="#linearGradient11797" id="linearGradient11803" x1="9.3997622" y1="37.940674" x2="10.225235" y2="28.75251" gradientUnits="userSpaceOnUse"/>
 	</defs>
-	<metadata id="metadata2837">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
 		<path style="opacity:1;fill:url(#radialGradient6434);fill-opacity:1.0;stroke:#000a20;stroke-linejoin:round;stroke-opacity:1;stroke-width:2.1;stroke-miterlimit:4;stroke-dasharray:none" id="path4636" d="M 58.18182,37.18182 A 26.45455,24.09091 0.0 1,1 5.27273,37.18182 A 26.45455,24.09091 0.0 1,1 58.18182,37.18182" transform="translate(0.227274,-6.545455)"/>
 		<path style="opacity:1;fill:url(#radialGradient7339);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path6438" d="M 28.54546,23.90909 A 10.09091,5.72727 0.0 1,1 8.36364,23.90909 A 10.09091,5.72727 0.0 1,1 28.54546,23.90909" transform="matrix(0.693694,0,0,1.142857,2.925471,-6.779218)"/>

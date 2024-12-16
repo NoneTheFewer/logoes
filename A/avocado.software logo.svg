@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 135.62282 23.944792" version="1.1" id="svg8" sodipodi:docname="logo_green.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 135.62282 23.944792" version="1.1" id="svg8" sodipodi:docname="logo_green.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
 	<defs id="defs2">
 		<meshgradient inkscape:collect="always" id="meshgradient1460" gradientUnits="userSpaceOnUse" x="0" y="-131.63">
 			<meshrow id="meshrow1472">
@@ -44,17 +44,7 @@
 		</meshgradient>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="3.7338132" inkscape:cy="-426.69413" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0"/>
-	<metadata id="metadata5">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-0.79791213,-0.84299988)">
-		
 		<path id="path892" d="m 136.07937,8.1190419 c -0.23019,-0.452438 -0.55563,-0.806979 -0.97367,-1.063625 -0.41804,-0.256646 -0.91016,-0.383646 -1.47373,-0.383646 -0.5715,0 -1.07685,0.132292 -1.51341,0.399521 -0.43921,0.267229 -0.78052,0.632354 -1.02923,1.095375 -0.24871,0.463021 -0.37306,1.000125 -0.37306,1.608666 0,0.6006051 0.13229,1.1350631 0.39422,1.6033751 0.26459,0.468313 0.62707,0.833438 1.09009,1.095375 0.46302,0.264584 0.99483,0.39423 1.59808,0.39423 0.34925,0 0.71173,-0.06879 1.09008,-0.206375 0.37836,-0.137584 0.69057,-0.309563 0.93398,-0.518584 0.09,-0.07408 0.13229,-0.164041 0.127,-0.267229 -0.003,-0.103187 -0.0529,-0.201083 -0.15081,-0.288396 -0.0741,-0.05821 -0.16404,-0.08731 -0.26723,-0.08467 -0.10319,0.0026 -0.19579,0.03969 -0.27781,0.105833 -0.16404,0.140229 -0.381,0.256646 -0.65088,0.351896 -0.26987,0.09525 -0.53975,0.140229 -0.80697,0.140229 -0.4445,0 -0.83873,-0.100542 -1.18005,-0.301625 -0.34131,-0.201083 -0.61118,-0.473604 -0.80698,-0.822854 -0.1561,-0.275167 -0.24606,-0.584729 -0.28045,-0.923396 h 4.49262 c 0.11906,0 0.21431,-0.0344 0.2884,-0.1058331 0.0741,-0.07144 0.11112,-0.164042 0.11112,-0.283105 0.003,-0.576791 -0.11112,-1.092729 -0.34131,-1.545166 z m -3.56129,-0.378354 c 0.32014,-0.201084 0.69056,-0.301625 1.11389,-0.301625 0.4154,0 0.77259,0.09525 1.07421,0.288396 0.30163,0.193145 0.53181,0.460375 0.69586,0.801687 0.11906,0.246063 0.1905,0.518583 0.2196,0.812271 h -4.06929 c 0.0397,-0.280458 0.11377,-0.53975 0.22754,-0.772583 0.17198,-0.351896 0.41804,-0.627063 0.73819,-0.828146 z" class="st4" inkscape:connector-curvature="0" style="fill:#404040;fill-opacity:1;stroke-width:0.26458332"/>
 		<g id="g916" style="fill:url(#meshgradient1516);fill-opacity:1" transform="matrix(0.26458333,0,0,0.26458333,-10.06588,35.670104)">
 			<path id="path894" d="m 261.11,-68.32 3.03,3.9 c 0.25,0.32 0.51,0.65 0.76,0.98 0.13,0.16 1.38,1.88 1.56,1.92 0.13,0.03 1.52,0.02 1.69,-0.01 l -0.01,-9.36 h -1.66 c -0.08,0.27 -0.01,5.85 -0.03,6.66 -0.11,-0.07 -1.17,-1.44 -1.35,-1.66 -0.92,-1.2 -2.33,-2.99 -3.31,-4.19 -0.1,-0.12 -0.56,-0.79 -0.7,-0.81 l -1.71,0.02 0.01,9.36 1.69,-0.01 z" class="st5" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#404040;fill-opacity:1;fill-rule:evenodd"/>
@@ -94,7 +84,6 @@
 			<path id="path958" d="m 83.61,-80.06 h 1.63 c 0,-3.6 2.27,-6.54 5.07,-6.54 v -1.63 c -3.69,0.01 -6.7,3.67 -6.7,8.17 z" class="st1" inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:1"/>
 		</g>
 		<circle id="circle962" r="0.84666669" cy="11.971375" cx="86.096939" class="st3" style="clip-rule:evenodd;fill:#e96719;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332"/>
-		
 	</g>
 	<style id="style815" type="text/css">
 	.st0{fill:#34773F;}

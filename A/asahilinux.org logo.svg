@@ -1,40 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" fill-rule="evenodd">
-	<metadata id="metadata98">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>Asahi Linux logo</dc:title>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
-				<dc:date>2021-01-03</dc:date>
-				<dc:creator>
-					<cc:Agent>
-						<dc:title>soundflora* / marcan</dc:title>
-					</cc:Agent>
-				</dc:creator>
-				<dc:contributor>
-					<cc:Agent>
-						<dc:title>Font: Bangla MN (c) 2009 Muthu Nedumaran
-Used with permission</dc:title>
-					</cc:Agent>
-				</dc:contributor>
-				<dc:rights>
-					<cc:Agent>
-						<dc:title>CC BY-SA 4.0 / (c) 2021 soundflora*</dc:title>
-					</cc:Agent>
-				</dc:rights>
-			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
-			</cc:License>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" fill-rule="evenodd">
 	<defs id="defs96"/>
 	<g id="layer8" style="display:inline" transform="translate(350,550)">
 		<g id="g2019" transform="matrix(1.0740314,0,0,1.0740314,0.02039,20.77591)" style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:0.931068;stroke-linejoin:round;stroke-miterlimit:2">

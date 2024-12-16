@@ -6,12 +6,6 @@
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF1828;}
 	.st2{fill:#F9C9CD;}
 </style>
-	<metadata>
-		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
-			<slices/>
-			<sliceSourceBounds bottomLeftOrigin="true" height="235" width="240" x="0" y="0"/>
-		</sfw>
-	</metadata>
 	<g>
 		<radialGradient id="SVGID_1_" cx="-50.8313" cy="233.8112" r="143.79" gradientTransform="matrix(1.09 0 0 -1.09 151.0001 332.89)" gradientUnits="userSpaceOnUse">
 			<stop offset="0" style="stop-color:#39191A"/>

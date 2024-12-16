@@ -1,17 +1,8 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 62 9.0215483" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="atlas.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 62 9.0215483" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="atlas.svg">
 	<defs id="defs2183"/>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.959798" inkscape:cx="103.17123" inkscape:cy="140.83503" inkscape:document-units="mm" inkscape:current-layer="text2747" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="3726" inkscape:window-height="2049" inkscape:window-x="114" inkscape:window-y="55" inkscape:window-maximized="1"/>
-	<metadata id="metadata2186">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-61.261273,-177.07438)">
 		<g aria-label="Atlas" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.89674854px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#319b47;fill-opacity:1;stroke:none;stroke-width:0.35988176px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="text2753">
 			<path d="M 103.04609,184.41777 L 102.4028,182.92336 L 99.50305,182.92336 L 98.85976,184.41777 L 97.2169,184.41777 L 100.20572,177.49994 L 101.70013,177.49994 L 104.68895,184.41777 L 103.04609,184.41777 M 100.95788,179.55847 L 100.08696,181.56751 L 101.81889,181.56751 L 100.95788,179.55847" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#319b47;fill-opacity:1;stroke-width:0.35988176px" id="path2309"/>
