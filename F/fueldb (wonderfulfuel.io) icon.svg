@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg5378" viewBox="0 0 186.69325 206.07425">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg5378" viewBox="0 0 186.69325 206.07425">
 	<defs id="defs3">
 		<linearGradient id="linearGradient5530">
 			<stop id="stop5532" style="stop-color:#e3e600;stop-opacity:1" offset="0"/>
@@ -46,15 +46,6 @@
 		<linearGradient x1="308.5" y1="522.61218" x2="327.78125" y2="520.32812" id="linearGradient6116" xlink:href="#linearGradient6035" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,12)" spreadMethod="reflect"/>
 		<linearGradient x1="308.5" y1="522.61218" x2="327.78125" y2="520.32812" id="linearGradient6118" xlink:href="#linearGradient6035" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,22)" spreadMethod="reflect"/>
 	</defs>
-	<metadata id="metadata4">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g transform="translate(-285.86708,-510.6882)" id="layer1">
 		<g transform="matrix(4.1992341,0,0,4.1992341,-914.55576,-1633.811)" id="g6097">
 			<path d="m 303.29832,521.77954 a 16.66752,5.5558401 0 1 1 -33.33504,0 16.66752,5.5558401 0 1 1 33.33504,0 z" transform="matrix(1.1818182,0,0,1.1818182,-30.64896,-65.983596)" id="path6079" style="fill:#2e3436;fill-opacity:1;stroke:none;filter:url(#filter6093)"/>

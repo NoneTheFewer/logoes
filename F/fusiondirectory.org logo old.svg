@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 866.46252 569.4375">
-	<metadata id="metadata3146">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 866.46252 569.4375">
 	<defs id="defs3144">
 		<clipPath id="clipPath3156">
 			<path d="M 0.0,4555.52 L 0.0,0.0 L 6931.69,0.0 L 6931.69,4555.52 L 0.0,4555.52" id="path3158"/>

@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 176.08207 84.761764" version="1.2" id="svg1171" sodipodi:docname="goldilocks.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
-	<metadata id="metadata1177">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 176.08207 84.761764" version="1.2" id="svg1171" sodipodi:docname="goldilocks.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
 	<defs id="defs1175"/>
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1976" inkscape:window-height="1123" id="namedview1173" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="1.1540865" inkscape:cx="240.96312" inkscape:cy="41.555178" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1171"/>
 	<path inkscape:connector-curvature="0" id="path884" d="m 54.32031,82.296872 v 2.4336 H 43.04687 c -1.89844,0 -3.21484,-0.39063 -3.95312,-1.17578 -0.73829,-0.78125 -1.10938,-1.96485 -1.10938,-3.54688 v -11.67187 h 4.32422 v 10.0625 c 0,0.83203 0.17969,1.47265 0.53125,1.92578 0.34766,0.44922 1.05469,0.67578 2.09375,0.67578 h 9.38672 z m 0,0" style="fill:#4f5459;fill-opacity:1;fill-rule:nonzero;stroke:none"/>

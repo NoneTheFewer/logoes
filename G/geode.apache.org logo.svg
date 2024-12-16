@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 278.04105 220.0188" sodipodi:docname="geode.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
-	<metadata id="metadata13318">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 278.04105 220.0188" sodipodi:docname="geode.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
 	<defs id="defs13316">
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath13432">
 			<path d="M 0.0,360.0 L 360.0,360.0 L 360.0,0.0 L 0.0,0.0 L 0.0,360.0" id="path13430" inkscape:connector-curvature="0"/>

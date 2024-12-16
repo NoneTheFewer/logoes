@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="godot-ferris.svg" id="svg45" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" xml:space="preserve" version="1.1" viewBox="0 0 32 32">
-	<metadata id="metadata51">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="godot-ferris.svg" id="svg45" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" xml:space="preserve" version="1.1" viewBox="0 0 32 32">
 	<defs id="defs49">
 		<clipPath id="_clip2">
 			<path id="path13" d="M 2,19 V 10.281 H 30 V 19 l -1.514,4.541 -2.359,0.842 c -6.549,2.339 -13.705,2.339 -20.254,0 L 3.514,23.541 Z"/>
@@ -34,9 +25,6 @@
 		<path id="path28" style="fill:#ec7235" d="M 11.936,28 C 11.567,25.615 9.657,23.707 7.196,23.399 5.497,23.187 4,23 4,23 L 2,19 v 4 c 0,3.866 3.134,7 7,7 1.68,0 3,0 3,0 v -1 l -0.481,-0.585 z"/>
 		<path id="path30" style="fill:#b54b12" d="M 11.936,28 H 11.728 C 11.262,28 10.815,27.815 10.485,27.485 10.098,27.098 9.554,26.554 9.074,26.074 8.386,25.386 7.454,25 6.482,25 H 6 c 0,0 0.233,0.467 0.541,1.081 C 7.435,27.87 9.263,29 11.263,29 H 12 V 28.842 C 12,28.556 11.978,28.275 11.936,28 Z"/>
 	</g>
-	
-	
-	
 	<path inkscape:connector-curvature="0" id="path100-1" style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0530598;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" d="m 15.999698,19.092472 c -0.642392,0 -1.163031,-0.473429 -1.163031,-1.057015 v -3.326426 c 0,-0.583089 0.520639,-1.057015 1.163031,-1.057015 0.642392,0 1.164191,0.473926 1.164191,1.057015 v 3.326426 c 0,0.583586 -0.521799,1.057015 -1.164191,1.057015"/>
 	<path d="m 15.99942,19.092472 c -0.642392,0 -1.163031,-0.473429 -1.163031,-1.057015 v -3.326426 c 0,-0.583089 0.520639,-1.057015 1.163031,-1.057015 0.642392,0 1.164191,0.473926 1.164191,1.057015 v 3.326426 c 0,0.583586 -0.521799,1.057015 -1.164191,1.057015" style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0530598;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" id="path1043" inkscape:connector-curvature="0"/>
 	<g id="g1092" transform="matrix(0.1656504,0,0,-0.1656504,-10.878421,15.425356)" style="stroke-width:0.320312">

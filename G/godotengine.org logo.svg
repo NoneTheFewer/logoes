@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 960 388.1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 388.1">
 	<desc>A free and open source cross-platform game engine</desc>
-	<metadata>
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<defs>
 		<clipPath id="vlpa">
 			<path d="M 0.0,595.3 L 841.9,595.3 L 841.9,0.0 L 0.0,0.0 L 0.0,595.3"/>

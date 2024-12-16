@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 300 300" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Google_Camera_Icon.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 300 300" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Google_Camera_Icon.svg">
 	<defs id="defs4">
 		<linearGradient inkscape:collect="always" id="linearGradient4266">
 			<stop style="stop-color:#000000;stop-opacity:1" offset="0" id="stop4268"/>
@@ -29,15 +29,6 @@
 		<radialGradient inkscape:collect="always" xlink:href="#linearGradient4266" id="radialGradient4274" cx="142.32108" cy="935.37231" fx="142.32108" fy="935.37231" r="90.848412" gradientTransform="matrix(1.2015021,1.0533404,-1.1957675,1.3639628,1098.0878,-520.87086)" gradientUnits="userSpaceOnUse"/>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.98994949" inkscape:cx="158.36513" inkscape:cy="80.404491" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="1358" inkscape:window-y="-8" inkscape:window-maximized="1"/>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-752.36216)">
 		<rect style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4223" width="67.175148" height="73.236061" x="120.71323" y="868.00934" ry="0"/>
 		<path style="fill:#848585;fill-opacity:1;stroke:none;stroke-width:0.9987787;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 28.142247,772.36157 37.715506,0 c 5.342143,0 9.642857,4.30072 9.642857,9.64286 l 0,13.21551 -57.00122,0 0,-13.21551 c 0,-5.34214 4.300714,-9.64286 9.642857,-9.64286 z" id="rect4160" inkscape:connector-curvature="0" sodipodi:nodetypes="sssccss"/>
