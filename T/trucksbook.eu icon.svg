@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xml:space="preserve" version="1.1" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" viewBox="0 0 9313.3339 9313.3339" id="svg2" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="logo_mail_square.svg">
-	<metadata id="metadata35">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xml:space="preserve" version="1.1" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" viewBox="0 0 9313.3339 9313.3339" id="svg2" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="logo_mail_square.svg">
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1017" id="namedview33" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:zoom="1.7940591" inkscape:cx="29.551003" inkscape:cy="215.50219" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0">
 		<sodipodi:guide position="589.54277,3758.3342" orientation="0,1" id="guide4167" inkscape:locked="false"/>
 		<sodipodi:guide position="6355.2965,9248.828" orientation="1,0" id="guide4169" inkscape:locked="false"/>
@@ -32,7 +23,7 @@
 			</glyph>
 		</font>
 		<style type="text/css" id="style21">
-    @font-face { font-family:"Franklin Gothic Book";src:url("#FontID0") format(svg)}
+    @font-face { font-family:&quot;Franklin Gothic Book&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
     .str1 {stroke-width:0.9}
     .str2 {stroke:#FEFEFE;stroke-width:7.62}
     .str0 {stroke:#064A9D;stroke-width:7.62}

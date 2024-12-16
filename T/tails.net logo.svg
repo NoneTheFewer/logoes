@@ -1,16 +1,7 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="tails-ar21.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" viewBox="0 0 120 60">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="tails-ar21.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" viewBox="0 0 120 60">
 	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview22" showgrid="false" inkscape:zoom="0.76020646" inkscape:cx="222.96574" inkscape:cy="111.48287" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg3375"/>
 	<defs id="defs3377"/>
-	<metadata id="metadata3380">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<rect style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new" id="rect5238-1-0" y="-162.96574" x="0" height="0" width="407.78397"/>
 	<g id="g97" transform="matrix(0.26483631,0,0,0.26483631,0.95057456,43.634534)">
 		<g transform="matrix(0.92160999,0,0,0.92160999,594.67835,-285.5379)" id="g30">
@@ -29,10 +20,7 @@
 			</g>
 			<polygon points="45.366,56.241 39.076,59.22 33.117,56.241 39.407,53.262 " transform="rotate(63.400001,48.43115,48.892589)" id="polygon3506" style="fill:#56347c;fill-opacity:1"/>
 			<polygon points="29.145,47.634 35.103,50.613 28.814,53.593 22.855,50.613 " transform="rotate(63.400001,48.414793,48.413403)" id="polygon3508" style="fill:#56347c;fill-opacity:1"/>
-			
-			
 			<path inkscape:connector-curvature="0" d="M 45.05819,34.34759 C 47.18259,37.05168 49.35335,42.33302 49.35335,47.21317 C 49.35335,52.09135 47.1825900000001,53.7552 45.05819,52.91711 C 45.05819,50.91906 45.05819,36.12203 45.05819,34.34759" id="path4818-2-4-3" style="fill:#56347c;fill-opacity:1"/>
-			
 		</g>
 	</g>
 </svg>

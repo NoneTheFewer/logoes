@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="starlink-logo" version="1.1" viewBox="0 0 1032 524">
-	<metadata id="metadata31">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" id="starlink-logo" version="1.1" viewBox="0 0 1032 524">
 	<clipPath id="mask_x1">
 		<circle id="circle2" cx="275" cy="85" r="200"/>
 	</clipPath>
