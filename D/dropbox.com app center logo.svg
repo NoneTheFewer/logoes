@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4f, 2020-05-01)" sodipodi:docname="foobar.svg" fill="none" viewBox="0 0 84 84">
-	<metadata id="metadata24">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4f, 2020-05-01)" sodipodi:docname="foobar.svg" fill="none" viewBox="0 0 84 84">
 	<defs id="defs22"/>
 	<sodipodi:namedview inkscape:current-layer="svg18" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:window-x="0" inkscape:cy="40" inkscape:cx="42" inkscape:zoom="8.9047619" showgrid="false" id="namedview20" inkscape:window-height="997" inkscape:window-width="1680" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff"/>
 	<path id="path10" fill="#0093ce" d="M 55.8937,28.5932 C 55.8937,33.7796 54.9667,38.2608 53.1715,42.0221 C 49.0956,33.4858 40.5612,28.8283 28.363,28.8283 C 16.15,28.8283 7.61559,33.4858 3.53969,42.0221 C 1.7151,38.2608 0.78809,33.7649 0.78809,28.5932 C 0.78809,11.63821 10.7792,2.0 28.3335,2.0 C 45.9026,2.0 55.8937,11.63821 55.8937,28.5932"/>

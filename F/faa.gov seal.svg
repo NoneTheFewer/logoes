@@ -1,17 +1,8 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1 1" id="svg2" sodipodi:version="0.32" inkscape:version="0.45.1" sodipodi:docname="FAA.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
-	<metadata id="metadata461">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1 1" id="svg2" sodipodi:version="0.32" inkscape:version="0.45.1" sodipodi:docname="FAA.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
 	<defs id="defs459">
 </defs>
 	<sodipodi:namedview inkscape:window-height="714" inkscape:window-width="718" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:showpageshadow="false" inkscape:zoom="0.74246212" inkscape:cx="426.09524" inkscape:cy="392.50305" inkscape:window-x="556" inkscape:window-y="22" inkscape:current-layer="svg2"/>
-	
 	<desc id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
 	<g id="g3838">
 		<polygon transform="matrix(2.3691069e-2,0,0,-2.3691069e-2,-0.9391376,14.641554)" points="0,648 0,648 0,648 " style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="polygon12"/>
