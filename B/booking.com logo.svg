@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 118.5995 20.12286" id="svg3769" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="booking.com.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 118.5995 20.12286" id="svg3769" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="booking.com.svg">
 	<defs id="defs3771">
 		<clipPath id="clipPath3414" clipPathUnits="userSpaceOnUse">
 			<path inkscape:connector-curvature="0" id="path3416" d="m 589.4997,28.97182 94.5002,0 0,-16.03433 -94.5002,0 0,16.03433 z"/>
@@ -25,15 +25,6 @@
 		</clipPath>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="7.6630299" inkscape:cx="59.04975" inkscape:cy="9.8114313" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" units="px" inkscape:window-width="1280" inkscape:window-height="744" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1"/>
-	<metadata id="metadata3774">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-358.09311,-676.33649)">
 		<g id="g3358" transform="matrix(1.25,0,0,-1.25,-378.53164,712.40679)">
 			<g id="g3360" clip-path="url(#clipPath3362)">
