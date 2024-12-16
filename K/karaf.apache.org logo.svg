@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 232.8752 73.108727" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="karaf.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 232.8752 73.108727" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="karaf.svg">
 	<defs id="defs8591">
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-5167.0962" y1="697.55487" x2="-4570.1162" y2="1395.619" gradientTransform="matrix(0.11181292,-0.23979187,0.23979187,0.11181292,637.44451,-1677.8347)">
 			<stop offset="0" style="stop-color:#F69923" id="stop2"/>
@@ -63,15 +63,6 @@
 		</linearGradient>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.98994949" inkscape:cx="777.409" inkscape:cy="-154.33038" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="3726" inkscape:window-height="2049" inkscape:window-x="114" inkscape:window-y="55" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0"/>
-	<metadata id="metadata8594">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1" transform="translate(-9.921818,-147.80873)">
 		<g id="karaf" style="fill:#1e83d6;fill-opacity:1" transform="matrix(3.2809333,0,0,3.4326912,1.8712401,119.62264)" inkscape:export-xdpi="19.059999" inkscape:export-ydpi="19.059999">
 			<path inkscape:connector-curvature="0" id="path6345" d="M 9.679,8.529 C 6.204,8.669 13.963,12.09 14.221,10.207 C 15.041,11.067 14.301,11.157 14.301,11.157 C 10.964,11.615 6.46,8.761 8.631,8.229 C 9.165,8.122 9.679,8.529 9.679,8.529" style="fill:#1e83d6;fill-opacity:1"/>

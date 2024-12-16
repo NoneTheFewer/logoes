@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg viewBox="0 0 128 128" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg1307" sodipodi:version="0.32" inkscape:version="0.44" version="1.0" sodipodi:docbase="/home/pinheiro/artwork/Oxygen/theme/svg/apps" sodipodi:docname="kstars.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 128 128" id="svg1307" sodipodi:version="0.32" inkscape:version="0.44" version="1.0" sodipodi:docbase="/home/pinheiro/artwork/Oxygen/theme/svg/apps" sodipodi:docname="kstars.svg">
 	<defs id="defs1309">
 		<linearGradient inkscape:collect="always" id="linearGradient11004">
 			<stop style="stop-color:white;stop-opacity:1;" offset="0" id="stop11006"/>
@@ -293,28 +293,6 @@
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.8284271" inkscape:cx="42.673051" inkscape:cy="108.66237" inkscape:current-layer="layer1" showgrid="false" inkscape:document-units="px" inkscape:grid-bbox="true" guidetolerance="0.1px" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1106" inkscape:window-height="958" inkscape:window-x="190" inkscape:window-y="158">
 		<sodipodi:guide orientation="horizontal" position="10.606602" id="guide2204"/>
 	</sodipodi:namedview>
-	<metadata id="metadata1312">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
-				<dc:contributor>
-					<cc:Agent>
-						<dc:title>Oxygen team</dc:title>
-					</cc:Agent>
-				</dc:contributor>
-			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
-				<cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
-				<cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
-				<cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
-				<cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
-				<cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
-				<cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
-			</cc:License>
-		</rdf:RDF>
-	</metadata>
 	<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
 		<path sodipodi:nodetypes="ccc" id="path2276" d="M 50.892799,3.2812959 L 50.892799,0.48658747 L 50.892799,3.2812959 z " style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"/>
 		<g id="g10035" transform="matrix(0.983225,0.133307,-0.133307,0.983225,6.038054,-5.426873)">
@@ -338,10 +316,6 @@
 		</g>
 		<path sodipodi:nodetypes="ccc" id="path5098" d="M 148.68161,70.410906 L 148.68161,67.616197 L 148.68161,70.410906 z " style="fill:white;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"/>
 		<path sodipodi:nodetypes="ccc" id="path5537" d="M 181.29488,-142.14159 L 181.29488,-144.9363 L 181.29488,-142.14159 z " style="fill:white;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"/>
-		
-		
-		
-		
 		<path sodipodi:nodetypes="ccc" id="path8915" d="M 46.024007,89.450216 L 46.024007,86.655507 L 46.024007,89.450216 z " style="fill:white;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"/>
 		<rect style="opacity:0.57786889;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.63199997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1" id="rect1327" width="1" height="0" x="51.157127" y="75.235924"/>
 		<g id="g10007" transform="matrix(0.960176,0,0,0.960176,1.880318,5.8102)">

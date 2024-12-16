@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 40.731364 40.774411" version="1.1" id="svg420" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="hackerrank_meaningful_logo.svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 40.731364 40.774411" version="1.1" id="svg420" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="hackerrank_meaningful_logo.svg">
 	<defs id="defs414">
 		<linearGradient y2="174.70815" x2="146.52715" y1="131.02763" x1="123.64119" id="w" gradientTransform="matrix(0.28890068,0,0,0.24231282,-120.19642,241.14881)" gradientUnits="userSpaceOnUse">
 			<stop id="stop629" offset="0" stop-color="#eff7fc"/>
@@ -8,15 +8,6 @@
 		</linearGradient>
 	</defs>
 	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.8" inkscape:cx="68.717217" inkscape:cy="129.7538" inkscape:document-units="mm" inkscape:current-layer="g1546" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="960" inkscape:window-height="1053" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="0" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true"/>
-	<metadata id="metadata417">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-18.396824,-64.18378)">
 		<g style="display:inline" id="g1447" transform="translate(-138.04598,-7.9452146)">
 			<g style="display:inline" id="g1395" transform="translate(-8.1301138,87.969836)">
