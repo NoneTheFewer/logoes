@@ -186,8 +186,7 @@
     </linearGradient>
     <linearGradient id="A" gradientTransform="matrix(.9258 -.3779 .3779 .9258 879.6216 -482.154)" gradientUnits="userSpaceOnUse" x1="-930.63568" x2="-951.54828" xlink:href="#j" y1="293.1084" y2="284.63101" />
     <linearGradient id="B" gradientTransform="matrix(.9258 -.3779 .3779 .9258 879.6216 -482.154)" gradientUnits="userSpaceOnUse" x1="-946.49847" x2="-915.69232" xlink:href="#j" y1="191.6089" y2="168.53461" />
-    <switch transform="translate(-.886999 1.7175)">
-        <foreignObject height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1" />
+    <g transform="translate(-.886999 1.7175)">
         <g>
             <path d="m73.183 53.426c8.537-12.384 17.07-23.163 24.953-31.687-14.473-15.654-26.756-23.714-32.802-20.054-2.932 1.779-5.994 6.73-5.614 12.996.291 4.844 2.583 11.436 4.637 18.309 1.947 6.515 5.457 12.596 8.826 20.436z" fill="url(#b)" />
             <path d="m145.24 181.103 21.054-12.756z" fill="#0a697a" />
@@ -217,5 +216,5 @@
             <path d="m128.861 141.438s-6.651.685-8.646.651l1.396-1.961s3.601-.222 5.918-.407z" fill="url(#A)" opacity=".2" />
             <path d="m98.136 21.74-.837-.898s-11.78 12.822-23.928 29.949l.624 1.467c0-.001 11.481-16.676 24.141-30.518z" fill="url(#B)" opacity=".4" />
         </g>
-    </switch>
+    </g>
 </svg>
