@@ -1,7 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="reslientdb.svg" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)" viewBox="0 0 1000 351.13293">
-	<defs id="defs19"/>
-	<sodipodi:namedview id="namedview17" pagecolor="#505050" bordercolor="#eeeeee" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#505050" showgrid="false" inkscape:zoom="1.1456311" inkscape:cx="406.7627" inkscape:cy="82.050845" inkscape:window-width="2466" inkscape:window-height="1412" inkscape:window-x="2560" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg15"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 351.13293">
 	<g transform="matrix(2.9866891,0,0,2.9866859,4.7382969e-7,2.1287574e-4)" id="g9" style="stroke-width:0.469907">
 		<linearGradient id="SVGID_1" x1="0" y1="-6.6276873e-05" x2="109.55832" y2="-6.6276873e-05" gradientTransform="scale(0.93188723,1.0730912)" gradientUnits="userSpaceOnUse">
 			<stop offset="0%" stop-color="#91c052" stop-opacity="1" id="stop2"/>
