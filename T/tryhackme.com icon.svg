@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.45 230.45" >
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.45 230.45">
 	<style>
 		.red { fill: #c11111; }
 		.white { fill: #000; }
 	</style>
-	<defs id="defs6"/>
 	<g transform="translate(2.3125 0)">
 		<g transform="matrix(1.3333333,0,0,-1.3333333,0,246.66667)" id="g10">
 			<g transform="scale(0.1)" id="g12">
