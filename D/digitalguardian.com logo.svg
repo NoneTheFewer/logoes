@@ -3,7 +3,6 @@
 	<style>
 		.grey{fill:#626a75;}
 	</style>
-	<defs id="defs6"/>
 	<g transform="matrix(1.25,0,0,-1.25,0,129.525)" id="g10">
 		<g transform="scale(0.1,0.1)" id="g12">
 			<path d="M 1064.6,475.789 L 1878.08,475.789 L 1471.34,743.48 L 1064.6,475.789" id="path14" style="fill:#eb49ad;fill-opacity:1;fill-rule:nonzero;stroke:none"/>

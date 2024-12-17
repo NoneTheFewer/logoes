@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768">
-	<defs id="defs14"/>
 	<g style="stroke-width:0;stroke-miterlimit:2" transform="translate(-0.00233,0.02626)" stroke-miterlimit="2" id="logo-group">
 		<path id="polygon12" d="M 95.086,71.917 L 73.808,128.08 L 85.775,128.08 L 99.939,89.148 L 114.23,128.08 L 126.19,128.08 L 104.83,71.917 L 95.086,71.917" style="font-variant-ligatures:normal" transform="matrix(1.67,0,0,1.67,71.688,216.64)"/>
 		<path id="polygon14" d="M 108.9,114.24 L 100.04,128.08 L 91.099,114.24 L 108.9,114.24" style="font-variant-ligatures:normal;fill:#c40000" transform="matrix(1.67,0,0,1.67,71.688,216.64)"/>
