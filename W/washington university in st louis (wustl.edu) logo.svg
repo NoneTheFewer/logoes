@@ -72,21 +72,6 @@
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath459">
 			<path d="m 147.319,569.583 h 327 v -77 h -327 z" id="path457"/>
 		</clipPath>
-		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask461">
-			<g id="g477">
-				<g clip-path="url(#clipPath459)" id="g475">
-					<text transform="matrix(1,0,0,-1,155.52,520.5436)" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.8846px;font-family:Garamond;-inkscape-font-specification:Garamond;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="text465">
-						<tspan x="0" y="0" id="tspan463">{</tspan>
-					</text>
-					<text transform="matrix(1,0,0,-1,180.85172,520.5436)" style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.8846px;font-family:Garamond;-inkscape-font-specification:Garamond-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="text469">
-						<tspan x="0 27.552877 56.745174 74.937477 88.15863 116.79564 145.98795 160.84851 190.04082" y="0" id="tspan467">our guide</tspan>
-					</text>
-					<text transform="matrix(1,0,0,-1,395.69541,520.5436)" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.8846px;font-family:Garamond;-inkscape-font-specification:Garamond;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="text473">
-						<tspan x="0" y="0" id="tspan471">}</tspan>
-					</text>
-				</g>
-			</g>
-		</mask>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath485">
 			<path d="m 147.319,569.583 h 327 v -77 h -327 z" id="path483"/>
 		</clipPath>
