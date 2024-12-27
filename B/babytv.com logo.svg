@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" viewBox="0 0 576.4 465.28" xml:space="preserve">
 	<defs id="defs6">
 		<linearGradient id="linearGradient52" x2="1" gradientTransform="matrix(-45.926 54.733 54.733 45.926 203.1 128.98)" gradientUnits="userSpaceOnUse">
@@ -86,17 +85,17 @@
 			<stop id="stop2146" stop-color="#fbb577" offset=".7"/>
 			<stop id="stop2148" stop-color="#ffd583" stop-opacity="0" offset="1"/>
 		</radialGradient>
-		<filter id="filter1468" x="-.096049" y="-.095951" width="1.1921" height="1.1919" color-interpolation-filters="sRGB">
+		<filter id="filter1468" x="-.096049" y="-.095951" width="1.1921" height="1.1919">
 			<feGaussianBlur id="feGaussianBlur1470" stdDeviation="0.6662942"/>
 		</filter>
 		<radialGradient id="radialGradient1464" cx="275.21" cy="158.85" r="14.413" gradientTransform="matrix(.95821 5.3014e-8 -5.2927e-8 .95663 -246.51 -134.77)" gradientUnits="userSpaceOnUse" xlink:href="#radialGradient1092"/>
-		<filter id="filter1203" x="-.096" y="-.096" width="1.192" height="1.192" color-interpolation-filters="sRGB">
+		<filter id="filter1203" x="-.096" y="-.096" width="1.192" height="1.192">
 			<feGaussianBlur id="feGaussianBlur1205" stdDeviation="1.11416"/>
 		</filter>
-		<filter id="filter1200" x="-.095997" y="-.096003" width="1.192" height="1.192" color-interpolation-filters="sRGB">
+		<filter id="filter1200" x="-.095997" y="-.096003" width="1.192" height="1.192">
 			<feGaussianBlur id="feGaussianBlur1202" stdDeviation="1.1541794"/>
 		</filter>
-		<filter id="filter1204" x="-.096005" y="-.095995" width="1.192" height="1.192" color-interpolation-filters="sRGB">
+		<filter id="filter1204" x="-.096005" y="-.095995" width="1.192" height="1.192">
 			<feGaussianBlur id="feGaussianBlur1206" stdDeviation="0.6267086"/>
 		</filter>
 	</defs>
@@ -358,7 +357,7 @@
 				</g>
 			</g>
 		</g>
-		<path id="circle8-4" transform="matrix(.75 0 0 -.75 208.14 248.95)" d="m17.198 2.7699c-7.9619 0-14.428 6.4658-14.428 14.428 0 7.9619 6.4658 14.426 14.428 14.426 7.9619 0 14.428-6.4639 14.428-14.426 0-7.9619-6.4658-14.428-14.428-14.428zm0 1c7.4215 0 13.428 6.0063 13.428 13.428 0 7.4215-6.0063 13.426-13.428 13.426-7.4215 0-13.428-6.0043-13.428-13.426 0-7.4214 6.0063-13.428 13.428-13.428z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ffdb8f" filter="url(#filter1200)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path id="circle8-4" transform="matrix(.75 0 0 -.75 208.14 248.95)" d="m17.198 2.7699c-7.9619 0-14.428 6.4658-14.428 14.428 0 7.9619 6.4658 14.426 14.428 14.426 7.9619 0 14.428-6.4639 14.428-14.426 0-7.9619-6.4658-14.428-14.428-14.428zm0 1c7.4215 0 13.428 6.0063 13.428 13.428 0 7.4215-6.0063 13.426-13.428 13.426-7.4215 0-13.428-6.0043-13.428-13.426 0-7.4214 6.0063-13.428 13.428-13.428z" fill="#ffdb8f" filter="url(#filter1200)"/>
 		<g id="g272-2-2" transform="matrix(.99998 0 0 .99998 241.11 -11.1)" fill="url(#radialGradient1879)" filter="url(#filter1204)">
 			<g id="g274-1-7" fill="url(#radialGradient1879)">
 				<g id="g280-3-0" fill="url(#radialGradient1879)">
