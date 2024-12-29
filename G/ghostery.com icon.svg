@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 657 657" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="background-color:white">
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 657 657" xmlns="http://www.w3.org/2000/svg"  xml:space="preserve" style="background-color:white">
     <title>Ghostery</title>
     <g fill="none" transform="translate(105 78)">
         <path d="m377 209.5c0 83.118594-67.829123 150.5-151.5 150.5-83.670878 0-151.5-67.381406-151.5-150.5 0-83.118595 67.829122-150.5 151.5-150.5 83.670877 0 151.5 67.381405 151.5 150.5" fill="#fff"/>
