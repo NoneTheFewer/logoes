@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 100 300" id="logo-figure" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 100 300" id="logo-figure" xmlns="http://www.w3.org/2000/svg"  xml:space="preserve">
 	<g id="moserv-logo">
 		<g id="shadow">
 			<path id="s-top-sig" fill="none" stroke="#B1B3B6" stroke-width="14" stroke-linecap="round" d="M11.867,46.261 c0,0,24.145-52.78,77.197-12.352" />
