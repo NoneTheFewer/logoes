@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1200" xml:space="preserve">
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1200 1200" xml:space="preserve">
 	<title>Fae Farm</title>
 	<path fill="#111111" d="M0,0h1200v1200H0V0z"/>
 	<path fill="#FFFFFF" d="M952.6,466.4l-111.9-75.6L624.4,160.3L792.2,484l-124.6-64.9L515,232l-42.4,37.5
