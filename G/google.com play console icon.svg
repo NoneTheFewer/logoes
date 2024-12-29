@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 256 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+<svg viewBox="0 0 256 283" version="1.1" xmlns="http://www.w3.org/2000/svg"  preserveAspectRatio="xMidYMid">
     <title>Google Play Console</title>
     <g>
         <path d="M0,251.172514 L0,31.3252701 C0,7.24403011 26.3675454,-7.80674488 47.4739401,4.24270254 L240.176825,114.161911 C261.274392,126.202531 261.274392,156.286426 240.176825,168.318218 L47.4739401,278.246254 C26.3763728,290.286874 0,275.244927 0,251.172514 Z" fill="#2F80ED"></path>

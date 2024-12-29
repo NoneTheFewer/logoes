@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg enable-background="new" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+<svg enable-background="new" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
     <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="7.99999" x2="119.99999" y1="103.9999975" y2="103.9999975">
         <stop offset="0" stop-color="#d5d3cf"/>
         <stop offset="0.03571428" stop-color="#e4e1de"/>
