@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6159.69 1115.5">
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 6159.69 1115.5">
 	<rect fill="lightgrey" width="100%" height="100%" />
     <g id="surface1">
         <path name="globe" style=" stroke:none;fill-rule:evenodd;fill:rgb(87.449646%,47.842407%,10.980225%);fill-opacity:1;" d="M 2745.441406 554.308594 C 2747.019531 246.628906 2997.699219 -1.539063 3305.191406 0.0117188 C 3612.96875 1.460938 3861.019531 252.078125 3859.621094 559.78125 C 3858.03125 867.371094 3607.539063 1115.53125 3299.738281 1114.058594 C 2992.230469 1112.53125 2743.980469 861.910156 2745.441406 554.308594 " />

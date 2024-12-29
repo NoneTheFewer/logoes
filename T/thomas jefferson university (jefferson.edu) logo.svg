@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 586 169" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 586 169" version="1.1">
 <defs>
 <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="52.4" cy="3.4" fx="52.4" fy="3.4" r="59.4" gradientTransform="matrix(2.344,0,0,2.347222,0,0)">
 <stop offset="0" style="stop-color:rgb(34.509804%,71.764706%,86.666667%);stop-opacity:1;"/>
