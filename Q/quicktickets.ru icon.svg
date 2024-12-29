@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" id="Quick_Tickets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2000 2000" xml:space="preserve">
+<svg version="1.2" baseProfile="tiny-ps" id="Quick_Tickets" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2000 2000" xml:space="preserve">
 <title>Quick Tickets Logo</title>
 <path fill="#F37334" d="M569.02,854.37c24.79,0,183.45,0,193.36,0c0,44.62,0,69.41-14.87,79.33c-14.87,9.92-29.75,9.92-29.75,9.92
 	v282.61H613.64l-4.96-282.61c0,0-9.92,0-24.79-9.92C569.02,923.78,569.02,903.95,569.02,854.37z"/>
