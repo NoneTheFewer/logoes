@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="a" viewBox="0 0 800 327">
+<svg xmlns="http://www.w3.org/2000/svg"  id="a" viewBox="0 0 800 327">
   <defs>
     <style>.c{fill:#b41227;}.c,.d{stroke-width:0px;}.d{fill:url(#b);}</style>
     <linearGradient id="b" x1="609.59" y1="160.53" x2="803.42" y2="108.59" gradientUnits="userSpaceOnUse">
