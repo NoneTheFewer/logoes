@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" id="Toro" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 195 195" xml:space="preserve">
+<svg version="1.2" baseProfile="tiny-ps" id="Toro" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 195 195" xml:space="preserve">
 <title> Toro </title>
 <path fill-rule="evenodd" fill="#553F91" d="M92.62,187.081v-45.055c0-0.485-0.565-0.761-0.968-0.471 c-23.016,16.581-49.211,31.697-78.017,44.995c-0.582,0.27-0.385,1.121,0.261,1.121h78.116 C92.348,187.67,92.62,187.404,92.62,187.081"/>
 <path fill-rule="evenodd" fill="#553F91" d="M185.862,7.494c0.284-0.391-0.006-0.931-0.496-0.931H66.719 c-34.624,0-62.693,27.031-62.693,60.374v56.52c0,0.405,0.409,0.689,0.803,0.559C85.764,97.548,150.209,56.252,185.862,7.494"/>
