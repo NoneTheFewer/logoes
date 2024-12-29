@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" id="l1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg version="1.2" baseProfile="tiny-ps" id="l1" xmlns="http://www.w3.org/2000/svg" 
    viewBox="0 0 50 50" xml:space="preserve">
 <title>Billetto ApS</title>
 <path fill="#FF3EA5" d="M0,0v25h8.1c0-9.3,7.6-16.9,16.9-16.9S41.9,15.7,41.9,25H50V0H0z"/>
