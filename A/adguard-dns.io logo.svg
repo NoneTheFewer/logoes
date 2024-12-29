@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 160 28" id="main-logo">
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 160 28" id="main-logo">
         <circle cx="17.359" cy="14" fill="#fff" r="9.66" />
         <path clip-rule="evenodd" d="M8.12 7.97A9.26 9.26 0 0 1 17.36 0a9.26 9.26 0 0 1 9.24 7.97 9.2 9.2 0 0 1 8.12 9.07 9.23 9.23 0 0 1-9.32 9.15 9.5 9.5 0 0 1-2.44-.32A9.38 9.38 0 0 1 16.98 28c-2.2 0-4.22-.75-5.81-2A9.23 9.23 0 0 1 0 17.04a9.2 9.2 0 0 1 8.12-9.07z" fill="#3c81f6" fill-rule="evenodd" />
         <path clip-rule="evenodd" d="M11.23 13.06a1.64 1.64 0 0 1 2.32-.02l3.81 3.75 3.81-3.75a1.63 1.63 0 1 1 2.3 2.32l-4.96 4.88c-.64.62-1.66.62-2.3 0l-4.96-4.87a1.63 1.63 0 0 1-.02-2.3z" fill="#f8f9fa" fill-rule="evenodd" />
