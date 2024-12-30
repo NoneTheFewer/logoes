@@ -27,7 +27,6 @@
 		<linearGradient id="cvfb" x1="20.1" x2="32.6" y1="-202" y2="-124" gradientUnits="userSpaceOnUse" xlink:href="#cvfc" inkscape:collect="always"/>
 	</defs>
 	<sodipodi:namedview id="cvfk" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="128.47469" inkscape:cy="454.39147" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1014" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="0.7" pagecolor="#ffffff" showgrid="false"/>
-	<title>PPSSPP logo</title>
 	<g transform="translate(0 -540)" inkscape:groupmode="layer" inkscape:label="Layer 1">
 		<g transform="matrix(1.1 0 0 1.1 -8.76 1020)" style="fill:url(#cvfi);filter:url(#cvfj)">
 			<path d="m267-422 26.6 117-56.6 91-90.2-57.5-26.6-117z" style="fill:url(#cvfb)" inkscape:connector-curvature="0" inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png" inkscape:export-xdpi="135" inkscape:export-ydpi="135" sodipodi:nodetypes="cccccc"/>
