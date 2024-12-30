@@ -6,7 +6,7 @@
 		<inkscape:perspective id="perspective2824" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
 		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective5479"/>
 		<pattern id="pattern4748" patternTransform="translate(242,112.92468)" height="812.375" width="93" patternUnits="userSpaceOnUse">
-			<path style="color:#000000;fill:#d60000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m 0,0 0,777.0625 c 29.46561,14.70783 60.57717,26.60657 93,35.3125 -0.0104,-26.62364 -0.17613,-444.88483 0,-646.84375 l 0,-0.0312 C 91.31692,98.32015 63.79512,29.18356 0,0 z" id="path4732" sodipodi:nodetypes="cccccc"/>
+			<path style="fill:#d60000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;display:inline" d="m 0,0 0,777.0625 c 29.46561,14.70783 60.57717,26.60657 93,35.3125 -0.0104,-26.62364 -0.17613,-444.88483 0,-646.84375 l 0,-0.0312 C 91.31692,98.32015 63.79512,29.18356 0,0 z" id="path4732" sodipodi:nodetypes="cccccc"/>
 		</pattern>
 		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective4048"/>
 		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective4034"/>

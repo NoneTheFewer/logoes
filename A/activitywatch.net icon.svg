@@ -11,18 +11,18 @@
 	</sodipodi:namedview>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
 		<ellipse style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10.045784;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path3336" cx="400" cy="452.36221" rx="99.977112" ry="99.977104"/>
-		<flowRoot xml:space="preserve" id="flowRoot4343" style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" transform="matrix(5.7060814,0,0,5.7060814,-1556.2405,-2292.424)">
+		<flowRoot xml:space="preserve" id="flowRoot4343" style="fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" transform="matrix(5.7060814,0,0,5.7060814,-1556.2405,-2292.424)">
 			<flowRegion id="flowRegion4345">
 				<rect id="rect4347" width="140" height="50" x="330" y="462.36221" style="fill:#000000;fill-opacity:0.58823532;"/>
 			</flowRegion>
-			<flowPara id="flowPara4349" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;">A</flowPara>
-			<flowPara style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;" id="flowPara4384"/>
+			<flowPara id="flowPara4349" style="fill:#000000;fill-opacity:0.58823532;">A</flowPara>
+			<flowPara style="fill:#000000;fill-opacity:0.58823532;" id="flowPara4384"/>
 		</flowRoot>
-		<flowRoot xml:space="preserve" id="flowRoot4343-1" style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" transform="matrix(4.4828404,0,0,4.4828404,-1083.8281,-1646.3271)">
+		<flowRoot xml:space="preserve" id="flowRoot4343-1" style="fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" transform="matrix(4.4828404,0,0,4.4828404,-1083.8281,-1646.3271)">
 			<flowRegion id="flowRegion4345-9">
 				<rect id="rect4347-0" width="140" height="50" x="330" y="462.36221" style="fill:#000000;fill-opacity:0.58823532;"/>
 			</flowRegion>
-			<flowPara style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;" id="flowPara4380">W</flowPara>
+			<flowPara style="fill:#000000;fill-opacity:0.58823532;" id="flowPara4380">W</flowPara>
 		</flowRoot>
 		<circle style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4335" cx="400" cy="452.36221" r="9.9999905"/>
 		<path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 400,452.3622 -59,54" id="path4341" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>

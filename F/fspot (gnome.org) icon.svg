@@ -88,6 +88,6 @@
 	</g>
 	<g clip-path="url(#clipPath6018)" id="g6006" transform="translate(-0.4,0)">
 		<path clip-path="none" id="path6008" d="M 47.1309,279.2725 L 7.5352,167.0962 L 118.9014,127.7905 L 158.4942,239.9731 L 47.1309,279.2725 z " style="fill:url(#linearGradient6029);fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:2.21790004;stroke-miterlimit:4;stroke-opacity:1" mask="none"/>
-		<path clip-path="none" id="path6010" d="M 75.7285,262.8047 L 40.1416,161.9604 L 115.2344,135.457 L 150.8282,236.3071 L 75.7286,262.8047 L 75.7285,262.8047 z " style="color:black;fill:url(#linearGradient6031);fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:1.62650001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" mask="none"/>
+		<path clip-path="none" id="path6010" d="M 75.7285,262.8047 L 40.1416,161.9604 L 115.2344,135.457 L 150.8282,236.3071 L 75.7286,262.8047 L 75.7285,262.8047 z " style="fill:url(#linearGradient6031);fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:1.62650001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" mask="none"/>
 	</g>
 </svg>

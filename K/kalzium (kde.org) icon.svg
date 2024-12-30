@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
-
 <!-- Created with Sodipodi ("https://sourceforge.net/projects/sodipodi/") -->
-<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0" y="0" id="svg559">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 160 160" version="1.0" x="0" y="0" id="svg559">
 	<defs id="defs561">
 		<linearGradient id="linearGradient576">
 			<stop style="stop-color:#02000d;stop-opacity:0.6039;" offset="0" id="stop577"/>
@@ -15,7 +14,7 @@
 		<radialGradient cx="0.500000" cy="0.953125" r="0.745410" fx="0.500000" fy="0.953125" id="radialGradient574" xlink:href="#linearGradient570"/>
 		<radialGradient cx="0.500000" cy="0.953125" r="0.745410" fx="0.500000" fy="0.953125" id="radialGradient579" xlink:href="#linearGradient576"/>
 	</defs>
-	<g transform="matrix(1.095346,0,0,1.095346,-287.5354,-381.0181)" style="font-size:12.000;" id="g597">
+	<g transform="matrix(1.095346,0,0,1.095346,-287.5354,-381.0181)" style="" id="g597">
 		<g transform="translate(3.526687,-2.015259)" id="g583">
 			<ellipse cx="297.5000" cy="418.6122" rx="30.00000" ry="30.00000" transform="translate(72.49998,-36.25000)" style="fill:#0000b3;fill-rule:evenodd;stroke-width:1.000000;" id="path564"/>
 			<ellipse cx="297.5000" cy="418.6122" rx="30.00000" ry="30.00000" transform="matrix(0.441423,0.123349,-8.410152e-2,0.300970,280.1325,205.3008)" style="fill:#ffffff;fill-opacity:0.456700;fill-rule:evenodd;stroke-width:1.000000;" id="path565"/>

@@ -11,7 +11,7 @@
 			<stop offset="1" stop-color="#91bf23"/>
 		</linearGradient>
 	</defs>
-	<g style="isolation:isolate">
+	<g style="">
 		<g id="Layer_2" data-name="Layer 2">
 			<g id="Layer_1-2" data-name="Layer 1">
 				<path d="M 51.47,5.12 L 67.47,31.52 A 4.83,4.83 0.0 0,1 66.58,37.59 L 37.33,64.11 A 4.8,4.8 0.0 0,1 30.86,64.11 L 1.58,37.59 A 4.81,4.81 0.0 0,1 0.7,31.52 L 16.7,5.12 A 4.82,4.82 0.0 0,1 20.84,2.8 L 47.36,2.8 A 4.8,4.8 0.0 0,1 51.47,5.12" style="fill:#fff"/>

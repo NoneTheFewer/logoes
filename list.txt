@@ -1,0 +1,222 @@
+aardvarkians.com logo.svg
+accellion.com logo.svg
+accumulo.apache.org logo.svg
+activemq.apache.org logo.svg
+agitos.de logo.svg
+airavata.apache.org logo.svg
+aito.com logo.svg
+alegra.com logo.svg
+alpa (github) logo.svg
+alphabank.ro logo.svg
+alphago (deepmind.google) logo.svg
+amcon.com logo.svg
+animeschedule.net icon old.svg
+asterixdb.apache.org logo.svg
+aurora.apache.org logo.svg
+avertium.com logo.svg
+axium (ws.apache.org) logo.svg
+bank of hope (ir-hopebancorp.com) logo.svg
+bdrsuite (vembu.com) logo.svg
+bio-key.com logo.svg
+blekko.com logo.svg
+blissfully.com logo.svg
+bootstrap (getbootstrap.com) logo.svg
+bootstrap-table.com icon.svg
+boxielockers.com logo.svg
+bruit.io logo.svg
+bugreplay.com logo.svg
+buskill.in logo.svg
+carbondata.apache.org logo.svg
+cbbank.com logo.svg
+censinet.com logo.svg
+checkpoint.com avanan logo.svg
+cirrus partners (gocirrus.com) logo.svg
+clippercard.com icon.svg
+cocoon.apache.org logo.svg
+codecept.io logo.svg
+codereview (github) icon.svg
+cogadb.dfki.de logo.svg
+collegevidya.com logo.svg
+commercejs.com icon.svg
+commonwl.org logo.svg
+concentrator.aladdin.club logo.svg
+conservador.cl logo.svg
+contentguru.com logo.svg
+cutter.re icon.svg
+cve.mitre.org logo.svg
+cybonet.com logo old.svg
+dapperdox.io icon.svg
+dartmouth.edu logo.svg
+deltaspike.apache.org logo.svg
+derby (db.apache.org) logo.svg
+devicefarmer.github.io logo.svg
+devuan.org logo.svg
+dfstoryteller.com icon.svg
+directorist.com logo.svg
+displayport.org logo.svg
+divvyhq.com logo.svg
+easeus.com logo.svg
+easyvista.com logo.svg
+eatstreet.com logo.svg
+eik.is both.svg
+ekxide.io logo.svg
+elevatesaas.com logo.svg
+emergentfinancial.github.io logo.svg
+emmet.io logo.svg
+epsoftinc.com logo.svg
+esign (squidsoft.tech) logo.svg
+exosite.com icon.svg
+fastapi.tiangolo.com logo.svg
+fatbit.com logo.svg
+felix.apache.org logo.svg
+fitfinder (thefitfinder.co.uk) logo.svg
+flakesbakes.com.au logo.svg
+flowmattic.com logo.svg
+fnbli.com logo.svg
+focuscommit.com logo.svg
+focussoftnet.com logo.svg
+forsvarsakademiet (fak.dk) logo.svg
+forwardemail.net logo.svg
+foswiki.org logo.svg
+futurepay.com logo.svg
+g2.com track icon.svg
+germainux.com logo.svg
+gfdl (gnu.org) logo.svg
+glauca.digital icon.svg
+gnome.org characters icon.svg
+gobankingrates.com icon.svg
+gogift.io logo.svg
+google.com cloud print logo.svg
+grazitti.com logo.svg
+hanami.run logo.svg
+heaptrack (kde.org) icon.svg
+hlb.be logo.svg
+hopla.tech logo.svg
+hsagroup.com logo.svg
+img.vision icon.svg
+inpixon.com logo.svg
+iqmetrix.com logo.svg
+jindb (github) icon.svg
+jobsinmalta.com logo.svg
+just-medical.com icon.svg
+justcast.com logo.svg
+kaleidahealth.org logo.svg
+kapitan.dev logo.svg
+kbruch (kde.org) icon.svg
+keiseruniversity.edu seal.svg
+khangman (kde.org) icon.svg
+kigo.net logo.svg
+kile (kde.org) icon.svg
+knol.google.com logo.svg
+kwave (kde.org) icon.svg
+kylin.apache.org logo.svg
+lakesidesoftware.com logo.svg
+lala.com.mx logo.svg
+lens.apache.org logo.svg
+lettranslate.com logo.svg
+lingo-db.com icon.svg
+linx.com.br smart api logo.svg
+litedb.org icon.svg
+lollypop (gnome.org) icon.svg
+lumificyber.com logo.svg
+marble (kde.org) icon.svg
+mediasmart.io logo.svg
+messangi.com logo.svg
+mfd.ru logo.svg
+middlemanapp.com logo.svg
+midjourney.com logo.svg
+myespresso.com logo.svg
+mynewt.apache.org logo.svg
+nalgebra.org logo.svg
+neliosoftware.com icon.svg
+nemo.apache.org logo.svg
+nestle.com logo.svg
+nethackwiki.com logo.svg
+netvagas.com.br icon old.svg
+nping (nmap.org) logo.svg
+officetimeline.com logo.svg
+omni3tech.com logo.svg
+oneidentity.com logo.svg
+openi.org.cn logo.svg
+openi.pcl.ac.cn logo.svg
+openmeetings.apache.org logo.svg
+opennlp.apache.org logo.svg
+openoffice.apache.org logo.svg
+openssl.org logo.svg
+openstreetmap.org icon.svg
+openwhisk.apache.org icon.svg
+paimon.apache.org logo.svg
+pallas (github) logo.svg
+panopto.com logo.svg
+pebble (github) logo.svg
+picreel.com logo.svg
+pilgway.com logo.svg
+pipilika.com logo.svg
+pld-linux.org logo old.svg
+pointerpro.com logo.svg
+powerbi.microsoft.com icon.svg
+powerpivotpro.com logo.svg
+precice.org logo.svg
+proassurance.com logo.svg
+propersoft.net logo.svg
+proprofs.com logo.svg
+proprofskb.com logo.svg
+purespectrum.com logo.svg
+pvfviewer (kde.org) icon.svg
+qemu.org logo.svg
+rafa.org.uk logo.svg
+rapidjson.org logo.svg
+ravetree.com logo.svg
+realgeeks.com logo.svg
+recommend.com icon.svg
+redixdb (github) logo.svg
+responsive.io logo.svg
+revdebug.com logo.svg
+reviewsnap.com logo.svg
+robin.io logo.svg
+roguecc.edu seal.svg
+rubatodb.com logo.svg
+safari (apple.com) logo.svg
+saint meinrad seminary and school of theology (saintmeinrad.edu) seal.svg
+salonbiz.com logo old.svg
+sandboxaq.com logo.svg
+scandza.com logo.svg
+scientificlinux.org logo.svg
+senseon.io logo.svg
+serenede.com logo.svg
+shoppy.gg logo.svg
+skydrive.live.com logo.svg
+skysilk.com logo.svg
+slackware.com logo.svg
+slimey.sourceforge.net logo.svg
+smartscanner (thesmartscanner.com) icon.svg
+sofastack.tech logo.svg
+solisenergy.com logo.svg
+solus (getsol.us) logo.svg
+startmeeting.com logo.svg
+stealth.net logo.svg
+styled-components.com logo.svg
+surfeasy.com logo.svg
+sweethawk.com logo.svg
+søb.org logo.svg
+tatic.io logo.svg
+tcpipelineslp.com logo.svg
+teaclave.apache.org logo.svg
+tenable.sc plus logo.svg
+tensorflow.org logo.svg
+tika.apache.org logo.svg
+tokodon (kde.org) icon.svg
+totalvalidator.com logo.svg
+toucan (github) logo.svg
+uchat.au logo.svg
+valkey.io logo.svg
+vitalrecordsonline.com logo.svg
+vpn lite (keepsolid.com) logo.svg
+xalan.apache.org logo.svg
+xanterra.com logo.svg
+xenioo.com logo.svg
+xmlgraphics.apache.org logo.svg
+xpand (angrypandacoin.com) logo.svg
+yetus.apache.org logo.svg
+zendesign.com.tr logo.svg
+zygote.com human factors logo.svg
