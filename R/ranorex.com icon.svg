@@ -28,7 +28,7 @@
 			<stop offset="1" stop-color="#fff" stop-opacity=".9"/>
 		</linearGradient>
 	</defs>
-	<g style="isolation:isolate">
+	<g style="">
 		<g id="Ebene_2" data-name="Ebene 2">
 			<g id="Layer_1" data-name="Layer 1">
 				<path fill-rule="evenodd" d="M 136.8,27.94 L 88.5,27.94 L 64.35,69.77 L 88.5,111.6 L 136.8,111.6 L 160.95,69.77 L 136.8,27.94 L 136.8,27.94"/>

@@ -13,18 +13,18 @@
 		<path d="M7.21 220.26l31.684 20.902" fill="none" stroke="#152e44" stroke-width=".65"/>
 		<path d="M4.1 211.87c2.005 2.786 8.338 10.643 10.64 12.985" fill="none" stroke="#e5b828" stroke-width=".5"/>
 		<path d="M126.79 222.99l-19.683 5.138" fill="#0f212e" stroke="#1b344c" stroke-width=".3"/>
-		<path d="M124.68 212.54l-20.638 28.575-12.435-29.633" fill="none" stroke="#326a9c" style="font-variation-settings:normal"/>
+		<path d="M124.68 212.54l-20.638 28.575-12.435-29.633" fill="none" stroke="#326a9c" style=""/>
 		<path d="M89.88 208.57l12.521 30.631" fill="none" stroke="#e5b828" stroke-width=".514"/>
 		<path d="M73.966 274.73l29.334-33.297" fill="#1b344b" stroke="#326a9c" stroke-width=".6"/>
-		<path d="M83.873 249.96l15.214 25.532" fill="#326a9c" stroke="#326a9c" stroke-width=".8" style="font-variation-settings:normal"/>
+		<path d="M83.873 249.96l15.214 25.532" fill="#326a9c" stroke="#326a9c" stroke-width=".8" style=""/>
 		<path d="M85.53 293.66l-11.383-18.655" fill="none" stroke="#19344e" stroke-width=".6"/>
 		<g fill="#0a2035">
 			<g stroke="#0a2035">
-				<path d="M99.086 275.49l-24.672 10.385" stroke-width=".8" style="font-variation-settings:normal"/>
-				<path d="M62.045 291.24l12.369-5.358" stroke-width=".4" style="font-variation-settings:normal"/>
-				<path d="M106.89 280.52l-7.938-4.366" stroke-width=".8" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+				<path d="M99.086 275.49l-24.672 10.385" stroke-width=".8" style=""/>
+				<path d="M62.045 291.24l12.369-5.358" stroke-width=".4" style=""/>
+				<path d="M106.89 280.52l-7.938-4.366" stroke-width=".8" style=""/>
 			</g>
-			<path d="M99.219 275.63l22.357-51.197" stroke="#10273c" stroke-width=".8" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+			<path d="M99.219 275.63l22.357-51.197" stroke="#10273c" stroke-width=".8" style=""/>
 		</g>
 		<g fill="none">
 			<path d="M38.633 242.29l-19.785 27.853" stroke="#152e44" stroke-width=".64"/>

@@ -23,7 +23,7 @@
 		<linearGradient id="linear-gradient-6" x1="627.41998" y1="554.45001" x2="351.38" y2="472.28" xlink:href="#linear-gradient-4"/>
 	</defs>
 	<g transform="translate(-94.389956,-137.39105)" id="layer1">
-		<g id="g912" transform="matrix(0.05535021,0,0,0.05535021,88.573756,137.39108)" style="isolation:isolate">
+		<g id="g912" transform="matrix(0.05535021,0,0,0.05535021,88.573756,137.39108)" style="">
 			<path id="path46" transform="translate(-188.17,-200)" d="m 679,510.12 c 0,0.09 0,0.09 -0.19,0.19 a 0.91,0.91 0 0 0 0.09,-0.48 0.34,0.34 0 0 1 0.1,0.29 z" class="cls-2" style="fill:#2d2b70"/>
 			<path id="path48" transform="translate(-188.17,-200)" d="m 678.89,509.83 a 0.91,0.91 0 0 1 -0.09,0.48 c 0.19,-0.1 0.19,-0.1 0.19,-0.19 a 0.34,0.34 0 0 0 -0.1,-0.29 z" class="cls-2" style="fill:#2d2b70"/>
 			<path id="path50" transform="translate(-188.17,-200)" d="m 679,510.12 c 0,0.09 0,0.09 -0.19,0.19 a 0.91,0.91 0 0 0 0.09,-0.48 0.34,0.34 0 0 1 0.1,0.29 z" class="cls-2" style="fill:#2d2b70"/>

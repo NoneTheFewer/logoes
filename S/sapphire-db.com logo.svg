@@ -1366,8 +1366,8 @@
 		<use height="100%" width="100%" id="use2388" y="281.25443" x="359.4574" xlink:href="#glyph1-8"/>
 		<use height="100%" width="100%" id="use2390" y="281.25443" x="386.38531" xlink:href="#glyph1-9"/>
 	</g>
-	<g transform="matrix(0.06400266,0,0,0.06457378,-9.1809177,-2.9838186)" style="isolation:isolate;stroke-width:15.5551033" clip-path="url(#_clipPath_leWDtftz2FAvEGphNWw2TRALiEItmbsZ)" id="g4625">
-		<g style="isolation:isolate;stroke-width:15.5551033" id="g4594">
+	<g transform="matrix(0.06400266,0,0,0.06457378,-9.1809177,-2.9838186)" style="stroke-width:15.5551033" clip-path="url(#_clipPath_leWDtftz2FAvEGphNWw2TRALiEItmbsZ)" id="g4625">
+		<g style="stroke-width:15.5551033" id="g4594">
 			<mask id="mask5214" x="-200%" y="-200%" width="400%" height="400%">
 				<rect x="-200%" y="-200%" width="400%" height="400%" style="fill:#ffffff" id="rect5210"/>
 				<path style="fill:#000000;fill-rule:evenodd;stroke:none" inkscape:connector-curvature="0" d="M 276.667,61.763 394.333,268.28 H 159 Z" id="path5212"/>
@@ -1399,7 +1399,7 @@
 			<path style="vector-effect:non-scaling-stroke;fill:#0077a3;fill-rule:evenodd;stroke:#0077a3;stroke-width:31.1102066;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.41400003" inkscape:connector-curvature="0" d="M 394.333,268.28 276.667,61.763 H 512 Z" mask="url(#_mask_5lnq1IuVRuiuyNbhIqNGs3fW18uwJDP8)" stroke-miterlimit="1.414" id="path4590"/>
 			<path style="fill:#0077a3;fill-rule:evenodd;stroke-width:15.5551033" inkscape:connector-curvature="0" d="M 394.333,268.28 276.667,61.763 H 512 Z" id="path4592"/>
 		</g>
-		<g style="isolation:isolate;stroke-width:15.5551033" id="g4623">
+		<g style="stroke-width:15.5551033" id="g4623">
 			<mask id="mask5255" x="-200%" y="-200%" width="400%" height="400%">
 				<rect x="-200%" y="-200%" width="400%" height="400%" style="fill:#ffffff" id="rect5251"/>
 				<path style="fill:#000000;stroke:none" inkscape:connector-curvature="0" d="M 629.667,268.28 H 865 L 512,962.237 v 0 z" id="path5253"/>

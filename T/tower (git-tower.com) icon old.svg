@@ -41,7 +41,7 @@
 		<linearGradient id="Neues_Verlaufsfeld_1-3" x1="10.55" y1="21.89" x2="18.22" y2="8.59" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Neues_Verlaufsfeld_1"/>
 		<linearGradient id="Unbenannter_Verlauf_5-4" x1="5.34" y1="2.46" x2="24.67" y2="2.46" gradientTransform="translate(0 0)" xlink:href="#Unbenannter_Verlauf_5"/>
 	</defs>
-	<g style="isolation: isolate">
+	<g style="">
 		<g id="Layer_1" data-name="Layer 1">
 			<g>
 				<rect x="0.19" y="0.05" width="29.62" height="29.89" fill="none"/>

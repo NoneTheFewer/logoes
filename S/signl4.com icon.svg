@@ -14,5 +14,5 @@
 	<circle cx="85.99" cy="42.61" r="15.16" transform="rotate(-22.5 85.99 42.608)" class="cls1"/>
 	<circle cx="85.99" cy="85.24" r="15.16" transform="rotate(-22.5 85.999 85.257)" class="cls1"/>
 	<circle cx="41.87" cy="85.24" r="15.16" transform="rotate(-22.5 41.868 85.232)" class="cls1"/>
-	<circle cx="41.87" cy="42.61" r="15.16" transform="rotate(-13.28 41.88 42.619)" style="isolation:isolate" class="cls2"/>
+	<circle cx="41.87" cy="42.61" r="15.16" transform="rotate(-13.28 41.88 42.619)" style="" class="cls2"/>
 </svg>
