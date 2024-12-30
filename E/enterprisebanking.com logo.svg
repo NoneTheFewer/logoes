@@ -1,5 +1,5 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1577 255">
-	<title>brand_logo-svg</title>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1577 255">
 	<defs>
 		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
 			<path d="m118.28 0.3h-118.03v152.07h236.06v-152.07h-118.03z"/>
@@ -16,7 +16,6 @@
 		<g id="Brand/Logo-Full-Horz-Light">
 			<g id="Layer">
 				<g id="Group-4">
-					
 					<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
 						<path id="Fill-1" fill-rule="evenodd" class="s0" d="m236.3 85.7c0 22.5-16.6 40.8-37.1 40.8h-80.3l-6.7 25.9-30.7-8.4 39.2-143.7h38.6c21.3 0 38.6 16.7 38.6 37.2q0 3.7-0.7 7.3h2c20.5 0 37.1 18.3 37.1 40.9zm-43-11.1h-60.5l-6 22.3h66.5c7.4 0 13.4-5 13.4-11.1 0-6.2-6-11.2-13.4-11.2zm-24.7-37.7c0-4.3-4.4-7.8-9.9-7.8h-13.8l-4.2 15.7h18c5.5 0 9.9-3.6 9.9-7.9z"/>
 					</g>
