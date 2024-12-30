@@ -10,11 +10,9 @@
 			fill: #FF0000;
 		}</style>
 	<g id="g7">
-		<title id="title9">background</title>
 		<rect x="-1" y="-1" width="122" height="122" id="canvas_background" fill="none"/>
 	</g>
 	<g id="g12">
-		<title id="title14">Layer 1</title>
 		<g id="g8">
 			<path class="st1" d="m122.686532,141.369932" id="path22" fill="#0070ba"/>
 			<g transform="translate(-3.8210437,-1.5254238)" id="g30">

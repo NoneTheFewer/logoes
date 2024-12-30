@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"  inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="WebM_logo.svg" version="1.1" viewBox="0 0 554 142">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="WebM_logo.svg" version="1.1" viewBox="0 0 554 142">
 	<defs>
 		<filter id="cvfc" color-interpolation-filters="sRGB" inkscape:collect="always">
 			<feGaussianBlur inkscape:collect="always" stdDeviation="0.82730657"/>
@@ -13,7 +13,6 @@
 			<stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 	</defs>
-	<title>WebM logo</title>
 	<g transform="translate(-88.7 -72.8)" inkscape:groupmode="layer" inkscape:label="Layer 1">
 		<path transform="matrix(2.12 0 0 2.12 417 106)" d="m39.5 24.7-38.4 22.2v-22.2-22.2l19.2 11.1z" style="fill-opacity:.287;filter:url(#cvfc)" inkscape:flatsided="false" inkscape:randomized="0" inkscape:rounded="0" sodipodi:arg1="0" sodipodi:arg2="1.0471976" sodipodi:cx="13.857143" sodipodi:cy="24.714287" sodipodi:r1="25.596954" sodipodi:r2="12.798477" sodipodi:sides="3" sodipodi:type="star"/>
 		<path transform="matrix(1.91 0 0 1.91 420 111)" d="m39.5 24.7-38.4 22.2v-22.2-22.2l19.2 11.1z" style="fill:url(#cvfb);stroke-linejoin:round;stroke-width:1.05;stroke:#366a04" inkscape:flatsided="false" inkscape:randomized="0" inkscape:rounded="0" sodipodi:arg1="0" sodipodi:arg2="1.0471976" sodipodi:cx="13.857143" sodipodi:cy="24.714287" sodipodi:r1="25.596954" sodipodi:r2="12.798477" sodipodi:sides="3" sodipodi:type="star"/>
