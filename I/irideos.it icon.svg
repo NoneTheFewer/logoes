@@ -1,18 +1,16 @@
-<svg id="Livello_1-simbol" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 66 66">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Livello_1-simbol" data-name="Livello 1" viewBox="0 0 66 66">
 	<defs>
 		<style>
 		.cls-1 {
 			fill: #fff;
 		}
-
 		.cls-2 {
 			fill: #006d41;
 		}
-
 		.cls-3 {
 			mask: url(#mask);
 		}
-
 		</style>
 		<mask id="mask" x="19.89" y="16.09" width="29" height="37" maskUnits="userSpaceOnUse">
 			<g id="mask-2">
@@ -20,7 +18,6 @@
 			</g>
 		</mask>
 	</defs>
-	<title>logo</title>
 	<g id="Simboli-logo">
 		<g id="_1280_menu_chiuso" data-name="1280/menu/chiuso">
 			<g id="Logo-_-Green" data-name="Logo-/-Green">
