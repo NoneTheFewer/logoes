@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg baseProfile="tiny-ps" version="1.2" viewBox="0 0 717 717" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<title>Mox Bank</title>
-<rect width="717" height="717"/>
-
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 717 717" xml:space="preserve">
+	<rect width="717" height="717"/>
 	<path d="m131.6 413.7v-68.7c0-22.3 18.1-40.4 40.4-40.4s40.4 18.1 40.4 40.4v68.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
 	<path d="m212.4 413.7v-68.7c0-22.3 18.1-40.4 40.4-40.4s40.4 18.1 40.4 40.4v68.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
-	
-		<circle cx="392.1" cy="358.7" r="54.3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+	<circle cx="392.1" cy="358.7" r="54.3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
 	<circle cx="553.5" cy="337.3" r="15"/>
 	<circle cx="553.6" cy="337.1" r="15" fill="#000101"/>
 	<circle cx="553.8" cy="337" r="15" fill="#000202"/>
@@ -263,9 +260,6 @@
 	<circle cx="586.1" cy="304.6" r="15" fill="#00F0FD"/>
 	<circle cx="586.3" cy="304.5" r="15" fill="#00F1FE"/>
 	<circle cx="586.4" cy="304.4" r="15" fill="#00F2FF"/>
-	
-		<line x1="477.6" x2="532" y1="413" y2="358.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
-	
-		<line x1="477.6" x2="586.3" y1="304.5" y2="413" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
-
+	<line x1="477.6" x2="532" y1="413" y2="358.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+	<line x1="477.6" x2="586.3" y1="304.5" y2="413" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
 </svg>
