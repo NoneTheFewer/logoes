@@ -15,11 +15,9 @@
 		</clipPath>
 	</defs>
 	<g>
-		<title>background</title>
 		<rect x="-1" y="-1" width="167" height="142" id="canvas_background" fill="none"/>
 	</g>
 	<g>
-		<title>Layer 1</title>
 		<g id="svg_2">
 			<g id="g296" transform="matrix(1.3333333,0,0,-1.3333333,0,960) ">
 				<path id="path298" d="m94.554101,710.072549c1.045,-0.572 2.892,-1.582 3.936,-2.152c0.429,-0.235 1.126,-0.235 1.555,0l3.936,2.152c0.429,0.232 0.429,0.615 0,0.85l-3.936,2.152c-0.429,0.234 -1.126,0.234 -1.555,0l-3.936,-2.152c-0.431,-0.235 -0.431,-0.618 0,-0.85" fill-rule="nonzero" fill="#518db5"/>
