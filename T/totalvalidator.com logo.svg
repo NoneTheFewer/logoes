@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0,0,292,70">
-	<title>Total Validator Header</title>
 	<style>
     :root { color-scheme: light dark; color:white;}
     @media (prefers-color-scheme: dark) {
