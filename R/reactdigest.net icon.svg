@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" fill="#ffffff" viewBox="0 0 500 500" version="1.2" baseProfile="tiny-ps">
-	<title>React Digest</title>
 	<path d="M 0,25 H 500 V 475 H 0 Z" id="path1"/>
 	<path d="M -0.003906,25 H 499.99609 V 475 H -0.003906 Z" id="path2"/>
 	<path d="M -0.003906,26.3775 H 497.49609 v 447.245 H -0.003906 Z" id="path3"/>
